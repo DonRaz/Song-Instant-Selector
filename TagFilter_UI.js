@@ -50,7 +50,6 @@ export default class TagFilter {
 
 
 
-        console.log("HEYYY ---- TagFilter UI Createfilterelement");
         // Create div for tag catalog
         this.tagCatalogElement = document.getElementById('tag-catalog');
 

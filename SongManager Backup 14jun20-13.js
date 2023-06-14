@@ -4,17 +4,11 @@ import SongListItemUI from './SongList_UI.js';
 
 export default class SongManager {
     constructor(songs) {
-        this.allSongs = songs; 
-        this.filteredByTagsSongs = songs; // Using it to prevent additional computations. (don't need to go over the entire DB when adding constraint)
-
-        this.isBpmFilterActive = true;
+        this.allSongs = songs;
         this.bpmRange = [60, 140]; // Default BPM range
-
-        this.isBpmFilterActive=true;
         this.keyRange = ["3A", "4A", "5A", "4B"]
-
-
         this.activeTags = []; // Active tags
+        this.filteredByTagsSongs = songs;
         this.listOfSongs_UI = document.getElementById('songs');//'#song-list'
         this.listOfSongs_UI.addEventListener('click', (event) => this.handleListClick(event));
 
@@ -122,46 +116,22 @@ export default class SongManager {
     
 
     setBpmRange(bpmRange) {
-        // Activate / deactivate the filter
-        console.log("SongManager - bpmRange" + bpmRange);
-
-        if (typeof bpmRange === 'boolean') {
-            this.isBpmFilterActive = false
-        }
-        else{
-            // It's a number, and we want to filter according to it. 
-            this.isBpmFilterActive = true
-            //and update it obviously
-            this.bpmRange = bpmRange;
-        }
+        this.bpmRange = bpmRange;
         this.updateSongList();
     }
 
 
     setKeyRange(keyRange) {
-        // Activate / deactivate the fi
-        console.log("SongManager - setKeyRange" + keyRange);
-        if (typeof keyRange === 'boolean') {
-            this.isKeyFilterActive = false
-            console.log("SongManager - setKeyRange" + keyRange);
-        }
-        // It's a number, and we want to filter according to it. 
-        else{
-            this.isKeyFilterActive = true
-            //and update it obviously
-            this.keyRange = keyRange;
-        }
+        this.keyRange = keyRange;
         this.updateSongList();
     }
-
     applyTagsFilterToSongs(filterUsSongs){
         this.filteredByTagsSongs = filterUsSongs.filter(song => this.activeTags.every(tag => song.hasTag(tag)));
-        return this.filteredByTagsSongs
     }
 
     // Get songs within the BPM range
-    getSongsWithinBpmRange(applyBpmFilterToUs) {
-        return applyBpmFilterToUs.filter(song => song.isInBpmRange(this.bpmRange));
+    getSongsWithinBpmRange() {
+        return this.filteredByTagsSongs.filter(song => song.isInBpmRange(this.bpmRange));
     }
 
     getSongsWithinKeyRange(filterUsSongs) {
@@ -189,39 +159,6 @@ export default class SongManager {
 
 
     // __________________________________ Tags __________________________________ END
-
-
-    // Update the song list based on the current BPM range
-    updateSongList(energy = 4, popularity = 8) {
-        /* NOTE THAT THE DEFAULT canvas drawing of Energy=4 and Popularity=8 Are in GraphManager2D.initializeDefaultSelection*/
-        // Clear the existing song list
-        while (this.listOfSongs_UI.firstChild) {
-            this.listOfSongs_UI.removeChild(this.listOfSongs_UI.firstChild);
-        }
-
-        let newSongList = this.applyTagsFilterToSongs(this.filteredByTagsSongs);
-
-        if (this.isBpmFilterActive)
-            newSongList = this.getSongsWithinBpmRange(newSongList); //BPM Filter
-        
-        if (this.isKeyFilterActive)
-            newSongList = this.getSongsWithinKeyRange(newSongList); // Key Filter
-
-    
-        this.songCountDisplay.innerText = `${newSongList.length} results`;
-        this.sortingCriteriaDisplay.innerText= `↑↓ ⚡️ ${Math.round(energy)}, 💡 ${Math.round(popularity)}`;
-        // Sort songs based on their distance to the selected point
-        const sortedSongs = this.sortByProximity(energy, popularity, newSongList);
-
-        // Display sorted songs (only first 5)
-        sortedSongs.slice(0,30).forEach((song, index) => {
-            const songUI = new SongListItemUI(song);
-            const listItem = songUI.createCollapsedState();
-            listItem.dataset.index = index;
-            this.listOfSongs_UI.appendChild(listItem);
-        });
-    }
-
     distance(x1, y1, x2, y2) {
         return Math.sqrt(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2));
     }
@@ -233,6 +170,34 @@ export default class SongManager {
             return aDistance - bDistance;
         });
     }
+
+    // Update the song list based on the current BPM range
+    updateSongList(energy = 4, popularity = 8) {
+        /* NOTE THAT THE DEFAULT canvas drawing of Energy=4 and Popularity=8 Are in GraphManager2D.initializeDefaultSelection*/
+        // Clear the existing song list
+        while (this.listOfSongs_UI.firstChild) {
+            this.listOfSongs_UI.removeChild(this.listOfSongs_UI.firstChild);
+        }
+
+        this.applyTagsFilterToSongs(this.filteredByTagsSongs);
+        let songsFilteredByBPM = this.getSongsWithinBpmRange(); //BPM Filter
+        let songsFilteredByKey = this.getSongsWithinKeyRange(songsFilteredByBPM); // Key Filter
+
+    
+        this.songCountDisplay.innerText = `${songsFilteredByKey.length} results`;
+        this.sortingCriteriaDisplay.innerText= `↑↓ ⚡️ ${Math.round(energy)}, 💡 ${Math.round(popularity)}`;
+        // Sort songs based on their distance to the selected point
+        const sortedSongs = this.sortByProximity(energy, popularity, songsFilteredByKey);
+
+        // Display sorted songs (only first 5)
+        sortedSongs.slice(0,30).forEach((song, index) => {
+            const songUI = new SongListItemUI(song);
+            const listItem = songUI.createCollapsedState();
+            listItem.dataset.index = index;
+            this.listOfSongs_UI.appendChild(listItem);
+        });
+    }
+
     handleListClick(event) {
         // If the copy button was clicked, don't do anything.
         if (event.target.classList.contains('copy-button')) {

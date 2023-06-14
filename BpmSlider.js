@@ -1,13 +1,12 @@
 import SongManager from './SongManager.js'
 
 export default class BpmSlider {
-    constructor(songManager, advancedFilters) {
+    constructor(advancedFilters) {
       // Create arrow in constructor
       // this.createToggleArrowElemet();
       // Call these after creating the arrow element
       this.createExpandedState();
       this.advancedFilters = advancedFilters
-      this.songManager = songManager
       this.min = 60;
       this.max = 140;
       this.rangeValues = [2, 6, 12, 100]; // Range values // 100 would be any BPM (Eliminating this filtering)
@@ -19,10 +18,41 @@ export default class BpmSlider {
 
       const pickedValueElement = document.getElementById("picked-value");
       pickedValueElement.style.margin='-0.25rem'
+
+      this.setDisable = this.setDisable.bind(this);
+
       this.updateUI();
   
     }
 
+
+    setDisable(disable) {
+      this.isDisabled = disable;
+  
+      // Graying out the slider when disabled
+      if(this.isDisabled) {
+        this.sliderContainer.style.opacity = '0.5';
+        this.sliderThumb.style.cursor = 'not-allowed';
+      } else {
+        this.sliderContainer.style.opacity = '1';
+        this.sliderThumb.style.cursor = 'pointer';
+      }
+      
+      // Removing or Adding event listeners based on the disabled state
+      if(this.isDisabled) {
+        this.sliderThumb.removeEventListener("mousedown", this.moveSliderThumb);
+        this.sliderRange.removeEventListener("mousedown", this.moveSliderThumb);
+        this.dataBubble.removeEventListener("click", this.updateKey);
+        this.sliderThumb.removeEventListener("touchstart", this.moveSliderThumb);
+        this.dataBubble.removeEventListener("touchstart", this.updateRange);
+      } else {
+        this.sliderThumb.addEventListener("mousedown", this.moveSliderThumb);
+        this.sliderRange.addEventListener("mousedown", this.moveSliderThumb);
+        this.dataBubble.addEventListener("click", this.updateKey);
+        this.sliderThumb.addEventListener("touchstart", this.moveSliderThumb);
+        this.dataBubble.addEventListener("touchstart", this.updateRange);
+      }
+    }
 
     createExpandedState(){
           // Create required elements
@@ -130,7 +160,6 @@ export default class BpmSlider {
       this.minValue = Math.max(this.min, this.currentValue - this.currentRangeValue);
       this.maxValue = Math.min(this.max, this.currentValue + this.currentRangeValue);
       // update logic
-      this.songManager.setBpmRange([this.minValue, this.maxValue]);
       // update summaryView
       this.advancedFilters.userUpdatedBpmRange([this.minValue, this.maxValue]);
 
@@ -155,6 +184,10 @@ export default class BpmSlider {
     }
   
     moveSliderThumb(event) {
+      if(this.isDisabled) {
+        return;
+    }
+
       event.preventDefault();
   
       const sliderRect = this.sliderRange.getBoundingClientRect();
@@ -200,6 +233,10 @@ export default class BpmSlider {
   
   
     updateRange(event) {
+      if(this.isDisabled) {
+        return;
+    }
+
       // Stop event propagation
       event.stopPropagation();
     

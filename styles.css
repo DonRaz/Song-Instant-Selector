@@ -271,7 +271,7 @@ li:hover {
   background: radial-gradient(#282944 ,#33345b) !important;
   transition: transform 0.3s ease;
   border-radius: 0.7rem;
-  z-index:1; 
+  z-index:0; 
 }
 
 
@@ -321,6 +321,61 @@ li:hover {
   position: relative;
   top: 1rem;
 }
+
+#bpm-display-summary,
+#key-display-summary {   
+    transition: color 0.3s ease, font-weight 0.3s ease;
+    flex: 1;
+    text-align: center;
+    z-index: 2;  /* Increase z-index value */
+    padding-bottom: 0.3rem; /* Add some padding to center the line */
+}
+
+
+/* _____________________ Toggle ActiveAdvancedFilter On Off _______________ Start*/
+
+#toggle-switch {
+  position: absolute;
+  left: 2rem; /* adjusted from right to left */
+  top: 2.5rem; /* set the top offset */
+  width: 3.75rem; /* 60px to rem */
+  height: 2.125rem; /* 34px to rem */
+  background: #563063;
+  border-radius: 2.125rem; /* 34px to rem */
+}
+
+
+#toggle-switch::before {
+  content: "";
+  position: absolute;
+  top: 0.125rem;
+  left: 0.125rem;
+  width: 1.875rem;
+  height: 1.875rem;
+  background: #F5F5F7;
+  border-radius: 50%;
+  transition: 0.2s;  /* make sure the circle slides */
+}
+
+#toggle-switch.activated::before {
+  transform: translateX(1.875rem);
+}
+
+#toggle-switch.deactivated::before {
+  transform: translateX(0rem);
+  
+}
+
+#toggle-switch.activated {
+  /* Use a color gradient when the toggle is activated */
+  background: linear-gradient(20deg, #712AC8 ,#C63BFB);
+}
+
+#toggle-switch.deactivated {
+  background: #33345b;
+}
+/*
+/* _____________________ Toggle ActiveAdvancedFilter On Off _______________End */
 
 
 /* ______________________________ Advanced Filters section (BPM & KEY)_______________________________ END */
@@ -681,7 +736,7 @@ li:hover {
     border: solid #B145AC;
     border-width: 0 5px 5px 0; /* Increased font opacity*/
     display: inline-block;
-    padding: 8px; /* Increased padding */
+    padding: 0.5rem; /* Increased padding */
     position: absolute;
     top: 2.5rem;
     right: -1rem; /* adjust as needed */
@@ -794,7 +849,7 @@ li:hover {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 7rem; /* adjust this value to fit your needs */
+    width: 4rem; /* adjust this value to fit your needs */
   }
   
   #key-slider-value {
@@ -808,10 +863,7 @@ li:hover {
     text-align: right;
   }
   
-  #key-range-value {
-    color: #ffffff !important;
-  }
-  
+
   
   /* _______ Animation for KEYs Slider _________ Start */
   
@@ -887,3 +939,18 @@ Starting with nothing: selector targets all h2 elements (For example)
 
 
 */
+/* for it to work better, let's add a div around the key-display-summary and around bpm-display-summary. The green lines will go inside each of the divs in it's bottom.
+
+It's important - so the structure should be:
+
+div (bpm-key-switch-container)
+- div (highlight-advanced)
+- div (bpm-left-container)
+- - p(bpm-display-summary)
+- - div(left-light-indicator)
+- div (key-right-container)
+- - p(key-display-summary)
+- - div(right-light-indicator)
+
+
+Also show me the css if needed. */

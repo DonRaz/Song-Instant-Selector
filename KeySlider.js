@@ -1,7 +1,7 @@
 import SongManager from './SongManager.js'
 
 export default class KeySlider {
-    constructor(songManager, advancedFilters) {
+    constructor(advancedFilters) {
       this.keyRange = document.getElementById('key-range');
 
       // Create arrow in constructor
@@ -9,7 +9,6 @@ export default class KeySlider {
       // Call these after creating the arrow element
       this.createExpandedState();
       this.advancedFilters = advancedFilters
-      this.songManager = songManager
       this.min = 1;
       this.max = 12;
       this.currentValue = 1; // Default value
@@ -20,8 +19,25 @@ export default class KeySlider {
 
       // const pickedValueElement = document.getElementById("picked-value");
       // pickedValueElement.style.margin='-0.25rem'
+      this.setDisable = this.setDisable.bind(this);
+
       this.updateUI();
   
+    }
+
+
+    setDisable(disable) {
+      this.isDisabled = disable;
+  
+      // Graying out the slider when disabled
+      if(this.isDisabled) {
+        this.sliderContainer.style.opacity = '0.5';
+        this.sliderThumb.style.cursor = 'not-allowed';
+      } else {
+        this.sliderContainer.style.opacity = '1';
+        this.sliderThumb.style.cursor = 'pointer';
+      }
+      
     }
 
     createExpandedState(){
@@ -59,18 +75,10 @@ export default class KeySlider {
     this.pickedValue.textContent = ' - Key - ';
     this.sliderValue.appendChild(this.pickedValue);
 
-    this.rangeValueContainer = document.createElement('div');
-    this.rangeValueContainer.id = 'key-range-value-container';
-    this.rangeValueContainer.classList.add('key-range-value-container');
 
-    this.rangeValueElement = document.createElement('span');
-    this.rangeValueElement.id = 'key-range-value';
-    this.rangeValueElement.classList.add('key-range-value');
-    this.rangeValueContainer.appendChild(this.rangeValueElement);
 
     // Nesting elements
     this.dataBubble.appendChild(this.sliderValue);
-    this.dataBubble.appendChild(this.rangeValueContainer);
     this.sliderThumb.appendChild(this.dataBubble);
     this.sliderRange.appendChild(this.sliderActiveRange);
     this.sliderRange.appendChild(this.sliderThumb);
@@ -134,7 +142,6 @@ export default class KeySlider {
           this.currentValue + invertedKey // add inverted key
         ];
         // Update logic 
-        this.songManager.setKeyRange(fitting_keys_values);
         // Update summaryView
         this.advancedFilters.userUpdatedKeyRange(fitting_keys_values);
         this.updateCurrentValue(this.currentValue);
@@ -151,6 +158,9 @@ export default class KeySlider {
       
   
     moveSliderThumb(event) {
+      if(this.isDisabled) {
+        return;
+       }
         event.preventDefault();
     
         const sliderRect = this.sliderRange.getBoundingClientRect();
@@ -194,6 +204,9 @@ export default class KeySlider {
     }
     
     updateKey() {
+      if(this.isDisabled) {
+        return;
+    }
       // Toggle between 'A' and 'B'
       this.currentKey = this.currentKey === 'A' ? 'B' : 'A';
       this.updateUI();
