@@ -4,6 +4,8 @@ import SongManager from './SongManager.js';
 import SongListItemUI from './SongList_UI.js';
 import GraphManager from './GraphManager2D.js';
 import BpmSlider from './BpmSlider.js';
+import AdvancedFilters from './AdvancedFilters.js';
+import KeySlider from './KeySlider.js';
 import { showToast, createSongExamplesFromJson, generateRandomFloats } from './Utils.js'
 
 
@@ -48,6 +50,8 @@ let songManager;
 let graphManager;
 let bpmSlider;
 let tagFilter;
+let keySlider;
+let advancedFilters;
 
 createSongExamplesFromJson().then((result) => {
     songs = result;
@@ -58,7 +62,9 @@ createSongExamplesFromJson().then((result) => {
     graphManager.initializeInteraction(songManager);
     
     // Bind BpmSlider To Graph Manager
-    bpmSlider = new BpmSlider(songManager);
+    advancedFilters = new AdvancedFilters(songManager)
+    // keySlider = new KeySlider(songManager);
+    // bpmSlider = new BpmSlider(songManager);
     // Bind tagFliter
     tagFilter = new TagFilter(songManager);
 

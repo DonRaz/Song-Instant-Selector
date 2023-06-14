@@ -23,6 +23,7 @@ export default class TagFilter {
             'Collections': [
                 "DTracks", "Sp- Sing-Along", "Sp- Kids Party", "Sp- Bach Party", "Sp- Workout", "Sp- Bach Israel",
             ],
+
             'Extra': [
                 "Girl Power", "Darbuka", "Israel [Loc]", "California [Loc]", 
                 "Morning", "Sunset", "PEGI 16 [Age]", "PEGI 4 [Age]",
@@ -49,7 +50,6 @@ export default class TagFilter {
 
 
 
-    
         // Create div for tag catalog
         this.tagCatalogElement = document.getElementById('tag-catalog');
 

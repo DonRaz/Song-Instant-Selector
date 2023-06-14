@@ -62,9 +62,9 @@ h2 {
 }
 
 /* For larger screens */
-@media (min-width: 720px) {
+@media (min-width: 45rem) {
   .container {
-    max-width: 40rem; /* Limit the maximum width for larger devices */
+    max-width: 45rem; /* Limit the maximum width for larger devices */
   }
 }
 
@@ -200,6 +200,9 @@ li:hover {
 
 /* _____________________________ Results count and sorting _______________________ START */
 #filter-sorting-switch-container {
+    /* background: linear-gradient(#79427B #BDAFC2, #79427B) !important; */
+    background: linear-gradient(40deg,#03042F ,#03042E) !important;
+    border-radius: 1.2rem;
     position: relative;
     display: flex;
     width: 100%;
@@ -213,17 +216,13 @@ li:hover {
     flex: 1;
     text-align: center;
     z-index: 3;
-}
-
-
-#filter-sorting-switch-container{
-    /* background: linear-gradient(#79427B #BDAFC2, #79427B) !important; */
-    background: linear-gradient(40deg,#03042F ,#03042E) !important;
-    border-radius: 1.2rem;
+    transition: color 0.3s ease, font-weight 0.3s ease;
 
 }
+
 
 .highlight {
+    display: inline-block;
     position: absolute;
     top: 10%;
     left: 2%;
@@ -237,10 +236,8 @@ li:hover {
 }
 
 
-/* Transition from the bold to the normal text */
-#song-count-display, #sorting-criteria-display {
-    transition: color 0.3s ease, font-weight 0.3s ease;
-}
+
+
 
 
 /* Separator grows when the song-count-container is hovered */
@@ -260,10 +257,143 @@ li:hover {
 /* _____________________________ Results count and sorting _______________________ END */
 
 
+
+/* ______________________________ Advanced Filters section (BPM & KEY)_______________________________ START */
+
+.highlight-advanced {
+  display: inline-block;
+  position: absolute;
+  top: 10%;
+  left: 2%;
+  width: 48%;  
+  height: 80%;
+  align-items: center;
+  background: radial-gradient(#282944 ,#33345b) !important;
+  transition: transform 0.3s ease;
+  border-radius: 0.7rem;
+  z-index:0; 
+}
+
+
+#bpm-key-switch-container{
+  background: linear-gradient(40deg,#03042F ,#03042E) !important;
+  border-radius: 1.2rem;
+  position: relative;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#key-display-summary,
+#bpm-display-summary
+{   
+    transition: color 0.3s ease, font-weight 0.3s ease;
+    flex: 1;
+    text-align: center;
+    z-index: 3;
+}
+
+
+/* Applying gradient on click/tap */
+#bpm-display-summary:active, #bpm-display-summary:focus,
+#key-display-summary:active, #key-display-summary:focus {
+    transform: scale(1.2) rotate(2deg);
+    transition: transform 0.2s ease;
+    background: linear-gradient(#B145AC ,#FD92C0, #B145AC);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.advanced-section{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#bpm-range, #key-range {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 1rem;
+}
+
+#bpm-display-summary,
+#key-display-summary {   
+    transition: color 0.3s ease, font-weight 0.3s ease;
+    flex: 1;
+    text-align: center;
+    z-index: 2;  /* Increase z-index value */
+    padding-bottom: 0.3rem; /* Add some padding to center the line */
+}
+
+
+/* _____________________ Toggle ActiveAdvancedFilter On Off _______________ Start*/
+
+#toggle-switch {
+  position: absolute;
+  left: 2rem; /* adjusted from right to left */
+  top: 2.5rem; /* set the top offset */
+  width: 3.75rem; /* 60px to rem */
+  height: 2.125rem; /* 34px to rem */
+  background: #563063;
+  border-radius: 2.125rem; /* 34px to rem */
+}
+
+
+#toggle-switch::before {
+  content: "";
+  position: absolute;
+  top: 0.125rem;
+  left: 0.125rem;
+  width: 1.875rem;
+  height: 1.875rem;
+  background: #F5F5F7;
+  border-radius: 50%;
+  transition: 0.2s;  /* make sure the circle slides */
+}
+
+#toggle-switch.activated::before {
+  transform: translateX(1.875rem);
+}
+
+#toggle-switch.deactivated::before {
+  transform: translateX(0rem);
+  
+}
+
+#toggle-switch.activated {
+  /* Use a color gradient when the toggle is activated */
+  background: linear-gradient(20deg, #712AC8 ,#C63BFB);
+}
+
+#toggle-switch.deactivated {
+  background: #33345b;
+}
+/*
+/* _____________________ Toggle ActiveAdvancedFilter On Off _______________End */
+
+
+/* ______________________________ Advanced Filters section (BPM & KEY)_______________________________ END */
+
+
+
+
+
+
+
 /*________________________ FilterTags - Passed __________________ 18May ___________ START */
 #tags-filtering-div {
     display: flex;
     flex-direction: column;
+    width: 100%;
+}
+
+#tag-catalog{
     width: 100%;
 }
 
@@ -338,6 +468,7 @@ li:hover {
     flex-wrap: wrap;
     padding: 0.5rem;
     background: linear-gradient(40deg, #2B2445 ,#412A56, #563063, #79427B);
+
     color: #F5F5F7;
     height: 10rem;
     border-radius: 0.625rem;
@@ -580,7 +711,11 @@ li:hover {
 #bpm-range {
     /* add this to your existing styles */
     overflow: hidden; 
-    transition: height 0.3s ease-in-out; 
+    transition: height 0.3s ease-in-out;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    
 }
 
   .data-thumb.collapsed #collapsed-content::before {
@@ -601,7 +736,7 @@ li:hover {
     border: solid #B145AC;
     border-width: 0 5px 5px 0; /* Increased font opacity*/
     display: inline-block;
-    padding: 8px; /* Increased padding */
+    padding: 0.5rem; /* Increased padding */
     position: absolute;
     top: 2.5rem;
     right: -1rem; /* adjust as needed */
@@ -644,7 +779,159 @@ li:hover {
 }
 
 
-/*
+
+
+/* ________________________________________________________________________________*/
+/* ________________________________________________________________________________*/
+/* ________________________________________________________________________________*/
+/* _________________________________Key Slider_____________________________________*/
+/* ________________________________________________________________________________*/
+/* ________________________________________________________________________________*/
+
+
+
+/* _______________ KEY SLIDERS___________________ START */
+
+
+#key-slider-container {
+    font-family: 'Nunito Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding-top: 2rem;
+    /* border: 0.5rem solid #803780; */
+    box-sizing: border-box;
+    width: 25rem;
+    height: 9rem;
+  }
+  
+  .key-slider-range {
+    position: relative;
+    background-color: #9b9bac !important;
+    width: 80%;
+    height: 0.6rem;
+    border-radius: 4rem;
+  }
+  
+  .key-slider-active-range {
+    position: absolute;
+    height: 100%;
+    background: linear-gradient(20deg, #B145AC ,#FD92C0, #B145AC);
+  }
+  
+  .key-slider-thumb {
+    touch-action: none;
+    position: absolute;
+    background: radial-gradient(#EB5CE4, #D545F6);
+    border: solid 0.2rem #fff !important;
+    border-radius: 50%;
+    height: 2rem !important;
+    width: 2rem !important;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+  }
+  
+  .key-data-thumb {
+    position: absolute;
+    background: linear-gradient(20deg, #AA32F8 ,#C23DF2, #B142CD);
+    padding: 0.4rem 1.2rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #f5f5f7;
+    bottom: 100%;
+    margin-bottom: 1.4rem;
+    border-radius: 4rem;
+    white-space: nowrap;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 4rem; /* adjust this value to fit your needs */
+  }
+  
+  #key-slider-value {
+    color: #f5f5f7;
+    flex-grow: 1;
+    text-align: left ;
+  }
+  
+  .key-range-value-container {
+    flex-grow: 2;
+    text-align: right;
+  }
+  
+
+  
+  /* _______ Animation for KEYs Slider _________ Start */
+  
+  .key-slider-thumb {
+      /* Your previous styles */
+      transition: transform 0.3s ease; /* Add this line */
+      z-index: 999;
+      touch-action: none;
+  
+    }
+    
+    .key-slider-thumb:hover {
+      transform: translate(-50%, -50%) scale(1.2);
+    }
+    .key-slider-thumb:active {
+      transform: translateX(-50%) scale(1.2);
+  
+    }
+  
+  
+    .key-data-thumb {
+      /* Your previous styles */
+      transition: transform 0.3s ease; /* Add this line */
+    }
+    
+    .key-data-thumb:hover {
+      transform: translateX(-50%) scale(1.05);
+    }
+    
+    .key-data-thumb:active {
+      transform: translateX(-50%) scale(0.95);
+    }
+    
+  
+  
+  
+  /* _______ Animation for KEYs _________ Finish */
+  
+  /* ______________ KEY State collapsedState ________ Start*/
+  #key-range {
+      /* add this to your existing styles */
+      overflow: hidden; 
+      transition: height 0.3s ease-in-out; 
+  }
+  
+    .key-data-thumb.collapsed #collapsed-content::before {
+      transform: rotate(45deg);
+      -webkit-transform: rotate(45deg);
+    }
+  
+  
+  .key-data-thumb.collapsed #expand-arrow::before {
+      display: none;
+  }
+  
+
+  /* #expand-arrow:hover {
+      transform: rotate(90deg);
+      -webkit-transform: rotate(90deg);
+  } */
+  /* ______________ BPM State collapsedState ________ End */
+
+
+
+
+
+
+  /*
 Learning:
 Starting with a hash (#) - ID selector:
 Starting with a dot (.) - Class selector:
@@ -652,3 +939,18 @@ Starting with nothing: selector targets all h2 elements (For example)
 
 
 */
+/* for it to work better, let's add a div around the key-display-summary and around bpm-display-summary. The green lines will go inside each of the divs in it's bottom.
+
+It's important - so the structure should be:
+
+div (bpm-key-switch-container)
+- div (highlight-advanced)
+- div (bpm-left-container)
+- - p(bpm-display-summary)
+- - div(left-light-indicator)
+- div (key-right-container)
+- - p(key-display-summary)
+- - div(right-light-indicator)
+
+
+Also show me the css if needed. */
