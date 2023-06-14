@@ -1,15 +1,14 @@
 import SongManager from './SongManager.js'
 
 export default class KeySlider {
-    constructor(songManager) {
+    constructor(songManager, advancedFilters) {
       this.keyRange = document.getElementById('key-range');
 
       // Create arrow in constructor
-      this.createToggleArrowElemet();
 
       // Call these after creating the arrow element
       this.createExpandedState();
-
+      this.advancedFilters = advancedFilters
       this.songManager = songManager
       this.min = 1;
       this.max = 12;
@@ -25,46 +24,6 @@ export default class KeySlider {
   
     }
 
-    createToggleArrowElemet(){
-      // Create a new element for the expand arrow
-      this.expandArrow = document.createElement('div');
-      this.expandArrow.id = 'key-expand-arrow';
-      // this.expandArrow.style.transform
-      this.expandArrow.style.cursor = 'pointer';
-      this.expandArrow.style.transform = 'rotate(45deg)'; // Rotate back to expanded state
-
-      // Event Listener for the expand arrow
-      this.expandArrow.addEventListener('click', this.toggleExpandedCollapsedStates.bind(this));
-
-      // Add the expand arrow to the keyRange
-      this.keyRange.appendChild(this.expandArrow);
-  }
-
-  toggleExpandedCollapsedStates() {
-    // Get all child elements in keyRange
-    let children = Array.from(this.keyRange.children);
-  
-    // Loop through all children and remove them if their id is not 'expand-arrow'
-    children.forEach((child) => {
-      if (child.id !== 'expand-arrow') {
-        this.keyRange.removeChild(child); 
-      }
-    });
-  
-    // Toggle states
-    if(this.currentState == 1) {
-      this.createCollapsedState();
-      this.currentState = 0;
-      this.expandArrow.style.transform = 'rotate(225deg)'; // Rotate to collapsed state
-      this.keyRange.style.height = '5rem'; // Change the height to the height of the collapsed state
-    } else {
-      this.createExpandedState();
-      this.updateUI();  // Add this line to update the UI
-      this.currentState = 1;
-      this.expandArrow.style.transform = 'rotate(45deg)'; // Rotate back to expanded state
-      this.keyRange.style.height = '15rem'; // Change the height back to the height of the expanded state
-    }
-  }
     createExpandedState(){
           // Create required elements
     this.sliderContainer = document.createElement('div');
@@ -136,11 +95,8 @@ export default class KeySlider {
       event.stopPropagation(); 
   }, false); 
 
-
-
     // Update the class for dataBubble and keyRange
-    this.dataBubble.classList.remove('collapsed');
-    this.keyRange.style.height = '15rem';
+    // this.keyRange.style.height = '15rem';
     
     this.sliderThumb.addEventListener("touchstart", this.moveSliderThumb.bind(this));
     this.dataBubble.addEventListener("touchstart", this.updateRange.bind(this));
@@ -148,55 +104,6 @@ export default class KeySlider {
 
   }
     
-  
-    createCollapsedState() {
-        // Update expandArrow
-        // Create a new container for collapsed state
-        const collapsedContainer = document.createElement('div');
-        collapsedContainer.id = 'key-collapsed-container';
-        collapsedContainer.style.height = '3rem';
-        collapsedContainer.style.width = '100%';
-        collapsedContainer.style.display = 'flex';
-        collapsedContainer.style.justifyContent = 'center';
-        collapsedContainer.style.alignItems = 'center';
-      
-        // Create the content for the collapsed container
-        const collapsedContent = document.createElement('div');
-        collapsedContent.id = 'key-collapsed-content';
-        this.minValue = Math.max(this.min, this.currentValue - this.currentRangeValue);
-        this.maxValue = Math.min(this.max, this.currentValue + this.currentRangeValue);
-              // Update the display value to show the musical key instead of Key
-        const invertedKey = this.currentKey === 'A' ? 'B' : 'A';
-
-        const lowerKey = ((this.currentValue + 10) % 12 + 1) + this.currentKey;
-        const currentKey = this.currentValue + this.currentKey;
-        const higherKey = ((this.currentValue % 12 + 1)) + this.currentKey;
-        const invertedcurrent = this.currentValue + invertedKey; // add inverted key
-
-            
-        collapsedContent.textContent = `🎼 Active Key ${lowerKey}, ${currentKey}, ${higherKey}, ${invertedcurrent}🎼`;
-        collapsedContent.style.flexDirection = 'row';
-        collapsedContent.style.justifyContent = 'center';
-        collapsedContent.style.alignItems = 'center';
-        collapsedContent.style.cursor = 'pointer';
-        collapsedContent.style.background = 'linear-gradient(20deg, #AA32F8 ,#C23DF2, #B142CD)'; // same color as range-value-container
-        collapsedContent.style.color = '#f5f5f7'; // white color for text
-        collapsedContent.style.padding = '0.4rem 1.2rem'; // same padding as range-value-container
-        collapsedContent.style.borderRadius = '4rem'; // same border radius as range-value-container
-        collapsedContent.addEventListener('click', () => {
-            this.toggleExpandedCollapsedStates();
-        });
-      
-        // Add the collapsedContent to the collapsedContainer
-        collapsedContainer.appendChild(collapsedContent);
-      
-        // Add the collapsedContainer to the keyRange
-        this.keyRange.appendChild(collapsedContainer);
-        this.keyRange.style.height = '3rem';
-      
-        // Add 'collapsed' class to the dataBubble
-        this.dataBubble.classList.add('key-collapsed');
-      }
 
       updateThumbPosition(value) {
         const percentage = ((value - this.min) / (this.max - this.min)) * 100;
@@ -226,8 +133,10 @@ export default class KeySlider {
           (this.currentValue % 12 + 1) + this.currentKey,
           this.currentValue + invertedKey // add inverted key
         ];
+        // Update logic 
         this.songManager.setKeyRange(fitting_keys_values);
-        this.songManager.setKeyRange(fitting_keys_values);
+        // Update summaryView
+        this.advancedFilters.userUpdatedKeyRange(fitting_keys_values);
         this.updateCurrentValue(this.currentValue);
         this.updateThumbPosition(this.currentValue);
         this.updateValuePosition();
@@ -240,30 +149,6 @@ export default class KeySlider {
         this.sliderActiveRange.style.width = (rightPercentage - leftPercentage) + "%";
     }
       
-    // updateUI() {
-    //   this.minValue = Math.max(this.min, this.currentValue - this.currentRangeValue);
-    //   this.maxValue = Math.min(this.max, this.currentValue + this.currentRangeValue);
-    //   this.songManager.setBpmRange([this.minValue, this.maxValue]);
-  
-    //   if (this.currentRangeValue == 100) {
-    //       const pickedValueElement = document.getElementById("picked-value");
-    //       pickedValueElement.textContent = 'Any Key';
-    //       this.rangeValueElement.textContent = '';
-    //   }
-    //   else {
-    //     this.updateCurrentValue(this.currentValue);
-    //     this.updateRangeValue(this.currentRangeValue);
-
-    //   }
-    //     this.updateThumbPosition(this.currentValue);
-    //     this.updateValuePosition();
-    //     const sliderActiveRange = document.getElementById("slider-active-range");
-    //     const rangePercentage = ((this.currentRangeValue) / (this.max - this.min)) * 100;
-    //     const leftPercentage = Math.max(0, parseFloat(this.sliderThumb.style.left) - rangePercentage);
-    //     const rightPercentage = Math.min(100, parseFloat(this.sliderThumb.style.left) + rangePercentage);
-    //     sliderActiveRange.style.left = leftPercentage + "%";
-    //     sliderActiveRange.style.width = (rightPercentage - leftPercentage) + "%";
-    // }
   
     moveSliderThumb(event) {
         event.preventDefault();
@@ -327,3 +212,31 @@ export default class KeySlider {
       this.updateUI();
       }
     }
+
+
+
+  // toggleExpandedCollapsedStates() {
+  //   // Get all child elements in keyRange
+  //   let children = Array.from(this.keyRange.children);
+  
+  //   // Loop through all children and remove them if their id is not 'expand-arrow'
+  //   children.forEach((child) => {
+  //     if (child.id !== 'expand-arrow') {
+  //       this.keyRange.removeChild(child); 
+  //     }
+  //   });
+  
+  //   // Toggle states
+  //   if(this.currentState == 1) {
+  //     this.createCollapsedState();
+  //     this.currentState = 0;
+  //     this.expandArrow.style.transform = 'rotate(225deg)'; // Rotate to collapsed state
+  //     this.keyRange.style.height = '5rem'; // Change the height to the height of the collapsed state
+  //   } else {
+  //     this.createExpandedState();
+  //     this.updateUI();  // Add this line to update the UI
+  //     this.currentState = 1;
+  //     this.expandArrow.style.transform = 'rotate(45deg)'; // Rotate back to expanded state
+  //     this.keyRange.style.height = '15rem'; // Change the height back to the height of the expanded state
+  //   }
+  // }

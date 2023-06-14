@@ -23,10 +23,7 @@ export default class TagFilter {
             'Collections': [
                 "DTracks", "Sp- Sing-Along", "Sp- Kids Party", "Sp- Bach Party", "Sp- Workout", "Sp- Bach Israel",
             ],
-            // 'Key': [
-            //     "1A", "2A", "3A", "4A", "5A", "6A", "7A", "8A", "9A", "10A", "11A", "12A", 
-            //     "1B", "2B", "3B", "4B", "5B", "6B", "7B", "8B", "9B", "10B", "11B", "12B", 
-            // ],
+
             'Extra': [
                 "Girl Power", "Darbuka", "Israel [Loc]", "California [Loc]", 
                 "Morning", "Sunset", "PEGI 16 [Age]", "PEGI 4 [Age]",
@@ -53,7 +50,7 @@ export default class TagFilter {
 
 
 
-    
+        console.log("HEYYY ---- TagFilter UI Createfilterelement");
         // Create div for tag catalog
         this.tagCatalogElement = document.getElementById('tag-catalog');
 

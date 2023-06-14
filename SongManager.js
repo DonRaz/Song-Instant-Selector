@@ -12,31 +12,35 @@ export default class SongManager {
         this.listOfSongs_UI = document.getElementById('songs');//'#song-list'
         this.listOfSongs_UI.addEventListener('click', (event) => this.handleListClick(event));
 
-        this.createfilterSortingSwitch();
-       
+        this.createFilterSortingSwitch();
+    //    this.createBpmKeySwitch();
     }
 
     // changeSonglistContainerSizeInRem(newSize){
     //     this.listOfSongs_UI.style.height='${newSize}rem'
 
+
+
+    
     // }
-    createfilterSortingSwitch(){
+    createFilterSortingSwitch(){
         // Create song count display
-    // Create song count display
-        this.filterSortingSwitchContainer = document.createElement('div');
-        this.filterSortingSwitchContainer.id = 'filter-sorting-switch-container' //'song-count-container';
+        this.filterSortingSwitchContainer = document.getElementById("filter-sorting-switch-container");
+
         this.filterSortingSwitchContainer.style.textAlign = 'center'; // or any other styles you want
-        
+
+        // Song count display
         this.songCountDisplay = document.createElement('p');
         this.songCountDisplay.id = 'song-count-display';
+        this.songCountDisplay.style.color = 'white'; // Default color
 
+
+        // sorting criterias
         this.sortingCriteriaDisplay = document.createElement('p');
         this.sortingCriteriaDisplay.id = 'sorting-criteria-display';
     
 
-        this.songCountDisplay.style.color = 'white'; // Default color
-
-
+        // highlight
         this.highlight = document.createElement('div');
         this.highlight.classList.add('highlight');
         this.highlight.style.transform = 'translateX(102%)';
@@ -78,9 +82,9 @@ export default class SongManager {
                 this.twoDSelector.style.display = 'none';
             }
         });
-    // Placing in the UI to container
-    const container = document.querySelector('.container');
-    container.insertBefore(this.filterSortingSwitchContainer, container.childNodes[4]); // inserting after song-list
+        // Placing in the UI to container
+        // const container = document.querySelector('.container');
+        // container.insertBefore(this.filterSortingSwitchContainer, container.childNodes[2]); // inserting after song-list
     }
 
     updateParagraphStyles() {

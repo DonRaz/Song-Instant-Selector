@@ -200,6 +200,9 @@ li:hover {
 
 /* _____________________________ Results count and sorting _______________________ START */
 #filter-sorting-switch-container {
+    /* background: linear-gradient(#79427B #BDAFC2, #79427B) !important; */
+    background: linear-gradient(40deg,#03042F ,#03042E) !important;
+    border-radius: 1.2rem;
     position: relative;
     display: flex;
     width: 100%;
@@ -213,17 +216,13 @@ li:hover {
     flex: 1;
     text-align: center;
     z-index: 3;
-}
-
-
-#filter-sorting-switch-container{
-    /* background: linear-gradient(#79427B #BDAFC2, #79427B) !important; */
-    background: linear-gradient(40deg,#03042F ,#03042E) !important;
-    border-radius: 1.2rem;
+    transition: color 0.3s ease, font-weight 0.3s ease;
 
 }
+
 
 .highlight {
+    display: inline-block;
     position: absolute;
     top: 10%;
     left: 2%;
@@ -237,10 +236,8 @@ li:hover {
 }
 
 
-/* Transition from the bold to the normal text */
-#song-count-display, #sorting-criteria-display {
-    transition: color 0.3s ease, font-weight 0.3s ease;
-}
+
+
 
 
 /* Separator grows when the song-count-container is hovered */
@@ -258,6 +255,80 @@ li:hover {
 
 
 /* _____________________________ Results count and sorting _______________________ END */
+
+
+
+/* ______________________________ Advanced Filters section (BPM & KEY)_______________________________ START */
+
+.highlight-advanced {
+  display: inline-block;
+  position: absolute;
+  top: 10%;
+  left: 2%;
+  width: 48%;  
+  height: 80%;
+  align-items: center;
+  background: radial-gradient(#282944 ,#33345b) !important;
+  transition: transform 0.3s ease;
+  border-radius: 0.7rem;
+  z-index:1; 
+}
+
+
+#bpm-key-switch-container{
+  background: linear-gradient(40deg,#03042F ,#03042E) !important;
+  border-radius: 1.2rem;
+  position: relative;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#key-display-summary,
+#bpm-display-summary
+{   
+    transition: color 0.3s ease, font-weight 0.3s ease;
+    flex: 1;
+    text-align: center;
+    z-index: 3;
+}
+
+
+/* Applying gradient on click/tap */
+#bpm-display-summary:active, #bpm-display-summary:focus,
+#key-display-summary:active, #key-display-summary:focus {
+    transform: scale(1.2) rotate(2deg);
+    transition: transform 0.2s ease;
+    background: linear-gradient(#B145AC ,#FD92C0, #B145AC);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.advanced-section{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#bpm-range, #key-range {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 1rem;
+}
+
+
+/* ______________________________ Advanced Filters section (BPM & KEY)_______________________________ END */
+
+
+
+
+
 
 
 /*________________________ FilterTags - Passed __________________ 18May ___________ START */
@@ -585,7 +656,11 @@ li:hover {
 #bpm-range {
     /* add this to your existing styles */
     overflow: hidden; 
-    transition: height 0.3s ease-in-out; 
+    transition: height 0.3s ease-in-out;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    
 }
 
   .data-thumb.collapsed #collapsed-content::before {
@@ -792,24 +867,7 @@ li:hover {
       display: none;
   }
   
-  
-  #key-expand-arrow {
-      width: 1.2rem; /* adjust as needed */
-      height: 1.2rem; /* adjust as needed */
-      content: '';
-      border: solid #B145AC;
-      border-width: 0 5px 5px 0; /* Increased font opacity*/
-      display: inline-block;
-      padding: 8px; /* Increased padding */
-      position: absolute;
-      top: 2.5rem;
-      right: -1rem; /* adjust as needed */
-      right: 3rem;
-      z-index: 999;
-      transition: transform 0.3s ease-in-out;
-      /* transform: translateY(-50%); */
-  }
-  
+
   /* #expand-arrow:hover {
       transform: rotate(90deg);
       -webkit-transform: rotate(90deg);
