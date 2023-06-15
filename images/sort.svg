@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="70.445" height="53.445" viewBox="0 0 70.445 53.445">
   <g id="Group_1401" data-name="Group 1401" transform="translate(7543 15192)">
-    <line id="Line_188" data-name="Line 188" x2="44" transform="translate(-7539.5 -15188.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="7"/>
-    <line id="Line_189" data-name="Line 189" x2="33" transform="translate(-7539.5 -15170)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="7"/>
-    <line id="Line_191" data-name="Line 191" y2="25.5" transform="translate(-7488.5 -15174)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="7"/>
-    <line id="Line_190" data-name="Line 190" x2="22" transform="translate(-7539.5 -15151.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="7"/>
-    <line id="Line_192" data-name="Line 192" x1="11" y2="12" transform="translate(-7488.5 -15155.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="7"/>
-    <line id="Line_193" data-name="Line 193" x2="11" y2="12" transform="translate(-7499.5 -15155.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="7"/>
+    <line id="Line_188" data-name="Line 188" x2="44" transform="translate(-7539.5 -15188.5)" fill="none" stroke="#9b9bac" stroke-linecap="round" stroke-width="7"/>
+    <line id="Line_189" data-name="Line 189" x2="33" transform="translate(-7539.5 -15170)" fill="none" stroke="#9b9bac" stroke-linecap="round" stroke-width="7"/>
+    <line id="Line_191" data-name="Line 191" y2="25.5" transform="translate(-7488.5 -15174)" fill="none" stroke="#9b9bac" stroke-linecap="round" stroke-width="7"/>
+    <line id="Line_190" data-name="Line 190" x2="22" transform="translate(-7539.5 -15151.5)" fill="none" stroke="#9b9bac" stroke-linecap="round" stroke-width="7"/>
+    <line id="Line_192" data-name="Line 192" x1="11" y2="12" transform="translate(-7488.5 -15155.5)" fill="none" stroke="#9b9bac" stroke-linecap="round" stroke-width="7"/>
+    <line id="Line_193" data-name="Line 193" x2="11" y2="12" transform="translate(-7499.5 -15155.5)" fill="none" stroke="#9b9bac" stroke-linecap="round" stroke-width="7"/>
   </g>
 </svg>

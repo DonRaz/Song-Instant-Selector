@@ -45,8 +45,6 @@ export default class AdvancedFilters {
     }
 
     toggleActivateCurrentFilter() {
-        console.log("AdvanvedFilter toggleActiveCurrentFilter" + this.keyRangeContainer.style.display === 'none');
-
         let bpmImageDiv = document.getElementById('bpm-image-div');
         let bpmImage = bpmImageDiv.querySelector('img');
         
@@ -60,6 +58,8 @@ export default class AdvancedFilters {
                 this.songManager.setBpmRange(this.data_bpmRange);
                 this.bpmSlider.setDisable(false);
                 bpmImage.src = 'images/colored/drum-colored.svg'; // Or whatever the original SVG path was
+                this.bpmTextInSummaryObject.innerText = ' Active BPM Range [' + this.data_bpmRange[0] + '-' + this.data_bpmRange[1] + ']' ;
+
 
                 // replace to bpm gray image
             } else {
@@ -67,6 +67,7 @@ export default class AdvancedFilters {
                 this.turnSwitchUICurrentFilter(false);
                 this.bpmSlider.setDisable(true);
                 bpmImage.src =  'images/drum-bpm.svg';
+                this.bpmTextInSummaryObject.innerText = 'BPM filter deactivated'
 
             }
         } else {
@@ -76,90 +77,93 @@ export default class AdvancedFilters {
                 this.songManager.setKeyRange(this.data_keyRange);
                 this.keySlider.setDisable(false);
                 keyImage.src = 'images/colored/sound_note-colored.svg'; // Or whatever the original SVG path was
+                this.keyTextInSummaryObject.innerText = ' Active keys:  [' + this.data_keyRange + ']' ;
+
                 // replace to key gray image
             } else {
                 this.turnSwitchUICurrentFilter(false);
                 this.songManager.setKeyRange(false);
                 this.keySlider.setDisable(true);
                 keyImage.src = 'images/sound-note-single.svg';
+                this.keyTextInSummaryObject.innerText = 'Camelot Key Filter deactivated'
 
 
             }
         }
     }
-    createToggleActiveFilterSwitch() {
-     // Create a new div for the switch
-    this.toggleSwitch = document.createElement('div');
-    this.toggleSwitch.id = 'toggle-switch';
-    this.toggleSwitch.style.cursor = 'pointer';
-    
-    // Create a new checkbox
-    this.toggleCheckbox = document.createElement('input');
-    this.toggleCheckbox.type = 'checkbox';
-    this.toggleCheckbox.id = 'toggle-checkbox';
-    this.toggleCheckbox.style.display = 'none'; // Hide the checkbox
-    
-    // Event Listener for the toggle checkbox
-    this.toggleCheckbox.addEventListener('change', this.toggleActivateCurrentFilter.bind(this));
-    
-    // OnClick listener for the switch
-    this.toggleSwitch.addEventListener('click', () => {
-        this.toggleCheckbox.checked = !this.toggleCheckbox.checked;
-        this.toggleActivateCurrentFilter(); // Call a function that you'll implement later
-    });
-    
-    // Add the checkbox to the switch
-    this.toggleSwitch.appendChild(this.toggleCheckbox);
-    
-    // Add the switch to the advancedFiltersSection
-    this.advancedFiltersSection.appendChild(this.toggleSwitch);
-}
+        createToggleActiveFilterSwitch() {
+            // Create a new div for the switch
+            this.toggleSwitch = document.createElement('div');
+            this.toggleSwitch.id = 'toggle-switch';
+            this.toggleSwitch.style.cursor = 'pointer';
+            
+            // Create a new checkbox
+            this.toggleCheckbox = document.createElement('input');
+            this.toggleCheckbox.type = 'checkbox';
+            this.toggleCheckbox.id = 'toggle-checkbox';
+            this.toggleCheckbox.style.display = 'none'; // Hide the checkbox
+            
+            // Event Listener for the toggle checkbox
+            this.toggleCheckbox.addEventListener('change', this.toggleActivateCurrentFilter.bind(this));
+            
+            // OnClick listener for the switch
+            this.toggleSwitch.addEventListener('click', () => {
+                this.toggleCheckbox.checked = !this.toggleCheckbox.checked;
+                this.toggleActivateCurrentFilter(); // Call a function that you'll implement later
+            });
+            
+            // Add the checkbox to the switch
+            this.toggleSwitch.appendChild(this.toggleCheckbox);
+            
+            // Add the switch to the advancedFiltersSection
+            this.advancedFiltersSection.appendChild(this.toggleSwitch);
+    }
 
     createSummaryObject(containerId, idOfTextField, svgImagePath, imageDivPath, activeIndicatorId) {
-    // create the div container
+        // create the div container
         let container = document.createElement('div');
         container.id = containerId;
         container.style.display = 'flex';
+        container.style.position = 'relative'; // Container needs to be relative for absolute child positioning.
         container.style.alignItems = 'center';
-        container.style.justifyContent = 'center'; // center elements in the container
-
         container.style.justifyContent = 'space-between'; // Spread out the elements in the container
         container.style.flex = '1'; // This will spread out the child elements equally
-
-
-
+    
         // create the image
         let image = document.createElement('img');
         image.src = svgImagePath;
         image.style.width = '2rem';
         image.style.height = '2rem';
-        image.style.marginLeft = '1rem'; // add margin to the right side of the image
-        image.style.position = 'relative';
+        image.style.position = 'absolute'; // Image is positioned absolutely to the container
+        image.style.left = '1.2rem'; // You may need to adjust this value
+        image.style.bottom = '22%'; // You may need to adjust this value
         image.style.zIndex = '10';
-
+    
         // create the text field
         let textField = document.createElement('p');
         textField.id = idOfTextField;
         textField.style.textAlign = 'center'; // center the text in the text field
+        textField.style.transform = 'translateY(12%)';
 
+    
         // create the div for the image
         let imageDiv = document.createElement('div');
         imageDiv.id = imageDivPath;
         imageDiv.appendChild(image);  // Append image to imageDiv
-
+    
         // Create the active indicator
         let activeIndicator = document.createElement('div');
         activeIndicator.id = activeIndicatorId;
         activeIndicator.classList.add('active-indicator');
         imageDiv.appendChild(activeIndicator);
                    
-        
         // append the elements to the container
         container.appendChild(imageDiv);
         container.appendChild(textField);
-
+    
         return container;
     }
+    
 
 
     createBpmKeySwitch() {   
@@ -296,32 +300,19 @@ export default class AdvancedFilters {
         this.songManager.setBpmRange([bpmRangeData[0], bpmRangeData[1]]);
         
         this.data_bpmRange = bpmRangeData;
-        this.updateSummaryView();
+        
+        
+        this.bpmTextInSummaryObject.innerText = ' Active BPM Range [' + this.data_bpmRange[0] + '-' + this.data_bpmRange[1] + ']' ;
 
     }
 
     userUpdatedKeyRange(keyRangeData){
         
         this.data_keyRange = keyRangeData;
-        this.updateSummaryView();
         this.songManager.setKeyRange(keyRangeData);
 
-    }
-
-
-    updateSummaryView() {
-        // SHOW THE NEW VALUES IN THE SUMMARY VIEW.
-
- 
-        // 🥁 Active BPM range ' + this.minValue + ' - ' + this.maxValue + ' 🥁
-        this.bpmTextInSummaryObject.innerText = ' [' + this.data_bpmRange[0] + '-' + this.data_bpmRange[1] + '] BPM' ;
-        
-        
-        // update the key range.
-        // this.keyaDisplay.innerText= `↑↓ ⚡️ ${Math.round(energy)}, 💡 ${Math.round(popularity)}`;
         this.keyTextInSummaryObject.innerText = ' Active keys:  [' + this.data_keyRange + ']' ;
 
-      
 
     }
 

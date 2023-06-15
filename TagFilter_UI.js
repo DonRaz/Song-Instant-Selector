@@ -26,7 +26,7 @@ export default class TagFilter {
 
             'Extra': [
                 "Girl Power", "Darbuka", "Israel [Loc]", "California [Loc]", 
-                "Morning", "Sunset", "PEGI 16 [Age]", "PEGI 4 [Age]",
+                "Morning", "Sunset", "PEGI 16 [Age]", "PEGI 4 [Age]", "BLAAAA"
             ],
 
         };
