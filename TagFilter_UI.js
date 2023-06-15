@@ -21,12 +21,12 @@ export default class TagFilter {
                 
             ],
             'Collections': [
-                "DTracks", "Sp- Sing-Along", "Sp- Kids Party", "Sp- Bach Party", "Sp- Workout", "Sp- Bach Israel",
+                "DTracks", "Sp- Sing-Along", "Sp- Kids Party", "Sp- Bach Party", "Sp- Workout", "Sp- Bach Israel", "Sp- Wedding",
             ],
 
             'Extra': [
                 "Girl Power", "Darbuka", "Israel [Loc]", "California [Loc]", 
-                "Morning", "Sunset", "PEGI 16 [Age]", "PEGI 4 [Age]", "BLAAAA"
+                "Morning", "Sunset", "PEGI 16 [Age]", "PEGI 4 [Age]",
             ],
 
         };
@@ -207,3 +207,5 @@ export default class TagFilter {
         this.songManager.updateActiveTags(this.activeTags);
     }
 }
+
+
