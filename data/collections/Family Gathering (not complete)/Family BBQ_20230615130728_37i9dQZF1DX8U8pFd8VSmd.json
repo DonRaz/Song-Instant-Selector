@@ -1,0 +1,1825 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Shake It Off",
+        "Artist": "Taylor Swift",
+        "Key": "9B",
+        "Energy": 8.2,
+        "Popularity": 6.67,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2010s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1CiVz2WkmZRwhU3A6J2Gjz",
+            "explicit": false,
+            "album": "1989 (Big Machine Radio Release Special)",
+            "release_date": "2014-10-27",
+            "genres": [
+                "pop"
+            ],
+            "duration": 219200,
+            "acousticness": 0.0647,
+            "danceability": 6.823,
+            "instrumentalness": 0,
+            "liveness": 0.334,
+            "loudness": -5.384,
+            "speechiness": 0.165,
+            "time_signature": 4,
+            "happiness": 9.478
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Happy - From \"Despicable Me 2\"",
+        "Artist": "Pharrell Williams",
+        "Key": "7A",
+        "Energy": 8.398,
+        "Popularity": 8.469999999999999,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2010s",
+            "Dance Remixes",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "60nZcImufyMA1MKQY3dcCH",
+            "explicit": false,
+            "album": "G I R L",
+            "release_date": "2014-03-03",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 232720,
+            "acousticness": 0.219,
+            "danceability": 6.823,
+            "instrumentalness": 0,
+            "liveness": 0.0908,
+            "loudness": -4.662,
+            "speechiness": 0.183,
+            "time_signature": 4,
+            "happiness": 9.658
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Summertime",
+        "Artist": "Netherfriends, Blake Rules",
+        "Key": "6B",
+        "Energy": 4.564,
+        "Popularity": 2.8899999999999997,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "6Nmc8lZk4YdfeZcqzFXsWR",
+            "explicit": false,
+            "album": "Kids Trap 11",
+            "release_date": "2019-07-19",
+            "genres": [
+                "shimmer pop",
+                "kids hip hop"
+            ],
+            "duration": 153600,
+            "acousticness": 0.0385,
+            "danceability": 8.452,
+            "instrumentalness": 1.95e-05,
+            "liveness": 0.089,
+            "loudness": -10.911,
+            "speechiness": 0.356,
+            "time_signature": 4,
+            "happiness": 5.2299999999999995
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Mr. Sun",
+        "Artist": "Raffi",
+        "Key": "10B",
+        "Energy": 4.474,
+        "Popularity": 6.13,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "70s",
+            "PEGI 4 [Age]"
+        ],
+        "Additional Info": {
+            "id": "68oEtRynOZG9E3yeTBWu3k",
+            "explicit": false,
+            "album": "Singable Songs for the Very Young",
+            "release_date": "1976",
+            "genres": [
+                "canadian children's music",
+                "children's folk",
+                "children's music"
+            ],
+            "duration": 76693,
+            "acousticness": 0.398,
+            "danceability": 7.021000000000001,
+            "instrumentalness": 0.000257,
+            "liveness": 0.267,
+            "loudness": -14.641,
+            "speechiness": 0.0524,
+            "time_signature": 4,
+            "happiness": 6.436
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Summer Feelings (feat. Charlie Puth) - From 'SCOOB!' The Album",
+        "Artist": "Lennon Stella, Charlie Puth",
+        "Key": "7A",
+        "Energy": 7.174,
+        "Popularity": 7.03,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2020s",
+            "Happy",
+            "Pop",
+            "Rock",
+            "Mad",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "49dFIRQCQxPWgoH0m38XQ5",
+            "explicit": false,
+            "album": "Summer Feelings (feat. Charlie Puth)",
+            "release_date": "2020-04-23",
+            "genres": [
+                "alt z",
+                "canadian pop",
+                "uk pop",
+                "pop",
+                "viral pop"
+            ],
+            "duration": 160289,
+            "acousticness": 0.262,
+            "danceability": 7.263999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.174,
+            "loudness": -6.113,
+            "speechiness": 0.0309,
+            "time_signature": 4,
+            "happiness": 7.3
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Dance Monkey",
+        "Artist": "Tones And I",
+        "Key": "2A",
+        "Energy": 6.292,
+        "Popularity": 8.11,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2XU0oxnq2qxCpomAAuJY8K",
+            "explicit": false,
+            "album": "Dance Monkey (Stripped Back) / Dance Monkey",
+            "release_date": "2019-10-17",
+            "genres": [
+                "australian pop"
+            ],
+            "duration": 209438,
+            "acousticness": 0.692,
+            "danceability": 8.416,
+            "instrumentalness": 0.000104,
+            "liveness": 0.149,
+            "loudness": -6.4,
+            "speechiness": 0.0924,
+            "time_signature": 4,
+            "happiness": 5.617
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Yummy Yum",
+        "Artist": "Mil's Trills, Amelia Robinson",
+        "Key": "11B",
+        "Energy": 5.014,
+        "Popularity": 2.5300000000000002,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "675muZKhdRoFseKaTUVH9N",
+            "explicit": false,
+            "album": "Ridiculous Nonsense",
+            "release_date": "2018-01-21",
+            "genres": [],
+            "duration": 82813,
+            "acousticness": 0.478,
+            "danceability": 9.631,
+            "instrumentalness": 0,
+            "liveness": 0.0394,
+            "loudness": -5.778,
+            "speechiness": 0.0426,
+            "time_signature": 4,
+            "happiness": 7.993
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Blinding Lights",
+        "Artist": "The Weeknd",
+        "Key": "3B",
+        "Energy": 7.543,
+        "Popularity": 5.59,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2020s",
+            "Romantic & Slow Dance",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5Sg09MvHqNWPWsYeuY2toY",
+            "explicit": false,
+            "album": "After Hours (Deluxe)",
+            "release_date": "2020-04-03",
+            "genres": [
+                "canadian contemporary r&b",
+                "canadian pop",
+                "pop"
+            ],
+            "duration": 200046,
+            "acousticness": 0.00153,
+            "danceability": 5.662,
+            "instrumentalness": 0.000152,
+            "liveness": 0.0882,
+            "loudness": -5.947,
+            "speechiness": 0.0557,
+            "time_signature": 4,
+            "happiness": 4.078
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Are You Ready for the Summer?",
+        "Artist": "Lisa Loeb",
+        "Key": "10B",
+        "Energy": 8.083,
+        "Popularity": 3.25,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2000s",
+            "Inspiring",
+            "Rock",
+            "Girl Power",
+            "Calm",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5TPTF6jjfJERlFj8TbLOvX",
+            "explicit": false,
+            "album": "Camp Lisa",
+            "release_date": "2008-09-16",
+            "genres": [
+                "ectofolk",
+                "lilith",
+                "new wave pop",
+                "pop rock",
+                "singer-songwriter"
+            ],
+            "duration": 81893,
+            "acousticness": 0.0407,
+            "danceability": 5.203,
+            "instrumentalness": 0,
+            "liveness": 0.346,
+            "loudness": -5.781,
+            "speechiness": 0.0447,
+            "time_signature": 4,
+            "happiness": 9.658
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Summertime",
+        "Artist": "DJ Jazzy Jeff & The Fresh Prince",
+        "Key": "9B",
+        "Energy": 5.851,
+        "Popularity": 7.03,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "90s",
+            "Nostalgic",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "20XdEFyaUR9C7aDIdq2OAd",
+            "explicit": false,
+            "album": "Homebase",
+            "release_date": "1991-07-09",
+            "genres": [
+                "golden age hip hop",
+                "old school hip hop",
+                "philly rap"
+            ],
+            "duration": 270973,
+            "acousticness": 0.0455,
+            "danceability": 7.093,
+            "instrumentalness": 1.84e-06,
+            "liveness": 0.845,
+            "loudness": -14.439,
+            "speechiness": 0.063,
+            "time_signature": 4,
+            "happiness": 5.221
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "I Love Food",
+        "Artist": "The Not-Its!",
+        "Key": "10B",
+        "Energy": 8.047,
+        "Popularity": 2.5300000000000002,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5oXvX5XuLiVtK3YQbE931Z",
+            "explicit": false,
+            "album": "Tag, You're It!",
+            "release_date": "2011-06-28",
+            "genres": [
+                "kindie rock"
+            ],
+            "duration": 171573,
+            "acousticness": 0.0247,
+            "danceability": 6.958,
+            "instrumentalness": 0,
+            "liveness": 0.0444,
+            "loudness": -4.178,
+            "speechiness": 0.0324,
+            "time_signature": 4,
+            "happiness": 9.487
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Yummy",
+        "Artist": "Justin Bieber",
+        "Key": "11A",
+        "Energy": 5.554,
+        "Popularity": 7.39,
+        "BPM": 146,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "16wAOAZ2OkqoIDN7TpChjR",
+            "explicit": false,
+            "album": "Changes",
+            "release_date": "2020-02-14",
+            "genres": [
+                "canadian pop",
+                "pop"
+            ],
+            "duration": 208520,
+            "acousticness": 0.345,
+            "danceability": 7.0840000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.118,
+            "loudness": -6.652,
+            "speechiness": 0.0958,
+            "time_signature": 4,
+            "happiness": 5.473
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "Backyard Swimsuit",
+        "Artist": "Koo Koo Kanga Roo, Sims",
+        "Key": "1B",
+        "Energy": 8.614,
+        "Popularity": 2.8,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2020s",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2b7pVukPLhe7PkzapD4sMy",
+            "explicit": false,
+            "album": "Backyard Swimsuit",
+            "release_date": "2021-05-14",
+            "genres": [
+                "kids hip hop",
+                "abstract hip hop",
+                "minnesota hip hop"
+            ],
+            "duration": 184492,
+            "acousticness": 0.148,
+            "danceability": 9.046,
+            "instrumentalness": 0,
+            "liveness": 0.0508,
+            "loudness": -6.674,
+            "speechiness": 0.165,
+            "time_signature": 4,
+            "happiness": 8.236
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Don't Stop the Party (feat. TJR)",
+        "Artist": "Pitbull, TJR",
+        "Key": "12B",
+        "Energy": 9.549999999999999,
+        "Popularity": 4.6899999999999995,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2010s",
+            "Latin",
+            "Hip Hop",
+            "EDM",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7ahuMdaf5gdVi35BzyU9Qu",
+            "explicit": false,
+            "album": "Greatest Hits",
+            "release_date": "2017-12-01",
+            "genres": [
+                "dance pop",
+                "miami hip hop",
+                "pop",
+                "dutch house",
+                "edm",
+                "electro house",
+                "melbourne bounce",
+                "moombahton",
+                "pop dance",
+                "progressive electro house",
+                "uk garage"
+            ],
+            "duration": 205880,
+            "acousticness": 0.00685,
+            "danceability": 7.462,
+            "instrumentalness": 0,
+            "liveness": 0.393,
+            "loudness": -3.617,
+            "speechiness": 0.102,
+            "time_signature": 4,
+            "happiness": 9.504999999999999
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Yummy Yummy Fresh",
+        "Artist": "Alphabet Rockers, Mista Cookie Jar",
+        "Key": "10B",
+        "Energy": 7.021000000000001,
+        "Popularity": 2.44,
+        "BPM": 87,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "7MgM2wyHc1G3tu7GSJak0s",
+            "explicit": false,
+            "album": "Yummy Yummy Fresh",
+            "release_date": "2016-11-01",
+            "genres": [
+                "kindie rock",
+                "kindie rock"
+            ],
+            "duration": 160341,
+            "acousticness": 0.103,
+            "danceability": 7.588,
+            "instrumentalness": 0,
+            "liveness": 0.325,
+            "loudness": -8.287,
+            "speechiness": 0.399,
+            "time_signature": 4,
+            "happiness": 6.8950000000000005
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "Party In The U.S.A.",
+        "Artist": "Miley Cyrus",
+        "Key": "6A",
+        "Energy": 7.282,
+        "Popularity": 8.2,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2000s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5Q0Nhxo0l2bP3pNjpGJwV1",
+            "explicit": false,
+            "album": "The Time Of Our Lives",
+            "release_date": "2009-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 202067,
+            "acousticness": 0.00112,
+            "danceability": 6.868,
+            "instrumentalness": 0.000115,
+            "liveness": 0.0886,
+            "loudness": -4.667,
+            "speechiness": 0.042,
+            "time_signature": 4,
+            "happiness": 5.2299999999999995
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "Summertime!",
+        "Artist": "The Aquabats!",
+        "Key": "8B",
+        "Energy": 7.732,
+        "Popularity": 2.8,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1gAaCOTfapa9tB4nWkUWP2",
+            "explicit": false,
+            "album": "The Aquabats! Super Show! (Television Soundtrack), Vol. 1",
+            "release_date": "2019-06-07",
+            "genres": [
+                "ska",
+                "ska punk"
+            ],
+            "duration": 79213,
+            "acousticness": 0.114,
+            "danceability": 6.742,
+            "instrumentalness": 1.67e-05,
+            "liveness": 0.193,
+            "loudness": -3.776,
+            "speechiness": 0.128,
+            "time_signature": 4,
+            "happiness": 9.388
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Firework",
+        "Artist": "Katy Perry",
+        "Key": "4B",
+        "Energy": 8.434,
+        "Popularity": 7.57,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4lCv7b86sLynZbXhfScfm2",
+            "explicit": false,
+            "album": "Teenage Dream: The Complete Confection",
+            "release_date": "2012-03-12",
+            "genres": [
+                "pop"
+            ],
+            "duration": 227880,
+            "acousticness": 0.139,
+            "danceability": 6.742,
+            "instrumentalness": 0,
+            "liveness": 0.0803,
+            "loudness": -4.968,
+            "speechiness": 0.0479,
+            "time_signature": 4,
+            "happiness": 6.841
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Hot Dog",
+        "Artist": "Laura Doherty",
+        "Key": "9B",
+        "Energy": 4.96,
+        "Popularity": 2.8,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1cHA0gK0UzmkOjdi9Ldwwi",
+            "explicit": false,
+            "album": "Kids In The City",
+            "release_date": "2009-05-06",
+            "genres": [
+                "children's folk"
+            ],
+            "duration": 115200,
+            "acousticness": 0.811,
+            "danceability": 8.056000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.105,
+            "loudness": -8.78,
+            "speechiness": 0.0901,
+            "time_signature": 4,
+            "happiness": 7.3
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "Here Comes The Sun - Remastered 2009",
+        "Artist": "The Beatles",
+        "Key": "11B",
+        "Energy": 5.86,
+        "Popularity": 8.74,
+        "BPM": 129,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "60s",
+            "Inspiring",
+            "Rock",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "6dGnYIeXmHdcikdzNNDMm2",
+            "explicit": false,
+            "album": "Abbey Road (Remastered)",
+            "release_date": "1969-09-26",
+            "genres": [
+                "beatlesque",
+                "british invasion",
+                "classic rock",
+                "merseybeat",
+                "psychedelic rock",
+                "rock"
+            ],
+            "duration": 185733,
+            "acousticness": 0.0339,
+            "danceability": 6.013000000000001,
+            "instrumentalness": 0.00248,
+            "liveness": 0.179,
+            "loudness": -10.484,
+            "speechiness": 0.0347,
+            "time_signature": 4,
+            "happiness": 4.546
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Best Day Ever",
+        "Artist": "SaulPaul",
+        "Key": "2A",
+        "Energy": 5.518,
+        "Popularity": 3.43,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1JGUj6Cjj3pJHle2QSixMf",
+            "explicit": false,
+            "album": "Best Day Ever",
+            "release_date": "2021-04-30",
+            "genres": [
+                "kindie rock"
+            ],
+            "duration": 150857,
+            "acousticness": 0.447,
+            "danceability": 8.866,
+            "instrumentalness": 6.22e-06,
+            "liveness": 0.205,
+            "loudness": -8.516,
+            "speechiness": 0.123,
+            "time_signature": 4,
+            "happiness": 8.578
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "The Bones",
+        "Artist": "Maren Morris",
+        "Key": "1A",
+        "Energy": 6.13,
+        "Popularity": 7.75,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "7yFhA2fUsL2oIMWlw5DaHQ",
+            "explicit": false,
+            "album": "GIRL",
+            "release_date": "2019-03-08",
+            "genres": [
+                "classic texas country",
+                "contemporary country"
+            ],
+            "duration": 197293,
+            "acousticness": 0.278,
+            "danceability": 6.508,
+            "instrumentalness": 0,
+            "liveness": 0.0963,
+            "loudness": -6.642,
+            "speechiness": 0.0347,
+            "time_signature": 4,
+            "happiness": 4.006
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Tequila",
+        "Artist": "The Surfaris",
+        "Key": "6B",
+        "Energy": 5.518,
+        "Popularity": 4.33,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "90s",
+            "California [Loc]",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6iBdawbfBxb7op85Ydd9C7",
+            "explicit": false,
+            "album": "Surf Party: Best Of The Surfaris - Live!",
+            "release_date": "1994",
+            "genres": [
+                "surf music"
+            ],
+            "duration": 162907,
+            "acousticness": 0.00622,
+            "danceability": 4.2669999999999995,
+            "instrumentalness": 0.0462,
+            "liveness": 0.899,
+            "loudness": -15.05,
+            "speechiness": 0.038,
+            "time_signature": 4,
+            "happiness": 8.677
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Pool Party",
+        "Artist": "The Aquabats!",
+        "Key": "11B",
+        "Energy": 9.280000000000001,
+        "Popularity": 4.51,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1ORFX0Ydw9aLcDVo4vHg2n",
+            "explicit": false,
+            "album": "Myths, Legends And Other Amazing Adventures Vol. 2",
+            "release_date": "2000-11-07",
+            "genres": [
+                "ska",
+                "ska punk"
+            ],
+            "duration": 255600,
+            "acousticness": 0.137,
+            "danceability": 5.599,
+            "instrumentalness": 0,
+            "liveness": 0.331,
+            "loudness": -3.979,
+            "speechiness": 0.223,
+            "time_signature": 4,
+            "happiness": 7.651
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "Lovely Day",
+        "Artist": "Bill Withers",
+        "Key": "11B",
+        "Energy": 6.084999999999999,
+        "Popularity": 6.8500000000000005,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "90s",
+            "Dance Remixes",
+            "Calm",
+            "Romantic & Slow Dance",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0ACACkoHUwgfgY5CxVIL4N",
+            "explicit": false,
+            "album": "Lean on Me: The Best of Bill Withers",
+            "release_date": "1994-08-09",
+            "genres": [
+                "classic soul",
+                "funk",
+                "quiet storm",
+                "soul"
+            ],
+            "duration": 255067,
+            "acousticness": 0.194,
+            "danceability": 7.2459999999999996,
+            "instrumentalness": 0.000172,
+            "liveness": 0.0806,
+            "loudness": -12.583,
+            "speechiness": 0.0345,
+            "time_signature": 4,
+            "happiness": 7.228
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "Lemonade Stand",
+        "Artist": "Lucky Diaz and the Family Jam Band",
+        "Key": "8B",
+        "Energy": 7.191999999999999,
+        "Popularity": 2.2600000000000002,
+        "BPM": 79,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "5f6LCqqqP2JJ3LhHiR7SFq",
+            "explicit": false,
+            "album": "A Potluck",
+            "release_date": "2012-05-08",
+            "genres": [
+                "kindie rock"
+            ],
+            "duration": 161211,
+            "acousticness": 0.0107,
+            "danceability": 6.228999999999999,
+            "instrumentalness": 0.00107,
+            "liveness": 0.13,
+            "loudness": -5.578,
+            "speechiness": 0.052,
+            "time_signature": 4,
+            "happiness": 4.321
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "Saturday in the Park - 2002 Remaster",
+        "Artist": "Chicago",
+        "Key": "9B",
+        "Energy": 7.867,
+        "Popularity": 7.03,
+        "BPM": 114,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "70s",
+            "Calm",
+            "Rock",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "4OJFkrRQqol4FsPesF8eu4",
+            "explicit": false,
+            "album": "Chicago V (Expanded & Remastered)",
+            "release_date": "1972-07-10",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "mellow gold",
+                "rock",
+                "soft rock",
+                "yacht rock"
+            ],
+            "duration": 235667,
+            "acousticness": 0.155,
+            "danceability": 7.03,
+            "instrumentalness": 0,
+            "liveness": 0.0799,
+            "loudness": -6.864,
+            "speechiness": 0.0341,
+            "time_signature": 4,
+            "happiness": 6.49
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Best Day Of My Life",
+        "Artist": "American Authors",
+        "Key": "10B",
+        "Energy": 9.118,
+        "Popularity": 8.379999999999999,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2010s",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5Hroj5K7vLpIG4FNCRIjbP",
+            "explicit": false,
+            "album": "Oh, What A Life",
+            "release_date": "2014-01-01",
+            "genres": [
+                "modern rock",
+                "pop rock"
+            ],
+            "duration": 194240,
+            "acousticness": 0.0591,
+            "danceability": 7.057,
+            "instrumentalness": 0.000262,
+            "liveness": 0.0558,
+            "loudness": -2.392,
+            "speechiness": 0.0346,
+            "time_signature": 4,
+            "happiness": 5.8420000000000005
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+        "Artist": "Justin Timberlake",
+        "Key": "8B",
+        "Energy": 8.488,
+        "Popularity": 7.84,
+        "BPM": 113,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2010s",
+            "Dance Remixes",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1WkMMavIMc4JZ8cfMmxHkI",
+            "explicit": false,
+            "album": "TROLLS (Original Motion Picture Soundtrack)",
+            "release_date": "2016-09-23",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 237547,
+            "acousticness": 0.0106,
+            "danceability": 7.021000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0968,
+            "loudness": -5.721,
+            "speechiness": 0.0682,
+            "time_signature": 4,
+            "happiness": 7.3
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Get Outside",
+        "Artist": "Wendy and DB",
+        "Key": "8B",
+        "Energy": 5.626,
+        "Popularity": 2.08,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0Mx4DMMD8NccivXrUg0DWU",
+            "explicit": false,
+            "album": "Hey Big World",
+            "release_date": "2020-05-14",
+            "genres": [],
+            "duration": 186907,
+            "acousticness": 0.383,
+            "danceability": 8.488,
+            "instrumentalness": 0,
+            "liveness": 0.662,
+            "loudness": -10.479,
+            "speechiness": 0.0677,
+            "time_signature": 4,
+            "happiness": 9.001
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "Peaches",
+        "Artist": "The Presidents Of The United States Of America",
+        "Key": "1B",
+        "Energy": 8.677,
+        "Popularity": 7.03,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "90s",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5huLMzIzFEdVcvEzt2hfk1",
+            "explicit": false,
+            "album": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
+            "release_date": "1995-01-01",
+            "genres": [
+                "alternative rock",
+                "grunge",
+                "pop rock"
+            ],
+            "duration": 171693,
+            "acousticness": 0.0181,
+            "danceability": 4.726,
+            "instrumentalness": 0.0012,
+            "liveness": 0.049,
+            "loudness": -4.198,
+            "speechiness": 0.0453,
+            "time_signature": 4,
+            "happiness": 6.616
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "Hot Sauce",
+        "Artist": "Koo Koo Kanga Roo",
+        "Key": "3B",
+        "Energy": 7.452999999999999,
+        "Popularity": 3.25,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1FSj3PsTEYUGtHRgk7p3QJ",
+            "explicit": false,
+            "album": "Hot Sauce",
+            "release_date": "2019-11-15",
+            "genres": [
+                "kids hip hop"
+            ],
+            "duration": 139920,
+            "acousticness": 0.18,
+            "danceability": 9.586,
+            "instrumentalness": 0,
+            "liveness": 0.0366,
+            "loudness": -8.716,
+            "speechiness": 0.113,
+            "time_signature": 4,
+            "happiness": 8.182
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "Spice Up Your Life",
+        "Artist": "Spice Girls",
+        "Key": "3B",
+        "Energy": 9.937,
+        "Popularity": 7.209999999999999,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "90s",
+            "Dance Remixes",
+            "Girl Power",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5qGwqO0lkbBXw4xNfzT7SF",
+            "explicit": false,
+            "album": "Spiceworld",
+            "release_date": "1997-01-01",
+            "genres": [
+                "dance pop",
+                "girl group",
+                "pop"
+            ],
+            "duration": 173667,
+            "acousticness": 0.0105,
+            "danceability": 6.0040000000000004,
+            "instrumentalness": 0.0341,
+            "liveness": 0.403,
+            "loudness": -5.067,
+            "speechiness": 0.0464,
+            "time_signature": 4,
+            "happiness": 7.318
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "Try Everything",
+        "Artist": "Shakira",
+        "Key": "3B",
+        "Energy": 6.481,
+        "Popularity": 7.4799999999999995,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2010s",
+            "Dance Remixes",
+            "Latin",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1N3dZ7TTWO6VcD4Y3hHYLZ",
+            "explicit": false,
+            "album": "Zootopia (Original Motion Picture Soundtrack)",
+            "release_date": "2016-02-12",
+            "genres": [
+                "colombian pop",
+                "dance pop",
+                "latin pop",
+                "pop"
+            ],
+            "duration": 196853,
+            "acousticness": 0.0257,
+            "danceability": 7.345,
+            "instrumentalness": 0,
+            "liveness": 0.0846,
+            "loudness": -4.897,
+            "speechiness": 0.0307,
+            "time_signature": 4,
+            "happiness": 5.284
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Celebration - Single Version",
+        "Artist": "Kool & The Gang",
+        "Key": "3B",
+        "Energy": 8.533,
+        "Popularity": 7.12,
+        "BPM": 121,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2010s",
+            "Dance Remixes",
+            "Romantic & Slow Dance",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6HIVJXpdvp1C1ubfnkFnz8",
+            "explicit": false,
+            "album": "Collected",
+            "release_date": "2018-05-25",
+            "genres": [
+                "disco",
+                "funk",
+                "motown",
+                "soul"
+            ],
+            "duration": 218787,
+            "acousticness": 0.0216,
+            "danceability": 8.416,
+            "instrumentalness": 0.00944,
+            "liveness": 0.123,
+            "loudness": -7.124,
+            "speechiness": 0.054,
+            "time_signature": 4,
+            "happiness": 9.523
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "Party In The USA",
+        "Artist": "Kidz Bop Kids",
+        "Key": "6A",
+        "Energy": 6.724,
+        "Popularity": 3.6999999999999997,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2010s",
+            "PEGI 4 [Age]",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3OtUDYBkxryDrOoNfScc1D",
+            "explicit": false,
+            "album": "Kidz Bop Dance Party!",
+            "release_date": "2010-05-03",
+            "genres": [
+                "children's music"
+            ],
+            "duration": 203773,
+            "acousticness": 0.00654,
+            "danceability": 7.201,
+            "instrumentalness": 0,
+            "liveness": 0.0438,
+            "loudness": -6.902,
+            "speechiness": 0.0329,
+            "time_signature": 4,
+            "happiness": 8.748999999999999
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "Jump in the Line",
+        "Artist": "Harry Belafonte",
+        "Key": "7B",
+        "Energy": 9.001,
+        "Popularity": 7.12,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1zW2csx1vVJrKfvDrFQNVt",
+            "explicit": false,
+            "album": "Jump Up Calypso",
+            "release_date": "1961-07-21",
+            "genres": [
+                "calypso"
+            ],
+            "duration": 221704,
+            "acousticness": 0.768,
+            "danceability": 6.346,
+            "instrumentalness": 0,
+            "liveness": 0.124,
+            "loudness": -7.775,
+            "speechiness": 0.246,
+            "time_signature": 4,
+            "happiness": 8.2
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "Flames",
+        "Artist": "David Guetta, Sia",
+        "Key": "7A",
+        "Energy": 7.534,
+        "Popularity": 7.12,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2010s",
+            "Dance Remixes",
+            "EDM",
+            "Club-Hotel",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "33IOhptvC2Qoy2UhjiHXLV",
+            "explicit": false,
+            "album": "Flames",
+            "release_date": "2018-03-22",
+            "genres": [
+                "big room",
+                "dance pop",
+                "edm",
+                "pop",
+                "pop dance",
+                "australian dance",
+                "australian pop",
+                "pop"
+            ],
+            "duration": 195000,
+            "acousticness": 0.0723,
+            "danceability": 6.481,
+            "instrumentalness": 8.45e-06,
+            "liveness": 0.0895,
+            "loudness": -4.346,
+            "speechiness": 0.0414,
+            "time_signature": 4,
+            "happiness": 4.258
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "In the Summertime",
+        "Artist": "Mungo Jerry",
+        "Key": "12B",
+        "Energy": 6.8500000000000005,
+        "Popularity": 7.66,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "70s",
+            "Nostalgic",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3RNyGLgSvmVRZ7xKUp8Wgd",
+            "explicit": false,
+            "album": "In the Summertime",
+            "release_date": "1970-01-01",
+            "genres": [
+                "british blues",
+                "classic uk pop"
+            ],
+            "duration": 215800,
+            "acousticness": 0.66,
+            "danceability": 6.7780000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.14,
+            "loudness": -8.567,
+            "speechiness": 0.0623,
+            "time_signature": 4,
+            "happiness": 9.757
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "Hot Hot Hot",
+        "Artist": "Buster Poindexter And His Banshees Of Blue",
+        "Key": "8B",
+        "Energy": 7.588,
+        "Popularity": 5.5,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "80s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2BeFYfKuc0AZGhbeVY78ep",
+            "explicit": false,
+            "album": "Buster Poindexter",
+            "release_date": "1987-01-31",
+            "genres": [],
+            "duration": 250000,
+            "acousticness": 0.315,
+            "danceability": 6.319,
+            "instrumentalness": 0.000116,
+            "liveness": 0.28,
+            "loudness": -10.987,
+            "speechiness": 0.183,
+            "time_signature": 4,
+            "happiness": 8.029
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "Rare",
+        "Artist": "Selena Gomez",
+        "Key": "7B",
+        "Energy": 5.905,
+        "Popularity": 6.94,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2020s",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7HMmFQsKsljwTw8bS7lu19",
+            "explicit": false,
+            "album": "Rare",
+            "release_date": "2020-01-10",
+            "genres": [
+                "pop",
+                "post-teen pop"
+            ],
+            "duration": 220590,
+            "acousticness": 0.208,
+            "danceability": 8.542,
+            "instrumentalness": 8.01e-05,
+            "liveness": 0.103,
+            "loudness": -6.713,
+            "speechiness": 0.0706,
+            "time_signature": 4,
+            "happiness": 6.679
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "Pocketful of Sunshine",
+        "Artist": "Natasha Bedingfield",
+        "Key": "11A",
+        "Energy": 8.92,
+        "Popularity": 7.57,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2000s",
+            "Dance Remixes",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1uigwk5hNV84zRd5YQQRTk",
+            "explicit": false,
+            "album": "Pocketful Of Sunshine",
+            "release_date": "2007-04-27",
+            "genres": [
+                "dance pop",
+                "pop",
+                "post-teen pop"
+            ],
+            "duration": 202907,
+            "acousticness": 0.191,
+            "danceability": 7.489,
+            "instrumentalness": 0,
+            "liveness": 0.0769,
+            "loudness": -3.896,
+            "speechiness": 0.0454,
+            "time_signature": 4,
+            "happiness": 6.8950000000000005
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "Ice Cream Man",
+        "Artist": "Blur",
+        "Key": "11A",
+        "Energy": 6.715,
+        "Popularity": 5.140000000000001,
+        "BPM": 79,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2010s",
+            "Nostalgic",
+            "Rock",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3nFmJyWPkhZuweqj1WkTCm",
+            "explicit": false,
+            "album": "The Magic Whip",
+            "release_date": "2015-04-24",
+            "genres": [
+                "alternative rock",
+                "britpop",
+                "madchester",
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 205200,
+            "acousticness": 0.425,
+            "danceability": 7.489,
+            "instrumentalness": 0.32,
+            "liveness": 0.127,
+            "loudness": -7.111,
+            "speechiness": 0.0312,
+            "time_signature": 4,
+            "happiness": 7.147
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "Hot Dog!",
+        "Artist": "They Might Be Giants (For Kids)",
+        "Key": "9B",
+        "Energy": 6.985,
+        "Popularity": 6.040000000000001,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3vjOGPGu3tgYi3oBkQ2Gjz",
+            "explicit": false,
+            "album": "Mickey Mouse Clubhouse",
+            "release_date": "2006-01-01",
+            "genres": [],
+            "duration": 148093,
+            "acousticness": 0.467,
+            "danceability": 8.460999999999999,
+            "instrumentalness": 5.27e-06,
+            "liveness": 0.0688,
+            "loudness": -7.666,
+            "speechiness": 0.0681,
+            "time_signature": 4,
+            "happiness": 9.289
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "Ice Cream Man",
+        "Artist": "Jonathan Richman & The Modern Lovers",
+        "Key": "11B",
+        "Energy": 4.122999999999999,
+        "Popularity": 3.88,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "70s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "2hOId5iamZtddQ0n0hMKqA",
+            "explicit": false,
+            "album": "Rock 'n' Roll With the Modern Lovers (Bonus Track Edition)",
+            "release_date": "1977-01-01",
+            "genres": [
+                "boston rock"
+            ],
+            "duration": 182440,
+            "acousticness": 0.111,
+            "danceability": 6.454,
+            "instrumentalness": 0,
+            "liveness": 0.469,
+            "loudness": -9.858,
+            "speechiness": 0.0257,
+            "time_signature": 4,
+            "happiness": 6.886
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "Salad",
+        "Artist": "Koo Koo Kanga Roo",
+        "Key": "4B",
+        "Energy": 6.3999999999999995,
+        "Popularity": 2.17,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "20RO9qidpVyLDrb0BsCZmR",
+            "explicit": false,
+            "album": "Fast Casual",
+            "release_date": "2018-09-28",
+            "genres": [
+                "kids hip hop"
+            ],
+            "duration": 131000,
+            "acousticness": 0.0351,
+            "danceability": 8.803,
+            "instrumentalness": 0,
+            "liveness": 0.103,
+            "loudness": -11.77,
+            "speechiness": 0.161,
+            "time_signature": 4,
+            "happiness": 6.805
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "Hamburger Hop",
+        "Artist": "Less Than Jake",
+        "Key": "1B",
+        "Energy": 5.437,
+        "Popularity": 1.99,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2000s",
+            "Mad",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "53EQnnXDT93ihU42j3nvDK",
+            "explicit": false,
+            "album": "Goodbye Blue & White",
+            "release_date": "2008-03-18",
+            "genres": [
+                "modern ska punk",
+                "pop punk",
+                "punk",
+                "ska",
+                "ska punk",
+                "skate punk"
+            ],
+            "duration": 50760,
+            "acousticness": 0.818,
+            "danceability": 7.236999999999999,
+            "instrumentalness": 0.0885,
+            "liveness": 0.0902,
+            "loudness": -10.388,
+            "speechiness": 0.238,
+            "time_signature": 4,
+            "happiness": 5.8870000000000005
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "Cuantos Tacos (The Taco Song)",
+        "Artist": "Lucky Diaz and the Family Jam Band",
+        "Key": "4B",
+        "Energy": 7.543,
+        "Popularity": 2.44,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4gwBN4pGzuwvn5uoKe9JCS",
+            "explicit": false,
+            "album": "Adelante",
+            "release_date": "2015-06-30",
+            "genres": [
+                "kindie rock"
+            ],
+            "duration": 174511,
+            "acousticness": 0.0183,
+            "danceability": 8.209,
+            "instrumentalness": 9.61e-06,
+            "liveness": 0.202,
+            "loudness": -5.718,
+            "speechiness": 0.0487,
+            "time_signature": 4,
+            "happiness": 9.325000000000001
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "Summer Sunshine",
+        "Artist": "Rebecca Frezza & Big Truck",
+        "Key": "9B",
+        "Energy": 3.4480000000000004,
+        "Popularity": 1.81,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "2000s",
+            "PEGI 4 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0QfYy4pgfxQ2Af3ScScLWY",
+            "explicit": false,
+            "album": "Special Kind Of Day",
+            "release_date": "2008-03-09",
+            "genres": [
+                "children's music",
+                "kindie rock"
+            ],
+            "duration": 162987,
+            "acousticness": 0.923,
+            "danceability": 4.582000000000001,
+            "instrumentalness": 0.00233,
+            "liveness": 0.11,
+            "loudness": -11.275,
+            "speechiness": 0.028,
+            "time_signature": 4,
+            "happiness": 3.394
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "La Bamba",
+        "Artist": "Los Lobos",
+        "Key": "8B",
+        "Energy": 7.759,
+        "Popularity": 6.3999999999999995,
+        "BPM": 78,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Family Gathering",
+            "90s",
+            "Rock",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6uU5OBhGUE1ngSKDj4wtoq",
+            "explicit": false,
+            "album": "Just Another Band From East L.A.: A Collection",
+            "release_date": "1993",
+            "genres": [
+                "roots rock"
+            ],
+            "duration": 172733,
+            "acousticness": 0.0699,
+            "danceability": 4.132,
+            "instrumentalness": 0.000738,
+            "liveness": 0.208,
+            "loudness": -12.823,
+            "speechiness": 0.0494,
+            "time_signature": 4,
+            "happiness": 8.974
+        }
+    }
+]

@@ -1,0 +1,3518 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Iris (Acoustic)",
+        "Artist": "Savella, Rachael Schroeder",
+        "Key": "4B",
+        "Energy": 1.9449999999999998,
+        "Popularity": 5.05,
+        "BPM": 145,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2QB51enc3JxnKPHaR3HpGg",
+            "explicit": false,
+            "album": "The Best Covers Ever",
+            "release_date": "2022-04-21",
+            "genres": [],
+            "duration": 162431,
+            "acousticness": 0.908,
+            "danceability": 4.915,
+            "instrumentalness": 0,
+            "liveness": 0.137,
+            "loudness": -14.825,
+            "speechiness": 0.0416,
+            "time_signature": 3,
+            "happiness": 3.1060000000000003
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Beautiful Soul",
+        "Artist": "Boyce Avenue",
+        "Key": "11B",
+        "Energy": 5.554,
+        "Popularity": 6.76,
+        "BPM": 87,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s",
+            "Calm",
+            "Happy",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3g61xRaqII8q1wlQDzv550",
+            "explicit": false,
+            "album": "Cover Sessions, Vol. 4",
+            "release_date": "2017-12-19",
+            "genres": [
+                "acoustic cover",
+                "neo mellow",
+                "viral pop"
+            ],
+            "duration": 216612,
+            "acousticness": 0.394,
+            "danceability": 5.3469999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.0946,
+            "loudness": -6.058,
+            "speechiness": 0.0347,
+            "time_signature": 4,
+            "happiness": 7.345
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Only Love",
+        "Artist": "Fearless Soul, Rachael Schroeder",
+        "Key": "7A",
+        "Energy": 4.680999999999999,
+        "Popularity": 4.779999999999999,
+        "BPM": 135,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "65XUijLKHruEYw1zMwKeI5",
+            "explicit": false,
+            "album": "Only Love",
+            "release_date": "2021-01-05",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 259115,
+            "acousticness": 0.125,
+            "danceability": 4.852,
+            "instrumentalness": 0,
+            "liveness": 0.111,
+            "loudness": -8.552,
+            "speechiness": 0.0281,
+            "time_signature": 4,
+            "happiness": 2.431
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "A Thousand Years",
+        "Artist": "Fearless Soul",
+        "Key": "9B",
+        "Energy": 3.673,
+        "Popularity": 5.32,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "5pEgla71thywY55hacZiQy",
+            "explicit": false,
+            "album": "A Thousand Years",
+            "release_date": "2023-04-06",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 271000,
+            "acousticness": 0.675,
+            "danceability": 3.637,
+            "instrumentalness": 0.00177,
+            "liveness": 0.136,
+            "loudness": -12.13,
+            "speechiness": 0.0327,
+            "time_signature": 3,
+            "happiness": 1.8865
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Fix You",
+        "Artist": "Fearless Soul",
+        "Key": "10B",
+        "Energy": 3.403,
+        "Popularity": 5.5,
+        "BPM": 142,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "61nuSfHr6RUSS0IY7poGlT",
+            "explicit": false,
+            "album": "Cover Sessions",
+            "release_date": "2021-05-06",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 266675,
+            "acousticness": 0.613,
+            "danceability": 3.9250000000000003,
+            "instrumentalness": 0,
+            "liveness": 0.0912,
+            "loudness": -8.18,
+            "speechiness": 0.0328,
+            "time_signature": 4,
+            "happiness": 2.431
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Chasing Cars",
+        "Artist": "Savella, Rachael Schroeder",
+        "Key": "11B",
+        "Energy": 4.384,
+        "Popularity": 4.6,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2LzczQwwi3d76PgkMZSZAP",
+            "explicit": false,
+            "album": "Chasing Cars",
+            "release_date": "2023-06-01",
+            "genres": [],
+            "duration": 256000,
+            "acousticness": 0.418,
+            "danceability": 4.564,
+            "instrumentalness": 2.44e-06,
+            "liveness": 0.0983,
+            "loudness": -10.742,
+            "speechiness": 0.0287,
+            "time_signature": 4,
+            "happiness": 2.539
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Blinding Lights",
+        "Artist": "Loi",
+        "Key": "6A",
+        "Energy": 2.62,
+        "Popularity": 7.209999999999999,
+        "BPM": 73,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "0cQJGoRki2avKVodXEmr0d",
+            "explicit": false,
+            "album": "Blinding Lights",
+            "release_date": "2021-09-17",
+            "genres": [],
+            "duration": 147368,
+            "acousticness": 0.917,
+            "danceability": 5.374,
+            "instrumentalness": 0,
+            "liveness": 0.128,
+            "loudness": -10.906,
+            "speechiness": 0.0565,
+            "time_signature": 3,
+            "happiness": 5.86
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "You're Still The One",
+        "Artist": "Savella, Rachael Schroeder",
+        "Key": "5B",
+        "Energy": 3.646,
+        "Popularity": 5.2299999999999995,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1T9ZRhyql82trrAlxLXLlb",
+            "explicit": false,
+            "album": "You're Still The One",
+            "release_date": "2023-05-18",
+            "genres": [],
+            "duration": 197600,
+            "acousticness": 0.702,
+            "danceability": 6.040000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0826,
+            "loudness": -9.107,
+            "speechiness": 0.0285,
+            "time_signature": 4,
+            "happiness": 3.79
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Use Somebody - Bonus Track",
+        "Artist": "Tyrone Wells",
+        "Key": "7B",
+        "Energy": 4.492,
+        "Popularity": 5.59,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s",
+            "Calm",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0G4KtmgyE9Loz4C22YP2uz",
+            "explicit": false,
+            "album": "Metal & Wood",
+            "release_date": "2010-03-02",
+            "genres": [
+                "acoustic pop",
+                "neo mellow"
+            ],
+            "duration": 227773,
+            "acousticness": 0.68,
+            "danceability": 6.805,
+            "instrumentalness": 5.32e-05,
+            "liveness": 0.109,
+            "loudness": -8.731,
+            "speechiness": 0.0282,
+            "time_signature": 4,
+            "happiness": 2.539
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Photograph",
+        "Artist": "Boyce Avenue, Bea Miller",
+        "Key": "5B",
+        "Energy": 3.88,
+        "Popularity": 7.12,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s",
+            "Inspiring",
+            "Rock",
+            "Calm",
+            "Pop",
+            "Happy",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "6CgNoAbFJ4Q4Id4EjtbXlC",
+            "explicit": false,
+            "album": "Cover Sessions, Vol. 4",
+            "release_date": "2017-12-19",
+            "genres": [
+                "acoustic cover",
+                "neo mellow",
+                "viral pop",
+                "alt z",
+                "pop",
+                "talent show"
+            ],
+            "duration": 260187,
+            "acousticness": 0.83,
+            "danceability": 7.452999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.107,
+            "loudness": -8.393,
+            "speechiness": 0.0283,
+            "time_signature": 4,
+            "happiness": 3.898
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Let Her Go",
+        "Artist": "Kurt Hugo Schneider, Tyler Ward",
+        "Key": "9B",
+        "Energy": 4.564,
+        "Popularity": 3.5200000000000005,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3J8oMWcp5keI5B9NR77qzE",
+            "explicit": false,
+            "album": "Piano Acoustic Covers Vol 2",
+            "release_date": "2017-11-01",
+            "genres": [
+                "viral pop",
+                "acoustic cover",
+                "viral pop"
+            ],
+            "duration": 206301,
+            "acousticness": 0.848,
+            "danceability": 5.059,
+            "instrumentalness": 0,
+            "liveness": 0.0957,
+            "loudness": -7.648,
+            "speechiness": 0.0512,
+            "time_signature": 1,
+            "happiness": 3.025
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Dancing On My Own",
+        "Artist": "Calum Scott",
+        "Key": "3B",
+        "Energy": 2.575,
+        "Popularity": 1.0,
+        "BPM": 113,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2TmLZLv57mW4OA3Il1ULsf",
+            "explicit": false,
+            "album": "Dancing On My Own",
+            "release_date": "2016-03-11",
+            "genres": [
+                "pop"
+            ],
+            "duration": 260004,
+            "acousticness": 0.847,
+            "danceability": 7.138000000000001,
+            "instrumentalness": 3.21e-05,
+            "liveness": 0.101,
+            "loudness": -8.688,
+            "speechiness": 0.0313,
+            "time_signature": 4,
+            "happiness": 3.007
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "My Immortal",
+        "Artist": "Savella, Rachael Schroeder",
+        "Key": "9B",
+        "Energy": 5.005,
+        "Popularity": 4.6,
+        "BPM": 142,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "6Wsm0tsNz4l80pciJNNqgp",
+            "explicit": false,
+            "album": "My Immortal",
+            "release_date": "2021-08-16",
+            "genres": [],
+            "duration": 275000,
+            "acousticness": 0.145,
+            "danceability": 3.6639999999999997,
+            "instrumentalness": 0,
+            "liveness": 0.178,
+            "loudness": -9.841,
+            "speechiness": 0.0365,
+            "time_signature": 4,
+            "happiness": 1.6885
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Fast Car - Acoustic",
+        "Artist": "Jonas Blue, Dakota",
+        "Key": "11B",
+        "Energy": 3.133,
+        "Popularity": 6.8500000000000005,
+        "BPM": 103,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s",
+            "Dance Remixes",
+            "EDM",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "618v3huzqDQQBfMogznSb3",
+            "explicit": false,
+            "album": "Fast Car (Acoustic)",
+            "release_date": "2016-02-01",
+            "genres": [
+                "pop",
+                "pop dance",
+                "tropical house",
+                "uk dance"
+            ],
+            "duration": 217864,
+            "acousticness": 0.865,
+            "danceability": 5.2749999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.0881,
+            "loudness": -9.923,
+            "speechiness": 0.0342,
+            "time_signature": 4,
+            "happiness": 6.3549999999999995
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Heaven",
+        "Artist": "Savella, Rachael Schroeder",
+        "Key": "8B",
+        "Energy": 2.62,
+        "Popularity": 4.87,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "0Dc7TkzWAujsC0FcJlPYbP",
+            "explicit": false,
+            "album": "Heaven",
+            "release_date": "2021-11-29",
+            "genres": [],
+            "duration": 224000,
+            "acousticness": 0.929,
+            "danceability": 6.481,
+            "instrumentalness": 0,
+            "liveness": 0.126,
+            "loudness": -10.544,
+            "speechiness": 0.0338,
+            "time_signature": 4,
+            "happiness": 3.475
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "You Are The Reason",
+        "Artist": "Savella, Rachael Schroeder",
+        "Key": "6B",
+        "Energy": 2.404,
+        "Popularity": 4.779999999999999,
+        "BPM": 86,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "5t0ylLWHwWUd83TEnP9ogd",
+            "explicit": false,
+            "album": "The Best Covers Ever",
+            "release_date": "2022-04-21",
+            "genres": [],
+            "duration": 200000,
+            "acousticness": 0.765,
+            "danceability": 3.601,
+            "instrumentalness": 0,
+            "liveness": 0.104,
+            "loudness": -16.396,
+            "speechiness": 0.0405,
+            "time_signature": 3,
+            "happiness": 2.269
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "Flames (Acoustic)",
+        "Artist": "Fearless Soul, Tyler Burdic",
+        "Key": "2A",
+        "Energy": 4.402,
+        "Popularity": 5.05,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "0YNxBhkZRWSTfar4AQRuw7",
+            "explicit": false,
+            "album": "Flames (Acoustic)",
+            "release_date": "2022-09-02",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 199891,
+            "acousticness": 0.731,
+            "danceability": 7.1290000000000004,
+            "instrumentalness": 0,
+            "liveness": 0.408,
+            "loudness": -10.871,
+            "speechiness": 0.0423,
+            "time_signature": 4,
+            "happiness": 4.132
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Someone You Loved",
+        "Artist": "Boyce Avenue",
+        "Key": "3B",
+        "Energy": 4.276,
+        "Popularity": 6.22,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Calm",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "52J3WARiRHMtXbFXUWrVgu",
+            "explicit": false,
+            "album": "Cover Sessions, Vol. 6",
+            "release_date": "2020-05-15",
+            "genres": [
+                "acoustic cover",
+                "neo mellow",
+                "viral pop"
+            ],
+            "duration": 182443,
+            "acousticness": 0.741,
+            "danceability": 7.624,
+            "instrumentalness": 0,
+            "liveness": 0.0932,
+            "loudness": -5.966,
+            "speechiness": 0.0349,
+            "time_signature": 4,
+            "happiness": 4.339
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Forever Young",
+        "Artist": "Fearless Soul, Rachael Schroeder",
+        "Key": "6B",
+        "Energy": 4.609,
+        "Popularity": 5.2299999999999995,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "093eXCkkSfp8UIc18sExsc",
+            "explicit": false,
+            "album": "Forever Young",
+            "release_date": "2023-03-30",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 202497,
+            "acousticness": 0.584,
+            "danceability": 4.249,
+            "instrumentalness": 0,
+            "liveness": 0.129,
+            "loudness": -9.206,
+            "speechiness": 0.03,
+            "time_signature": 4,
+            "happiness": 2.602
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "You're Gonna Be OK",
+        "Artist": "Fearless Soul",
+        "Key": "9B",
+        "Energy": 4.447,
+        "Popularity": 4.96,
+        "BPM": 132,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "4FqcZRepUuwTdma6oSOjt1",
+            "explicit": false,
+            "album": "You're Gonna Be OK",
+            "release_date": "2022-11-17",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 240000,
+            "acousticness": 0.635,
+            "danceability": 5.212000000000001,
+            "instrumentalness": 0.00168,
+            "liveness": 0.153,
+            "loudness": -12.321,
+            "speechiness": 0.0368,
+            "time_signature": 4,
+            "happiness": 3.565
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Brighter Days",
+        "Artist": "Fearless Soul, Rachael Schroeder",
+        "Key": "1B",
+        "Energy": 4.303,
+        "Popularity": 4.6,
+        "BPM": 86,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2Jb5RTs4AQ76SqXJKoEg6Z",
+            "explicit": false,
+            "album": "Brighter Days",
+            "release_date": "2022-11-03",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 209000,
+            "acousticness": 0.605,
+            "danceability": 5.815,
+            "instrumentalness": 0,
+            "liveness": 0.0944,
+            "loudness": -9.215,
+            "speechiness": 0.0364,
+            "time_signature": 4,
+            "happiness": 4.339
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "(Everything I Do) I Do It for You",
+        "Artist": "Boyce Avenue, Connie Talbot",
+        "Key": "8B",
+        "Energy": 3.097,
+        "Popularity": 5.2299999999999995,
+        "BPM": 66,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Calm",
+            "Happy",
+            "Pop",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "6w654KoUfS9QeappdRsGyV",
+            "explicit": false,
+            "album": "(Everything I Do) I Do It for You",
+            "release_date": "2022-01-21",
+            "genres": [
+                "acoustic cover",
+                "neo mellow",
+                "viral pop",
+                "channel pop"
+            ],
+            "duration": 248767,
+            "acousticness": 0.816,
+            "danceability": 5.509,
+            "instrumentalness": 0.000285,
+            "liveness": 0.124,
+            "loudness": -8.129,
+            "speechiness": 0.0298,
+            "time_signature": 4,
+            "happiness": 2.323
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Daydream",
+        "Artist": "Fearless Soul",
+        "Key": "6B",
+        "Energy": 5.374,
+        "Popularity": 5.05,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "7yEczYEkzrhLZcL5FhiRgf",
+            "explicit": false,
+            "album": "Daydream",
+            "release_date": "2023-03-09",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 172000,
+            "acousticness": 0.492,
+            "danceability": 5.869000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.116,
+            "loudness": -12.718,
+            "speechiness": 0.0362,
+            "time_signature": 4,
+            "happiness": 4.87
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Your Song",
+        "Artist": "Stephen Ridley",
+        "Key": "5B",
+        "Energy": 1.7515,
+        "Popularity": 4.51,
+        "BPM": 121,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "497Gf8VInpFRR4oqxu4uHa",
+            "explicit": false,
+            "album": "Your Song",
+            "release_date": "2020-05-12",
+            "genres": [],
+            "duration": 263924,
+            "acousticness": 0.936,
+            "danceability": 6.202,
+            "instrumentalness": 1.44e-05,
+            "liveness": 0.106,
+            "loudness": -13.71,
+            "speechiness": 0.0713,
+            "time_signature": 3,
+            "happiness": 2.287
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "Running Up That Hill (A Deal With God) - Acoustic",
+        "Artist": "Jonah Baker",
+        "Key": "7A",
+        "Energy": 2.206,
+        "Popularity": 5.59,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "6cMzeng5QA8fd2qqiMeIyg",
+            "explicit": false,
+            "album": "Running Up That Hill (A Deal With God) [Acoustic]",
+            "release_date": "2022-08-19",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 168043,
+            "acousticness": 0.899,
+            "danceability": 4.465,
+            "instrumentalness": 0,
+            "liveness": 0.113,
+            "loudness": -14.672,
+            "speechiness": 0.0476,
+            "time_signature": 4,
+            "happiness": 4.843
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "Someone Like You",
+        "Artist": "Savella, Rachael Schroeder",
+        "Key": "11B",
+        "Energy": 4.366,
+        "Popularity": 5.05,
+        "BPM": 67,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1B5hpQerGz4zxMpKUONh0I",
+            "explicit": false,
+            "album": "Someone Like You",
+            "release_date": "2022-02-17",
+            "genres": [],
+            "duration": 280221,
+            "acousticness": 0.38,
+            "danceability": 5.689,
+            "instrumentalness": 0,
+            "liveness": 0.0962,
+            "loudness": -10.733,
+            "speechiness": 0.0347,
+            "time_signature": 4,
+            "happiness": 2.476
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "You Make It Real",
+        "Artist": "Link Lewis",
+        "Key": "7B",
+        "Energy": 3.637,
+        "Popularity": 4.87,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Romantic & Slow Dance",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "16LMLWymxxas4jHTI6R6zJ",
+            "explicit": false,
+            "album": "You Make It Real",
+            "release_date": "2021-09-04",
+            "genres": [
+                "british soul"
+            ],
+            "duration": 253385,
+            "acousticness": 0.732,
+            "danceability": 5.455,
+            "instrumentalness": 0,
+            "liveness": 0.194,
+            "loudness": -12.925,
+            "speechiness": 0.055,
+            "time_signature": 4,
+            "happiness": 2.98
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Beautiful Life",
+        "Artist": "Fearless Soul, Rachael Schroeder",
+        "Key": "11B",
+        "Energy": 3.5829999999999997,
+        "Popularity": 5.140000000000001,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "376wLrVmxE8MkPXZzgBJvi",
+            "explicit": false,
+            "album": "Beautiful Life",
+            "release_date": "2023-04-27",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 223149,
+            "acousticness": 0.4,
+            "danceability": 5.428,
+            "instrumentalness": 0,
+            "liveness": 0.084,
+            "loudness": -10.145,
+            "speechiness": 0.0297,
+            "time_signature": 4,
+            "happiness": 3.088
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "Wake Me Up",
+        "Artist": "Tommee Profitt, Fleurie",
+        "Key": "6B",
+        "Energy": 2.935,
+        "Popularity": 5.32,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "3TtYw7YkiO2qDNvhgbG5jQ",
+            "explicit": false,
+            "album": "Covers (Vol. 1)",
+            "release_date": "2020-05-01",
+            "genres": [
+                "anthem worship",
+                "bossbeat",
+                "nashville singer-songwriter"
+            ],
+            "duration": 312727,
+            "acousticness": 0.94,
+            "danceability": 3.772,
+            "instrumentalness": 5.46e-06,
+            "liveness": 0.107,
+            "loudness": -11.028,
+            "speechiness": 0.0386,
+            "time_signature": 4,
+            "happiness": 2.44
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Saved My Life",
+        "Artist": "Fearless Soul, Rachael Schroeder",
+        "Key": "7B",
+        "Energy": 2.359,
+        "Popularity": 4.6,
+        "BPM": 114,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "69LBCvCJsmfwEWpTKsh4om",
+            "explicit": false,
+            "album": "Cover Sessions 2",
+            "release_date": "2022-12-09",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 210732,
+            "acousticness": 0.722,
+            "danceability": 7.12,
+            "instrumentalness": 0,
+            "liveness": 0.077,
+            "loudness": -12.04,
+            "speechiness": 0.0365,
+            "time_signature": 4,
+            "happiness": 2.566
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "You're Still The One - Acoustic",
+        "Artist": "Bailey Rushlow",
+        "Key": "10B",
+        "Energy": 2.512,
+        "Popularity": 5.86,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "4l2fpkIEUWv7G9DNp9M2nr",
+            "explicit": false,
+            "album": "You're Still The One (Acoustic)",
+            "release_date": "2018-12-17",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 161306,
+            "acousticness": 0.887,
+            "danceability": 6.445,
+            "instrumentalness": 0,
+            "liveness": 0.12,
+            "loudness": -11.388,
+            "speechiness": 0.0496,
+            "time_signature": 4,
+            "happiness": 4.582000000000001
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "True Colors",
+        "Artist": "Fearless Soul, Rachael Schroeder",
+        "Key": "8B",
+        "Energy": 2.926,
+        "Popularity": 4.779999999999999,
+        "BPM": 83,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "57CCT8lTMw0b5XuFSfTEZ7",
+            "explicit": false,
+            "album": "True Colors",
+            "release_date": "2021-11-11",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 228366,
+            "acousticness": 0.565,
+            "danceability": 6.076,
+            "instrumentalness": 0,
+            "liveness": 0.141,
+            "loudness": -10.879,
+            "speechiness": 0.0276,
+            "time_signature": 4,
+            "happiness": 2.6470000000000002
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "Chasing Cars",
+        "Artist": "Sleeping At Last",
+        "Key": "1B",
+        "Energy": 2.4130000000000003,
+        "Popularity": 6.49,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2d7LPtieXdIYzf7yHPooWd",
+            "explicit": false,
+            "album": "Covers, Vol. 2",
+            "release_date": "2016-11-04",
+            "genres": [
+                "ambient worship",
+                "chamber pop"
+            ],
+            "duration": 242564,
+            "acousticness": 0.974,
+            "danceability": 5.203,
+            "instrumentalness": 1.46e-06,
+            "liveness": 0.0816,
+            "loudness": -9.649,
+            "speechiness": 0.0336,
+            "time_signature": 4,
+            "happiness": 3.4930000000000003
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "Stuck In A Moment You Can't Get Out Of",
+        "Artist": "Fearless Soul",
+        "Key": "12B",
+        "Energy": 4.285,
+        "Popularity": 4.96,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "73K4UVhpk1ZwlrTJb2DnRz",
+            "explicit": false,
+            "album": "Cover Sessions 2",
+            "release_date": "2022-12-09",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 273000,
+            "acousticness": 0.795,
+            "danceability": 3.826,
+            "instrumentalness": 0.0121,
+            "liveness": 0.136,
+            "loudness": -11.89,
+            "speechiness": 0.0296,
+            "time_signature": 5,
+            "happiness": 2.404
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Perfect",
+        "Artist": "Samantha Harvey",
+        "Key": "11B",
+        "Energy": 3.205,
+        "Popularity": 4.779999999999999,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6SbodfdUMrbF3bFaJwK1h4",
+            "explicit": false,
+            "album": "Covers EP",
+            "release_date": "2020-01-17",
+            "genres": [
+                "channel pop",
+                "uk pop"
+            ],
+            "duration": 269032,
+            "acousticness": 0.94,
+            "danceability": 4.204,
+            "instrumentalness": 1.59e-05,
+            "liveness": 0.0899,
+            "loudness": -8.634,
+            "speechiness": 0.0373,
+            "time_signature": 3,
+            "happiness": 4.114
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "Million To One",
+        "Artist": "Fearless Soul, Rachael Schroeder",
+        "Key": "9B",
+        "Energy": 5.1850000000000005,
+        "Popularity": 4.51,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "5RiAouQC16ccOkHVPSkuQe",
+            "explicit": false,
+            "album": "Million To One",
+            "release_date": "2022-05-12",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 240000,
+            "acousticness": 0.647,
+            "danceability": 6.076,
+            "instrumentalness": 0,
+            "liveness": 0.115,
+            "loudness": -9.851,
+            "speechiness": 0.0379,
+            "time_signature": 4,
+            "happiness": 4.167999999999999
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "Rainbow (Acoustic)",
+        "Artist": "Fearless Soul, Rachael Schroeder",
+        "Key": "10B",
+        "Energy": 3.5020000000000002,
+        "Popularity": 4.6899999999999995,
+        "BPM": 145,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2IasNNwKkhAyAADb5n1Srt",
+            "explicit": false,
+            "album": "Rainbow (Acoustic)",
+            "release_date": "2022-03-31",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 226000,
+            "acousticness": 0.767,
+            "danceability": 5.0680000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.14,
+            "loudness": -13.577,
+            "speechiness": 0.0386,
+            "time_signature": 4,
+            "happiness": 5.554
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "I Took a Pill in Ibiza",
+        "Artist": "Grace Grundy, Various Artists",
+        "Key": "10B",
+        "Energy": 3.169,
+        "Popularity": 1.0,
+        "BPM": 79,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "0xawT2cQQa11QLOs7TRXdi",
+            "explicit": false,
+            "album": "Acoustic Covers: The Album",
+            "release_date": "2017-03-24",
+            "genres": [
+                "channel pop"
+            ],
+            "duration": 171442,
+            "acousticness": 0.875,
+            "danceability": 5.473,
+            "instrumentalness": 0,
+            "liveness": 0.149,
+            "loudness": -9.397,
+            "speechiness": 0.0576,
+            "time_signature": 4,
+            "happiness": 5.401
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Kill Em With Kindness - Acoustic",
+        "Artist": "Savella, Rachael Schroeder",
+        "Key": "1B",
+        "Energy": 2.3049999999999997,
+        "Popularity": 4.96,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "7qcnmQQX95lU164B9IeVAz",
+            "explicit": false,
+            "album": "Kill Em With Kindness",
+            "release_date": "2021-07-15",
+            "genres": [],
+            "duration": 212000,
+            "acousticness": 0.729,
+            "danceability": 6.589,
+            "instrumentalness": 0,
+            "liveness": 0.12,
+            "loudness": -14.406,
+            "speechiness": 0.0327,
+            "time_signature": 4,
+            "happiness": 2.665
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "Fresh Eyes",
+        "Artist": "Grace Grundy",
+        "Key": "8B",
+        "Energy": 3.862,
+        "Popularity": 5.2299999999999995,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "64EtdJO4XH01ZBj5ER1n9a",
+            "explicit": false,
+            "album": "Grace",
+            "release_date": "2016-11-25",
+            "genres": [
+                "channel pop"
+            ],
+            "duration": 230031,
+            "acousticness": 0.775,
+            "danceability": 4.6450000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.0821,
+            "loudness": -7.373,
+            "speechiness": 0.0331,
+            "time_signature": 4,
+            "happiness": 6.183999999999999
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "Fireflies (Acoustic)",
+        "Artist": "Jada Facer, Jonah Baker",
+        "Key": "12B",
+        "Energy": 2.3499999999999996,
+        "Popularity": 5.59,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3CVeJD4UtBLOZDFDWeLCa1",
+            "explicit": false,
+            "album": "Fireflies (Acoustic)",
+            "release_date": "2020-12-28",
+            "genres": [
+                "channel pop",
+                "viral pop",
+                "acoustic cover"
+            ],
+            "duration": 181483,
+            "acousticness": 0.936,
+            "danceability": 5.8420000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.105,
+            "loudness": -15.027,
+            "speechiness": 0.0475,
+            "time_signature": 4,
+            "happiness": 5.95
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "The Climb",
+        "Artist": "Fearless Soul",
+        "Key": "10B",
+        "Energy": 4.474,
+        "Popularity": 4.6,
+        "BPM": 132,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "6E81vx9iKbpVb9vWDGqfPs",
+            "explicit": false,
+            "album": "The Climb",
+            "release_date": "2022-02-22",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 270000,
+            "acousticness": 0.36,
+            "danceability": 5.6080000000000005,
+            "instrumentalness": 5.2e-06,
+            "liveness": 0.105,
+            "loudness": -12.048,
+            "speechiness": 0.0321,
+            "time_signature": 4,
+            "happiness": 2.035
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "Heaven Is a Place On Earth",
+        "Artist": "Fearless Soul, Kenna Childs",
+        "Key": "8B",
+        "Energy": 3.6999999999999997,
+        "Popularity": 4.6899999999999995,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "5wWhIOV6TK64zuZXpy1A7V",
+            "explicit": false,
+            "album": "Heaven Is a Place On Earth",
+            "release_date": "2022-06-23",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 222500,
+            "acousticness": 0.692,
+            "danceability": 5.266,
+            "instrumentalness": 0.00162,
+            "liveness": 0.127,
+            "loudness": -14.204,
+            "speechiness": 0.026,
+            "time_signature": 4,
+            "happiness": 2.71
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "One More Light",
+        "Artist": "Fearless Motivation",
+        "Key": "4B",
+        "Energy": 5.1850000000000005,
+        "Popularity": 1.0,
+        "BPM": 84,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "32VUkAQ2e9nQ7oPwkdQxK3",
+            "explicit": false,
+            "album": "One More Light",
+            "release_date": "2020-09-24",
+            "genres": [
+                "hard motivation",
+                "motivation"
+            ],
+            "duration": 256724,
+            "acousticness": 0.187,
+            "danceability": 4.546,
+            "instrumentalness": 3.47e-05,
+            "liveness": 0.143,
+            "loudness": -10.617,
+            "speechiness": 0.0322,
+            "time_signature": 4,
+            "happiness": 2.161
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "You Say",
+        "Artist": "Fearless Soul, The Julianno",
+        "Key": "3A",
+        "Energy": 6.364,
+        "Popularity": 3.97,
+        "BPM": 72,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "5d89UsSqfYHnM27NZyWMjA",
+            "explicit": false,
+            "album": "Cover Sessions",
+            "release_date": "2021-05-06",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 283939,
+            "acousticness": 0.0567,
+            "danceability": 3.286,
+            "instrumentalness": 2.65e-05,
+            "liveness": 0.112,
+            "loudness": -9.856,
+            "speechiness": 0.0324,
+            "time_signature": 4,
+            "happiness": 1.8064
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "Dreams",
+        "Artist": "Savella, Rachael Schroeder",
+        "Key": "11A",
+        "Energy": 6.625,
+        "Popularity": 4.51,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "5M65Z9rJ9oskHs5AZjtcog",
+            "explicit": false,
+            "album": "Dreams",
+            "release_date": "2021-07-08",
+            "genres": [],
+            "duration": 208443,
+            "acousticness": 0.173,
+            "danceability": 5.914000000000001,
+            "instrumentalness": 0.000368,
+            "liveness": 0.11,
+            "loudness": -9.344,
+            "speechiness": 0.0369,
+            "time_signature": 4,
+            "happiness": 5.113
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "Don't Dream It's Over",
+        "Artist": "Fearless Soul, Rachael Schroeder",
+        "Key": "3A",
+        "Energy": 6.616,
+        "Popularity": 4.6,
+        "BPM": 83,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "5g9ZE24cLRIRIYQYsKVe9T",
+            "explicit": false,
+            "album": "Don't Dream It's Over",
+            "release_date": "2021-03-30",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 228484,
+            "acousticness": 0.104,
+            "danceability": 4.798,
+            "instrumentalness": 0,
+            "liveness": 0.082,
+            "loudness": -6.727,
+            "speechiness": 0.0417,
+            "time_signature": 4,
+            "happiness": 2.2600000000000002
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "Scared to Be Lonely",
+        "Artist": "Grace Grundy",
+        "Key": "10B",
+        "Energy": 3.1239999999999997,
+        "Popularity": 5.5,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "5sSjQIkw8q9vCPKi9V2v2G",
+            "explicit": false,
+            "album": "Scared to Be Lonely",
+            "release_date": "2017-02-14",
+            "genres": [
+                "channel pop"
+            ],
+            "duration": 178114,
+            "acousticness": 0.814,
+            "danceability": 7.066000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.103,
+            "loudness": -6.867,
+            "speechiness": 0.0372,
+            "time_signature": 4,
+            "happiness": 3.5020000000000002
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "Stand By You",
+        "Artist": "Alex Goot, Kurt Hugo Schneider, Megan Nicole",
+        "Key": "2A",
+        "Energy": 6.7330000000000005,
+        "Popularity": 1.0,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4Ejcw0qIiDjuaMtB5WDiBD",
+            "explicit": false,
+            "album": "Stand By You",
+            "release_date": "2016-02-29",
+            "genres": [
+                "viral pop",
+                "viral pop",
+                "viral pop"
+            ],
+            "duration": 146627,
+            "acousticness": 0.486,
+            "danceability": 6.382,
+            "instrumentalness": 0,
+            "liveness": 0.0888,
+            "loudness": -3.744,
+            "speechiness": 0.0307,
+            "time_signature": 4,
+            "happiness": 6.255999999999999
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "ocean eyes - Recorded Live at Jungle City Studios",
+        "Artist": "Alicia Keys",
+        "Key": "9B",
+        "Energy": 2.332,
+        "Popularity": 6.49,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s",
+            "Romantic & Slow Dance",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7rLokcIMP9p8fl0iROdVfC",
+            "explicit": false,
+            "album": "Spotify Singles",
+            "release_date": "2019-12-04",
+            "genres": [
+                "neo soul",
+                "pop",
+                "r&b"
+            ],
+            "duration": 184548,
+            "acousticness": 0.934,
+            "danceability": 4.177,
+            "instrumentalness": 0,
+            "liveness": 0.112,
+            "loudness": -13.108,
+            "speechiness": 0.0421,
+            "time_signature": 5,
+            "happiness": 3.673
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "Fields Of Gold",
+        "Artist": "Jewelia",
+        "Key": "9B",
+        "Energy": 3.16,
+        "Popularity": 4.0600000000000005,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1XruUvQFJpz8Th8137LkEi",
+            "explicit": false,
+            "album": "Fields Of Gold",
+            "release_date": "2021-07-28",
+            "genres": [],
+            "duration": 213322,
+            "acousticness": 0.817,
+            "danceability": 5.572,
+            "instrumentalness": 0.00358,
+            "liveness": 0.111,
+            "loudness": -12.593,
+            "speechiness": 0.0274,
+            "time_signature": 4,
+            "happiness": 3.4210000000000003
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "Homesick",
+        "Artist": "Savella, Rachael Schroeder",
+        "Key": "12B",
+        "Energy": 3.718,
+        "Popularity": 3.88,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "0AzfLv6m6miqtFEY8hK19P",
+            "explicit": false,
+            "album": "Homesick",
+            "release_date": "2021-07-29",
+            "genres": [],
+            "duration": 213000,
+            "acousticness": 0.0811,
+            "danceability": 4.753,
+            "instrumentalness": 2.15e-06,
+            "liveness": 0.0831,
+            "loudness": -11.985,
+            "speechiness": 0.0283,
+            "time_signature": 4,
+            "happiness": 1.4445999999999999
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "Stand By Me",
+        "Artist": "Savella, Rachael Schroeder",
+        "Key": "11B",
+        "Energy": 3.934,
+        "Popularity": 4.51,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "2hpIxIwy6Z07udv68kkwIU",
+            "explicit": false,
+            "album": "Stand By Me",
+            "release_date": "2022-02-03",
+            "genres": [],
+            "duration": 186000,
+            "acousticness": 0.544,
+            "danceability": 6.157,
+            "instrumentalness": 0,
+            "liveness": 0.102,
+            "loudness": -10.319,
+            "speechiness": 0.0284,
+            "time_signature": 4,
+            "happiness": 2.701
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "Candle In The Wind - 2018 Version",
+        "Artist": "Ed Sheeran",
+        "Key": "12B",
+        "Energy": 5.041,
+        "Popularity": 6.58,
+        "BPM": 76,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "73TXMz1i41sGfOuDg8gH4L",
+            "explicit": false,
+            "album": "Revamp: The Songs Of Elton John & Bernie Taupin",
+            "release_date": "2018-04-06",
+            "genres": [
+                "pop",
+                "uk pop"
+            ],
+            "duration": 198777,
+            "acousticness": 0.732,
+            "danceability": 5.941000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.117,
+            "loudness": -10.479,
+            "speechiness": 0.0455,
+            "time_signature": 5,
+            "happiness": 5.554
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "Just A Dream",
+        "Artist": "Kurt Hugo Schneider, Christina Grimmie, Sam Tsui",
+        "Key": "11B",
+        "Energy": 7.759,
+        "Popularity": 5.5,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s",
+            "Happy",
+            "Pop",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "0QfmQhr5npxuWQ4zzUDUhB",
+            "explicit": false,
+            "album": "Just A Dream",
+            "release_date": "2017-11-14",
+            "genres": [
+                "viral pop",
+                "post-teen pop",
+                "viral pop",
+                "post-teen pop",
+                "viral pop"
+            ],
+            "duration": 263598,
+            "acousticness": 0.193,
+            "danceability": 4.9510000000000005,
+            "instrumentalness": 4.61e-05,
+            "liveness": 0.0577,
+            "loudness": -7.632,
+            "speechiness": 0.0527,
+            "time_signature": 4,
+            "happiness": 2.989
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "everything i wanted",
+        "Artist": "Savella, Rachael Schroeder",
+        "Key": "2A",
+        "Energy": 3.9610000000000003,
+        "Popularity": 3.97,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "2PKq5qkUgytbEthrKtInyY",
+            "explicit": false,
+            "album": "everything i wanted",
+            "release_date": "2021-08-04",
+            "genres": [],
+            "duration": 236000,
+            "acousticness": 0.759,
+            "danceability": 6.544,
+            "instrumentalness": 0.00232,
+            "liveness": 0.091,
+            "loudness": -12.032,
+            "speechiness": 0.0317,
+            "time_signature": 4,
+            "happiness": 1.7172999999999998
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "Tears in Heaven",
+        "Artist": "Fearless Soul",
+        "Key": "12A",
+        "Energy": 3.565,
+        "Popularity": 4.6899999999999995,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "0UNk6j5BTU2uBPuo7aSdps",
+            "explicit": false,
+            "album": "Tears in Heaven",
+            "release_date": "2022-01-20",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 236527,
+            "acousticness": 0.857,
+            "danceability": 3.5290000000000004,
+            "instrumentalness": 0.00115,
+            "liveness": 0.137,
+            "loudness": -12.117,
+            "speechiness": 0.0306,
+            "time_signature": 3,
+            "happiness": 2.134
+        }
+    },
+    {
+        "#": 58,
+        "Track Title": "Dreams - Piano Version",
+        "Artist": "Lissie",
+        "Key": "8B",
+        "Energy": 2.683,
+        "Popularity": 4.42,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s",
+            "Nostalgic",
+            "Pop",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "1HrVc40jQbDRWIB9KreDti",
+            "explicit": false,
+            "album": "Dreams (Piano Version)",
+            "release_date": "2019-03-01",
+            "genres": [
+                "folk-pop"
+            ],
+            "duration": 274993,
+            "acousticness": 0.921,
+            "danceability": 6.058000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0813,
+            "loudness": -9.156,
+            "speechiness": 0.0313,
+            "time_signature": 4,
+            "happiness": 2.7910000000000004
+        }
+    },
+    {
+        "#": 59,
+        "Track Title": "Imagine",
+        "Artist": "Fearless Soul, The Julianno",
+        "Key": "6B",
+        "Energy": 4.231,
+        "Popularity": 4.24,
+        "BPM": 79,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "0FuToltYdTIflpBK66i32W",
+            "explicit": false,
+            "album": "Imagine",
+            "release_date": "2021-02-07",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 189000,
+            "acousticness": 0.731,
+            "danceability": 3.6189999999999998,
+            "instrumentalness": 0.000505,
+            "liveness": 0.163,
+            "loudness": -13.205,
+            "speechiness": 0.0288,
+            "time_signature": 4,
+            "happiness": 2.341
+        }
+    },
+    {
+        "#": 60,
+        "Track Title": "Baby One More Time - Recorded at Spotify Studios New York City",
+        "Artist": "Ed Sheeran",
+        "Key": "1A",
+        "Energy": 3.763,
+        "Popularity": 6.67,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4mJDfMcT7odIUjWlb2WO4L",
+            "explicit": false,
+            "album": "Spotify Singles",
+            "release_date": "2017-06-07",
+            "genres": [
+                "pop",
+                "uk pop"
+            ],
+            "duration": 177215,
+            "acousticness": 0.189,
+            "danceability": 8.128,
+            "instrumentalness": 0,
+            "liveness": 0.0834,
+            "loudness": -6.224,
+            "speechiness": 0.0522,
+            "time_signature": 4,
+            "happiness": 6.679
+        }
+    },
+    {
+        "#": 61,
+        "Track Title": "We Can't Stop",
+        "Artist": "Boyce Avenue, Bea Miller",
+        "Key": "10B",
+        "Energy": 4.122999999999999,
+        "Popularity": 6.94,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s",
+            "Inspiring",
+            "Rock",
+            "Calm",
+            "Pop",
+            "Happy",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "6owKuyHxUqidcAA6fPKSyy",
+            "explicit": false,
+            "album": "Cover Sessions, Vol. 3",
+            "release_date": "2015-04-28",
+            "genres": [
+                "acoustic cover",
+                "neo mellow",
+                "viral pop",
+                "alt z",
+                "pop",
+                "talent show"
+            ],
+            "duration": 222146,
+            "acousticness": 0.674,
+            "danceability": 7.345,
+            "instrumentalness": 0,
+            "liveness": 0.12,
+            "loudness": -8.249,
+            "speechiness": 0.0301,
+            "time_signature": 4,
+            "happiness": 4.24
+        }
+    },
+    {
+        "#": 62,
+        "Track Title": "Apologize",
+        "Artist": "Savella, Rachael Schroeder",
+        "Key": "9B",
+        "Energy": 2.1790000000000003,
+        "Popularity": 4.779999999999999,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "2MWXYqNfnDaMJgUiFxNHHu",
+            "explicit": false,
+            "album": "Apologize",
+            "release_date": "2022-01-25",
+            "genres": [],
+            "duration": 214718,
+            "acousticness": 0.973,
+            "danceability": 5.806,
+            "instrumentalness": 0,
+            "liveness": 0.0884,
+            "loudness": -15.29,
+            "speechiness": 0.0344,
+            "time_signature": 4,
+            "happiness": 2.008
+        }
+    },
+    {
+        "#": 63,
+        "Track Title": "Iris",
+        "Artist": "Hannah Trigwell",
+        "Key": "8B",
+        "Energy": 3.277,
+        "Popularity": 4.6,
+        "BPM": 117,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7Fv3bEULC97HedaRumLSIX",
+            "explicit": false,
+            "album": "Cover Sessions, Vol. 3",
+            "release_date": "2014-10-07",
+            "genres": [
+                "acoustic cover",
+                "viral pop"
+            ],
+            "duration": 174217,
+            "acousticness": 0.901,
+            "danceability": 4.4830000000000005,
+            "instrumentalness": 1.53e-06,
+            "liveness": 0.125,
+            "loudness": -10.985,
+            "speechiness": 0.0405,
+            "time_signature": 3,
+            "happiness": 4.132
+        }
+    },
+    {
+        "#": 64,
+        "Track Title": "What A Wonderful World - Live",
+        "Artist": "Sarah Kroger",
+        "Key": "8B",
+        "Energy": 2.926,
+        "Popularity": 4.96,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "1KSXm3aj9Y8tDXhu9Tlk7q",
+            "explicit": false,
+            "album": "What A Wonderful World",
+            "release_date": "2022-10-14",
+            "genres": [
+                "worship"
+            ],
+            "duration": 230747,
+            "acousticness": 0.896,
+            "danceability": 5.3919999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.11,
+            "loudness": -8.441,
+            "speechiness": 0.0282,
+            "time_signature": 3,
+            "happiness": 1.8226
+        }
+    },
+    {
+        "#": 65,
+        "Track Title": "Fast Car",
+        "Artist": "Boyce Avenue, Kina Grannis",
+        "Key": "6B",
+        "Energy": 3.259,
+        "Popularity": 6.58,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s",
+            "Calm",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "63wsZUhUZLlh1OsyrZq7sz",
+            "explicit": false,
+            "album": "Cover Sessions, Vol. 2",
+            "release_date": "2012-07-24",
+            "genres": [
+                "acoustic cover",
+                "neo mellow",
+                "viral pop",
+                "acoustic pop",
+                "viral pop"
+            ],
+            "duration": 304293,
+            "acousticness": 0.807,
+            "danceability": 4.5280000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.0797,
+            "loudness": -9.845,
+            "speechiness": 0.0363,
+            "time_signature": 4,
+            "happiness": 5.572
+        }
+    },
+    {
+        "#": 66,
+        "Track Title": "I Don't Wanna Live Forever (Fifty Shades Darker) - Acoustic Version",
+        "Artist": "Sara Farell, Simon Samaeng",
+        "Key": "8B",
+        "Energy": 4.141,
+        "Popularity": 5.5,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "7xO7bS29oAzMcFI0rBj8Fy",
+            "explicit": false,
+            "album": "#Covers",
+            "release_date": "2018-03-31",
+            "genres": [
+                "acoustic cover",
+                "acoustic chill"
+            ],
+            "duration": 232500,
+            "acousticness": 0.784,
+            "danceability": 6.904,
+            "instrumentalness": 0,
+            "liveness": 0.138,
+            "loudness": -6.841,
+            "speechiness": 0.0289,
+            "time_signature": 4,
+            "happiness": 3.601
+        }
+    },
+    {
+        "#": 67,
+        "Track Title": "The Scientist (Acoustic)",
+        "Artist": "Fearless Soul",
+        "Key": "6B",
+        "Energy": 2.0709999999999997,
+        "Popularity": 4.6899999999999995,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1ON9vBrmqVquwe3DtShxIY",
+            "explicit": false,
+            "album": "Cover Sessions 2",
+            "release_date": "2022-12-09",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 251143,
+            "acousticness": 0.956,
+            "danceability": 5.104,
+            "instrumentalness": 4.02e-06,
+            "liveness": 0.0976,
+            "loudness": -14.469,
+            "speechiness": 0.0328,
+            "time_signature": 4,
+            "happiness": 4.627000000000001
+        }
+    },
+    {
+        "#": 68,
+        "Track Title": "I Don't Want to Miss a Thing",
+        "Artist": "Boyce Avenue, Jennel Garcia",
+        "Key": "10B",
+        "Energy": 3.412,
+        "Popularity": 5.86,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Calm",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6hzNHVk3fiSEV1tvvytZiH",
+            "explicit": false,
+            "album": "Cover Sessions, Vol. 6",
+            "release_date": "2020-05-15",
+            "genres": [
+                "acoustic cover",
+                "neo mellow",
+                "viral pop",
+                "acoustic cover"
+            ],
+            "duration": 230733,
+            "acousticness": 0.832,
+            "danceability": 6.193,
+            "instrumentalness": 0,
+            "liveness": 0.11,
+            "loudness": -7.996,
+            "speechiness": 0.0351,
+            "time_signature": 4,
+            "happiness": 3.151
+        }
+    },
+    {
+        "#": 69,
+        "Track Title": "Starving",
+        "Artist": "Emma Heesters, Various Artists",
+        "Key": "12B",
+        "Energy": 3.142,
+        "Popularity": 1.0,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "5tEk23bp92ykkClCzMFHGW",
+            "explicit": false,
+            "album": "Acoustic Covers: The Album",
+            "release_date": "2017-03-24",
+            "genres": [
+                "channel pop",
+                "dutch pop"
+            ],
+            "duration": 147017,
+            "acousticness": 0.299,
+            "danceability": 7.165000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.118,
+            "loudness": -11.054,
+            "speechiness": 0.0339,
+            "time_signature": 4,
+            "happiness": 6.985
+        }
+    },
+    {
+        "#": 70,
+        "Track Title": "I'm Gonna Be (500 Miles)",
+        "Artist": "Sleeping At Last",
+        "Key": "12B",
+        "Energy": 3.052,
+        "Popularity": 5.86,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "0dHF8t7OIhgPele5WRUfWG",
+            "explicit": false,
+            "album": "Covers, Vol. 1",
+            "release_date": "2014-05-16",
+            "genres": [
+                "ambient worship",
+                "chamber pop"
+            ],
+            "duration": 211788,
+            "acousticness": 0.966,
+            "danceability": 4.546,
+            "instrumentalness": 3.81e-05,
+            "liveness": 0.113,
+            "loudness": -12.584,
+            "speechiness": 0.0431,
+            "time_signature": 4,
+            "happiness": 3.322
+        }
+    },
+    {
+        "#": 71,
+        "Track Title": "Stuck In A Moment You Can't Get Out Of",
+        "Artist": "Scarlett Johansson",
+        "Key": "8A",
+        "Energy": 4.339,
+        "Popularity": 6.31,
+        "BPM": 78,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "California [Loc]"
+        ],
+        "Additional Info": {
+            "id": "1OQztPI2L8Nwjb5ueTrFCd",
+            "explicit": false,
+            "album": "Sing 2 (Original Motion Picture Soundtrack)",
+            "release_date": "2021-12-17",
+            "genres": [
+                "hollywood",
+                "nyc pop"
+            ],
+            "duration": 219912,
+            "acousticness": 0.182,
+            "danceability": 5.554,
+            "instrumentalness": 4.53e-06,
+            "liveness": 0.149,
+            "loudness": -6.511,
+            "speechiness": 0.0351,
+            "time_signature": 4,
+            "happiness": 3.043
+        }
+    },
+    {
+        "#": 72,
+        "Track Title": "We Can't Stop (feat. Bea Miller)",
+        "Artist": "Boyce Avenue, Bea Miller",
+        "Key": "10B",
+        "Energy": 4.122999999999999,
+        "Popularity": 1.0,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s",
+            "Inspiring",
+            "Rock",
+            "Calm",
+            "Pop",
+            "Happy",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "2PVU8zHILp6jK4Q7W6rkz8",
+            "explicit": false,
+            "album": "Cover Collaborations, Vol. 2",
+            "release_date": "2011-09-16",
+            "genres": [
+                "acoustic cover",
+                "neo mellow",
+                "viral pop",
+                "alt z",
+                "pop",
+                "talent show"
+            ],
+            "duration": 222146,
+            "acousticness": 0.674,
+            "danceability": 7.345,
+            "instrumentalness": 0,
+            "liveness": 0.12,
+            "loudness": -8.249,
+            "speechiness": 0.0301,
+            "time_signature": 4,
+            "happiness": 4.24
+        }
+    },
+    {
+        "#": 73,
+        "Track Title": "I Like Me Better",
+        "Artist": "Boyce Avenue, Emma Heesters",
+        "Key": "11B",
+        "Energy": 3.367,
+        "Popularity": 5.68,
+        "BPM": 87,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s",
+            "Calm",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7pKMoXeiCv40wbrjII06VO",
+            "explicit": false,
+            "album": "I Like Me Better",
+            "release_date": "2019-06-21",
+            "genres": [
+                "acoustic cover",
+                "neo mellow",
+                "viral pop",
+                "channel pop",
+                "dutch pop"
+            ],
+            "duration": 201508,
+            "acousticness": 0.814,
+            "danceability": 5.257,
+            "instrumentalness": 0,
+            "liveness": 0.142,
+            "loudness": -8.609,
+            "speechiness": 0.033,
+            "time_signature": 4,
+            "happiness": 3.835
+        }
+    },
+    {
+        "#": 74,
+        "Track Title": "Fix You - Live",
+        "Artist": "Fearless Soul, Rachael Schroeder",
+        "Key": "10B",
+        "Energy": 2.341,
+        "Popularity": 1.0,
+        "BPM": 137,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "2ngQ9wXgq6ZDhocYSWPAJp",
+            "explicit": false,
+            "album": "Fix You (Live)",
+            "release_date": "2021-06-14",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 263744,
+            "acousticness": 0.77,
+            "danceability": 4.779999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.111,
+            "loudness": -10.91,
+            "speechiness": 0.0347,
+            "time_signature": 4,
+            "happiness": 2.629
+        }
+    },
+    {
+        "#": 75,
+        "Track Title": "I Don't Wanna Live Forever",
+        "Artist": "Past Midnight, Various Artists",
+        "Key": "5B",
+        "Energy": 2.2600000000000002,
+        "Popularity": 1.0,
+        "BPM": 109,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "7lyEzbFiJH74TZjkxlZV7v",
+            "explicit": false,
+            "album": "Acoustic Covers: The Album",
+            "release_date": "2017-03-24",
+            "genres": [],
+            "duration": 152149,
+            "acousticness": 0.968,
+            "danceability": 7.516,
+            "instrumentalness": 0,
+            "liveness": 0.124,
+            "loudness": -12.616,
+            "speechiness": 0.0441,
+            "time_signature": 4,
+            "happiness": 3.934
+        }
+    },
+    {
+        "#": 76,
+        "Track Title": "Can You Feel the Love Tonight",
+        "Artist": "Boyce Avenue, Connie Talbot",
+        "Key": "6B",
+        "Energy": 2.782,
+        "Popularity": 6.67,
+        "BPM": 119,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s",
+            "Calm",
+            "Happy",
+            "Pop",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "1EyvonxK8OGHRV4WDRdArc",
+            "explicit": false,
+            "album": "Can You Feel the Love Tonight",
+            "release_date": "2019-05-24",
+            "genres": [
+                "acoustic cover",
+                "neo mellow",
+                "viral pop",
+                "channel pop"
+            ],
+            "duration": 250917,
+            "acousticness": 0.931,
+            "danceability": 5.0680000000000005,
+            "instrumentalness": 2.24e-06,
+            "liveness": 0.1,
+            "loudness": -9.374,
+            "speechiness": 0.0335,
+            "time_signature": 4,
+            "happiness": 2.9530000000000003
+        }
+    },
+    {
+        "#": 77,
+        "Track Title": "Elastic Heart",
+        "Artist": "Fearless Soul",
+        "Key": "4B",
+        "Energy": 6.183999999999999,
+        "Popularity": 3.79,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "4OoygSD9V5m2uvZYUwZOdB",
+            "explicit": false,
+            "album": "Cover Sessions",
+            "release_date": "2021-05-06",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 265000,
+            "acousticness": 0.0896,
+            "danceability": 6.049,
+            "instrumentalness": 2.72e-05,
+            "liveness": 0.0962,
+            "loudness": -8.37,
+            "speechiness": 0.0471,
+            "time_signature": 4,
+            "happiness": 3.3850000000000002
+        }
+    },
+    {
+        "#": 78,
+        "Track Title": "Demons",
+        "Artist": "Boyce Avenue, Jennel Garcia",
+        "Key": "8B",
+        "Energy": 4.159,
+        "Popularity": 6.76,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s",
+            "Calm",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "210JCw2LbYD4YIs8GiZ9iP",
+            "explicit": false,
+            "album": "Cover Sessions, Vol. 3",
+            "release_date": "2015-04-28",
+            "genres": [
+                "acoustic cover",
+                "neo mellow",
+                "viral pop",
+                "acoustic cover"
+            ],
+            "duration": 174174,
+            "acousticness": 0.747,
+            "danceability": 7.102,
+            "instrumentalness": 0,
+            "liveness": 0.355,
+            "loudness": -8.654,
+            "speechiness": 0.0266,
+            "time_signature": 4,
+            "happiness": 6.1209999999999996
+        }
+    },
+    {
+        "#": 79,
+        "Track Title": "When We Were Young",
+        "Artist": "Ryan Dolan, Various Artists",
+        "Key": "3B",
+        "Energy": 3.511,
+        "Popularity": 1.0,
+        "BPM": 72,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "4IVGqAe0nkLRcZhaB4fEn0",
+            "explicit": false,
+            "album": "Acoustic Covers: The Album",
+            "release_date": "2017-03-24",
+            "genres": [
+                "channel pop"
+            ],
+            "duration": 286261,
+            "acousticness": 0.851,
+            "danceability": 3.871,
+            "instrumentalness": 1.6e-06,
+            "liveness": 0.0735,
+            "loudness": -9.698,
+            "speechiness": 0.0352,
+            "time_signature": 4,
+            "happiness": 3.259
+        }
+    },
+    {
+        "#": 80,
+        "Track Title": "Fix You (Instrumental)",
+        "Artist": "Fearless Soul",
+        "Key": "1A",
+        "Energy": 2.98,
+        "Popularity": 3.61,
+        "BPM": 142,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "4s1L7I69UnXW1x3f8JSj9G",
+            "explicit": false,
+            "album": "Fix You (Instrumental)",
+            "release_date": "2021-07-20",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 266551,
+            "acousticness": 0.43,
+            "danceability": 4.942,
+            "instrumentalness": 0.877,
+            "liveness": 0.094,
+            "loudness": -12.389,
+            "speechiness": 0.0384,
+            "time_signature": 4,
+            "happiness": 1.7065000000000001
+        }
+    },
+    {
+        "#": 81,
+        "Track Title": "Can't Stop the Feeling / This Is What You Came For",
+        "Artist": "Anthem Lights",
+        "Key": "8B",
+        "Energy": 5.464,
+        "Popularity": 1.0,
+        "BPM": 114,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5xcsnZOeoLJkgFz3uVNc7h",
+            "explicit": false,
+            "album": "Can't Stop the Feeling / This Is What You Came For",
+            "release_date": "2016-05-25",
+            "genres": [
+                "channel pop",
+                "viral pop"
+            ],
+            "duration": 148175,
+            "acousticness": 0.56,
+            "danceability": 6.499,
+            "instrumentalness": 0,
+            "liveness": 0.0884,
+            "loudness": -5.639,
+            "speechiness": 0.0327,
+            "time_signature": 4,
+            "happiness": 5.167
+        }
+    },
+    {
+        "#": 82,
+        "Track Title": "Fast Car",
+        "Artist": "Savannah Bleu",
+        "Key": "9B",
+        "Energy": 3.214,
+        "Popularity": 4.87,
+        "BPM": 87,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "48J6uSINmMZkUwXlcMeTVR",
+            "explicit": false,
+            "album": "Fast Car",
+            "release_date": "2022-04-10",
+            "genres": [],
+            "duration": 198621,
+            "acousticness": 0.868,
+            "danceability": 6.535,
+            "instrumentalness": 0,
+            "liveness": 0.277,
+            "loudness": -8.146,
+            "speechiness": 0.0449,
+            "time_signature": 4,
+            "happiness": 6.67
+        }
+    },
+    {
+        "#": 83,
+        "Track Title": "One More Light",
+        "Artist": "Fearless Soul, Rachael Schroeder",
+        "Key": "8B",
+        "Energy": 3.772,
+        "Popularity": 3.79,
+        "BPM": 84,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "4ZFqeRrn0Z3TjGmWIod6cw",
+            "explicit": false,
+            "album": "Cover Sessions",
+            "release_date": "2021-05-06",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 256717,
+            "acousticness": 0.511,
+            "danceability": 4.087,
+            "instrumentalness": 0,
+            "liveness": 0.0741,
+            "loudness": -11.317,
+            "speechiness": 0.0359,
+            "time_signature": 4,
+            "happiness": 2.053
+        }
+    },
+    {
+        "#": 84,
+        "Track Title": "Don't Wanna Know - Acoustic Version",
+        "Artist": "The Mayries",
+        "Key": "3B",
+        "Energy": 5.032,
+        "Popularity": 4.96,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s",
+            "Calm",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5l7gQEyycQWk10yVfXspVK",
+            "explicit": false,
+            "album": "Don't Wanna Know (Acoustic Version)",
+            "release_date": "2017-01-17",
+            "genres": [
+                "acoustic cover",
+                "acoustic pop"
+            ],
+            "duration": 183473,
+            "acousticness": 0.706,
+            "danceability": 4.942,
+            "instrumentalness": 0,
+            "liveness": 0.159,
+            "loudness": -7.676,
+            "speechiness": 0.0666,
+            "time_signature": 5,
+            "happiness": 4.2940000000000005
+        }
+    },
+    {
+        "#": 85,
+        "Track Title": "Love Yourself, Out of the Woods, Roses - Acoustic Mashup",
+        "Artist": "Megan Davies",
+        "Key": "1B",
+        "Energy": 2.6470000000000002,
+        "Popularity": 5.5,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "1rNuKbtlRfq7DBeLBSzrmz",
+            "explicit": false,
+            "album": "Love Yourself, Out of the Woods, Roses (Acoustic Mashup)",
+            "release_date": "2016-01-11",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 237363,
+            "acousticness": 0.708,
+            "danceability": 6.301,
+            "instrumentalness": 0,
+            "liveness": 0.393,
+            "loudness": -13.31,
+            "speechiness": 0.0583,
+            "time_signature": 4,
+            "happiness": 4.24
+        }
+    },
+    {
+        "#": 86,
+        "Track Title": "Hands to Myself, Love Yourself, Perfect (Acoustic Mashup) [feat. Landon Austin]",
+        "Artist": "Kaya May, Landon Austin",
+        "Key": "11A",
+        "Energy": 5.005,
+        "Popularity": 4.42,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4eg3wsiTrPa7KpwVai2VY7",
+            "explicit": false,
+            "album": "Hands to Myself, Love Yourself, Perfect (Acoustic Mashup) [feat. Landon Austin]",
+            "release_date": "2016-01-27",
+            "genres": [
+                "channel pop",
+                "channel pop",
+                "viral pop"
+            ],
+            "duration": 226893,
+            "acousticness": 0.0575,
+            "danceability": 7.318,
+            "instrumentalness": 0,
+            "liveness": 0.113,
+            "loudness": -9.693,
+            "speechiness": 0.05,
+            "time_signature": 4,
+            "happiness": 4.033
+        }
+    },
+    {
+        "#": 87,
+        "Track Title": "Heroes (We Could Be)",
+        "Artist": "Fearless Soul",
+        "Key": "7B",
+        "Energy": 5.311,
+        "Popularity": 1.0,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2uahGH1c0ngxE5ForpRXBI",
+            "explicit": false,
+            "album": "Heroes (We Could Be)",
+            "release_date": "2020-07-13",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 210000,
+            "acousticness": 0.00626,
+            "danceability": 6.111999999999999,
+            "instrumentalness": 9.38e-05,
+            "liveness": 0.104,
+            "loudness": -8.391,
+            "speechiness": 0.0344,
+            "time_signature": 4,
+            "happiness": 2.323
+        }
+    },
+    {
+        "#": 88,
+        "Track Title": "Memories",
+        "Artist": "Boyce Avenue",
+        "Key": "6B",
+        "Energy": 2.755,
+        "Popularity": 5.86,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Calm",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2NLu5wwfHlB4rGTxDYCRk7",
+            "explicit": false,
+            "album": "Cover Sessions, Vol. 6",
+            "release_date": "2020-05-15",
+            "genres": [
+                "acoustic cover",
+                "neo mellow",
+                "viral pop"
+            ],
+            "duration": 197171,
+            "acousticness": 0.867,
+            "danceability": 5.140000000000001,
+            "instrumentalness": 1.65e-05,
+            "liveness": 0.112,
+            "loudness": -12.093,
+            "speechiness": 0.0459,
+            "time_signature": 4,
+            "happiness": 4.4559999999999995
+        }
+    },
+    {
+        "#": 89,
+        "Track Title": "Can’t Help Falling in Love",
+        "Artist": "Boyce Avenue",
+        "Key": "7B",
+        "Energy": 2.773,
+        "Popularity": 6.22,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Calm",
+            "Happy",
+            "Pop",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "4qTHoIp62ngNDpUJwW3hZ7",
+            "explicit": false,
+            "album": "Cover Sessions, Vol. 6",
+            "release_date": "2020-05-15",
+            "genres": [
+                "acoustic cover",
+                "neo mellow",
+                "viral pop"
+            ],
+            "duration": 131000,
+            "acousticness": 0.858,
+            "danceability": 4.618,
+            "instrumentalness": 1.05e-06,
+            "liveness": 0.114,
+            "loudness": -10.775,
+            "speechiness": 0.0295,
+            "time_signature": 3,
+            "happiness": 2.332
+        }
+    },
+    {
+        "#": 90,
+        "Track Title": "I Wanna Dance With Somebody",
+        "Artist": "Matt Alber, Various Artists",
+        "Key": "4B",
+        "Energy": 2.8,
+        "Popularity": 1.0,
+        "BPM": 111,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "3LajHoTZBAUzyMqWfZCLTu",
+            "explicit": false,
+            "album": "Acoustic Covers: The Album",
+            "release_date": "2017-03-24",
+            "genres": [],
+            "duration": 249498,
+            "acousticness": 0.846,
+            "danceability": 4.753,
+            "instrumentalness": 0,
+            "liveness": 0.124,
+            "loudness": -12.324,
+            "speechiness": 0.0312,
+            "time_signature": 4,
+            "happiness": 3.6189999999999998
+        }
+    },
+    {
+        "#": 91,
+        "Track Title": "Iris",
+        "Artist": "Savella, Rachael Schroeder",
+        "Key": "4B",
+        "Energy": 2.386,
+        "Popularity": 4.42,
+        "BPM": 150,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "1U3opzvxy5V6WGmn59q2o1",
+            "explicit": false,
+            "album": "Iris",
+            "release_date": "2021-12-06",
+            "genres": [],
+            "duration": 166000,
+            "acousticness": 0.817,
+            "danceability": 4.384,
+            "instrumentalness": 0,
+            "liveness": 0.1,
+            "loudness": -13.649,
+            "speechiness": 0.0345,
+            "time_signature": 3,
+            "happiness": 2.548
+        }
+    },
+    {
+        "#": 92,
+        "Track Title": "The Reason",
+        "Artist": "Boyce Avenue",
+        "Key": "12B",
+        "Energy": 5.545,
+        "Popularity": 5.140000000000001,
+        "BPM": 83,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Calm",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3aFTBJxDyBgElGVQTRIh12",
+            "explicit": false,
+            "album": "Cover Sessions, Vol. 6",
+            "release_date": "2020-05-15",
+            "genres": [
+                "acoustic cover",
+                "neo mellow",
+                "viral pop"
+            ],
+            "duration": 228733,
+            "acousticness": 0.72,
+            "danceability": 4.942,
+            "instrumentalness": 0,
+            "liveness": 0.112,
+            "loudness": -4.402,
+            "speechiness": 0.0347,
+            "time_signature": 4,
+            "happiness": 2.476
+        }
+    },
+    {
+        "#": 93,
+        "Track Title": "The House That Built Me",
+        "Artist": "Boyce Avenue",
+        "Key": "10B",
+        "Energy": 3.331,
+        "Popularity": 4.779999999999999,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Calm",
+            "Happy",
+            "Pop",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "0M1GpkmSwHN2YOlyZI6p6j",
+            "explicit": false,
+            "album": "Cover Sessions, Vol. 6",
+            "release_date": "2020-05-15",
+            "genres": [
+                "acoustic cover",
+                "neo mellow",
+                "viral pop"
+            ],
+            "duration": 233850,
+            "acousticness": 0.832,
+            "danceability": 5.149,
+            "instrumentalness": 0,
+            "liveness": 0.258,
+            "loudness": -8.488,
+            "speechiness": 0.0292,
+            "time_signature": 4,
+            "happiness": 2.665
+        }
+    },
+    {
+        "#": 94,
+        "Track Title": "Circles",
+        "Artist": "Boyce Avenue",
+        "Key": "8B",
+        "Energy": 3.9250000000000003,
+        "Popularity": 5.2299999999999995,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Calm",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "045ZL72tZPCLFmZeJlyitL",
+            "explicit": false,
+            "album": "Cover Sessions, Vol. 6",
+            "release_date": "2020-05-15",
+            "genres": [
+                "acoustic cover",
+                "neo mellow",
+                "viral pop"
+            ],
+            "duration": 198950,
+            "acousticness": 0.769,
+            "danceability": 8.02,
+            "instrumentalness": 0,
+            "liveness": 0.0695,
+            "loudness": -6.25,
+            "speechiness": 0.0312,
+            "time_signature": 4,
+            "happiness": 4.7620000000000005
+        }
+    },
+    {
+        "#": 95,
+        "Track Title": "Blinding Lights",
+        "Artist": "Boyce Avenue",
+        "Key": "8A",
+        "Energy": 8.011,
+        "Popularity": 4.96,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Calm",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7Hei7myEPBTzKbhBDh0cxt",
+            "explicit": false,
+            "album": "Cover Sessions, Vol. 6",
+            "release_date": "2020-05-15",
+            "genres": [
+                "acoustic cover",
+                "neo mellow",
+                "viral pop"
+            ],
+            "duration": 167754,
+            "acousticness": 0.28,
+            "danceability": 5.455,
+            "instrumentalness": 0,
+            "liveness": 0.115,
+            "loudness": -4.006,
+            "speechiness": 0.0646,
+            "time_signature": 4,
+            "happiness": 5.257
+        }
+    },
+    {
+        "#": 96,
+        "Track Title": "Wonderwall",
+        "Artist": "Boyce Avenue",
+        "Key": "10B",
+        "Energy": 4.96,
+        "Popularity": 5.140000000000001,
+        "BPM": 87,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Calm",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7Bn3EVZQVPgOdqOhta0SvV",
+            "explicit": false,
+            "album": "Cover Sessions, Vol. 6",
+            "release_date": "2020-05-15",
+            "genres": [
+                "acoustic cover",
+                "neo mellow",
+                "viral pop"
+            ],
+            "duration": 222766,
+            "acousticness": 0.869,
+            "danceability": 5.32,
+            "instrumentalness": 0,
+            "liveness": 0.0969,
+            "loudness": -6.262,
+            "speechiness": 0.0259,
+            "time_signature": 4,
+            "happiness": 3.844
+        }
+    },
+    {
+        "#": 97,
+        "Track Title": "Waiting on the World to Change",
+        "Artist": "Boyce Avenue",
+        "Key": "12A",
+        "Energy": 3.952,
+        "Popularity": 4.779999999999999,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Calm",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3F4WpBDA90kU5I8UV3ALcz",
+            "explicit": false,
+            "album": "Cover Sessions, Vol. 6",
+            "release_date": "2020-05-15",
+            "genres": [
+                "acoustic cover",
+                "neo mellow",
+                "viral pop"
+            ],
+            "duration": 193536,
+            "acousticness": 0.874,
+            "danceability": 7.236999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.157,
+            "loudness": -7.763,
+            "speechiness": 0.0342,
+            "time_signature": 4,
+            "happiness": 6.571
+        }
+    },
+    {
+        "#": 98,
+        "Track Title": "Far Away",
+        "Artist": "Boyce Avenue",
+        "Key": "1B",
+        "Energy": 3.6639999999999997,
+        "Popularity": 4.96,
+        "BPM": 133,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Calm",
+            "Happy",
+            "Pop",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "342NQMskX1ti91RhPW0Vrf",
+            "explicit": false,
+            "album": "Cover Sessions, Vol. 6",
+            "release_date": "2020-05-15",
+            "genres": [
+                "acoustic cover",
+                "neo mellow",
+                "viral pop"
+            ],
+            "duration": 222352,
+            "acousticness": 0.8,
+            "danceability": 6.274,
+            "instrumentalness": 0,
+            "liveness": 0.13,
+            "loudness": -8.122,
+            "speechiness": 0.0315,
+            "time_signature": 4,
+            "happiness": 2.8449999999999998
+        }
+    },
+    {
+        "#": 99,
+        "Track Title": "Home",
+        "Artist": "Boyce Avenue",
+        "Key": "8B",
+        "Energy": 3.205,
+        "Popularity": 4.87,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Calm",
+            "Happy",
+            "Pop",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "7pvm9Vgwd4RLi1EGElRnzO",
+            "explicit": false,
+            "album": "Cover Sessions, Vol. 6",
+            "release_date": "2020-05-15",
+            "genres": [
+                "acoustic cover",
+                "neo mellow",
+                "viral pop"
+            ],
+            "duration": 192746,
+            "acousticness": 0.921,
+            "danceability": 6.445,
+            "instrumentalness": 7.25e-05,
+            "liveness": 0.107,
+            "loudness": -9.834,
+            "speechiness": 0.0267,
+            "time_signature": 4,
+            "happiness": 2.386
+        }
+    },
+    {
+        "#": 100,
+        "Track Title": "I Miss You",
+        "Artist": "Boyce Avenue",
+        "Key": "11B",
+        "Energy": 6.679,
+        "Popularity": 4.51,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Calm, Cover",
+            "2020s",
+            "Calm",
+            "Happy",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2zJrtjhRBhRuWlqkLJuKKK",
+            "explicit": false,
+            "album": "Cover Sessions, Vol. 5",
+            "release_date": "2020-01-24",
+            "genres": [
+                "acoustic cover",
+                "neo mellow",
+                "viral pop"
+            ],
+            "duration": 203868,
+            "acousticness": 0.435,
+            "danceability": 7.111000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.23,
+            "loudness": -7.15,
+            "speechiness": 0.0448,
+            "time_signature": 4,
+            "happiness": 7.624
+        }
+    }
+]

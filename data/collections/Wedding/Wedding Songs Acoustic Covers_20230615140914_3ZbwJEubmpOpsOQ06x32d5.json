@@ -1,0 +1,3287 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Grow Old With You",
+        "Artist": "ortoPilot",
+        "Key": "7B",
+        "Energy": 2.773,
+        "Popularity": 4.6899999999999995,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "00wWSS82pM5L0CZGU1rYIC",
+            "explicit": false,
+            "album": "Covers Album Vol. 14 | 2012 Advent Calendar",
+            "release_date": "2012-12-15",
+            "genres": [
+                "viral pop"
+            ],
+            "duration": 138532,
+            "acousticness": 0.879,
+            "danceability": 5.662,
+            "instrumentalness": 6.97e-05,
+            "liveness": 0.115,
+            "loudness": -12.698,
+            "speechiness": 0.0413,
+            "time_signature": 4,
+            "happiness": 3.5290000000000004
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Eternal Flame (Acoustic Cover)",
+        "Artist": "Coloratura",
+        "Key": "9B",
+        "Energy": 3.853,
+        "Popularity": 4.6,
+        "BPM": 78,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "7zUC1yHJlycTffCO4nnPHl",
+            "explicit": false,
+            "album": "Acoustic Covers, Vol. 1",
+            "release_date": "2022-05-27",
+            "genres": [],
+            "duration": 230134,
+            "acousticness": 0.915,
+            "danceability": 6.0040000000000004,
+            "instrumentalness": 0,
+            "liveness": 0.12,
+            "loudness": -5.08,
+            "speechiness": 0.0277,
+            "time_signature": 4,
+            "happiness": 5.131
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Simply the Best (Acoustic Cover)",
+        "Artist": "The Moon Loungers",
+        "Key": "12B",
+        "Energy": 3.403,
+        "Popularity": 4.42,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "0ntsgrKKRMdmTDFaukTCaM",
+            "explicit": false,
+            "album": "A Collection of Acoustic Covers",
+            "release_date": "2021-03-26",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 260594,
+            "acousticness": 0.827,
+            "danceability": 6.138999999999999,
+            "instrumentalness": 5.39e-05,
+            "liveness": 0.143,
+            "loudness": -8.802,
+            "speechiness": 0.0315,
+            "time_signature": 4,
+            "happiness": 2.9619999999999997
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Shivers (Acoustic Cover)",
+        "Artist": "Maple Flame",
+        "Key": "2B",
+        "Energy": 4.447,
+        "Popularity": 4.51,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1AOAJucxvKvzZeBQaypkfz",
+            "explicit": false,
+            "album": "Shivers (Acoustic Cover)",
+            "release_date": "2022-01-06",
+            "genres": [],
+            "duration": 240514,
+            "acousticness": 0.591,
+            "danceability": 7.696,
+            "instrumentalness": 0,
+            "liveness": 0.265,
+            "loudness": -5.761,
+            "speechiness": 0.0502,
+            "time_signature": 4,
+            "happiness": 5.257
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Cherish (Acoustic Cover)",
+        "Artist": "Penny Sweet",
+        "Key": "3B",
+        "Energy": 3.5020000000000002,
+        "Popularity": 4.33,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "0mELCaSvWOSd5ZIBvJLJoQ",
+            "explicit": false,
+            "album": "Cherish (Acoustic Cover)",
+            "release_date": "2023-01-06",
+            "genres": [],
+            "duration": 285500,
+            "acousticness": 0.862,
+            "danceability": 7.57,
+            "instrumentalness": 0,
+            "liveness": 0.104,
+            "loudness": -6.831,
+            "speechiness": 0.0331,
+            "time_signature": 4,
+            "happiness": 4.996
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Stand by Me (Acoustic Cover)",
+        "Artist": "The Silkwood Project",
+        "Key": "2B",
+        "Energy": 3.142,
+        "Popularity": 4.51,
+        "BPM": 111,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "7JEe5udf2Wqc3QyVCcYJ3s",
+            "explicit": false,
+            "album": "Stand by Me (Acoustic Cover)",
+            "release_date": "2023-03-28",
+            "genres": [],
+            "duration": 240829,
+            "acousticness": 0.887,
+            "danceability": 5.671,
+            "instrumentalness": 0,
+            "liveness": 0.0893,
+            "loudness": -7.249,
+            "speechiness": 0.0351,
+            "time_signature": 4,
+            "happiness": 3.988
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Can’t Help Falling in Love",
+        "Artist": "Kina Grannis",
+        "Key": "8B",
+        "Energy": 1.5364,
+        "Popularity": 1.0,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s",
+            "Calm",
+            "Happy",
+            "Pop",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "7uuEfUMuPeQ7RlSWa0cES2",
+            "explicit": false,
+            "album": "Crazy Rich Asians (Original Motion Picture Soundtrack)",
+            "release_date": "2018-08-10",
+            "genres": [
+                "acoustic pop",
+                "viral pop"
+            ],
+            "duration": 201933,
+            "acousticness": 0.905,
+            "danceability": 3.394,
+            "instrumentalness": 7.07e-05,
+            "liveness": 0.132,
+            "loudness": -18.515,
+            "speechiness": 0.0363,
+            "time_signature": 3,
+            "happiness": 2.287
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "The One (Acoustic Cover)",
+        "Artist": "The Moon Loungers",
+        "Key": "6B",
+        "Energy": 3.511,
+        "Popularity": 3.88,
+        "BPM": 144,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "5hzQ0nwJMFTXbNZmjioxJ1",
+            "explicit": false,
+            "album": "The One (Acoustic Cover)",
+            "release_date": "2023-05-12",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 241116,
+            "acousticness": 0.859,
+            "danceability": 5.797000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.115,
+            "loudness": -8.705,
+            "speechiness": 0.0278,
+            "time_signature": 4,
+            "happiness": 2.782
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "You Make My Dreams - Acoustic",
+        "Artist": "Alex Francis",
+        "Key": "4B",
+        "Energy": 4.311999999999999,
+        "Popularity": 1.0,
+        "BPM": 148,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "31nV3lkDVnJlfHntOkIhpD",
+            "explicit": false,
+            "album": "Foundations Acoustic",
+            "release_date": "2019-09-02",
+            "genres": [
+                "london indie"
+            ],
+            "duration": 205650,
+            "acousticness": 0.737,
+            "danceability": 6.715,
+            "instrumentalness": 0,
+            "liveness": 0.129,
+            "loudness": -8.453,
+            "speechiness": 0.0372,
+            "time_signature": 4,
+            "happiness": 5.338
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "The First Time Ever I Saw Your Face (Acoustic Cover)",
+        "Artist": "Coloratura",
+        "Key": "8B",
+        "Energy": 2.773,
+        "Popularity": 3.43,
+        "BPM": 141,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "0l32tcZZpHZ3GIbDZEVv2G",
+            "explicit": false,
+            "album": "The First Time Ever I Saw Your Face (Acoustic Cover)",
+            "release_date": "2023-04-28",
+            "genres": [],
+            "duration": 224218,
+            "acousticness": 0.967,
+            "danceability": 4.0600000000000005,
+            "instrumentalness": 0.000198,
+            "liveness": 0.121,
+            "loudness": -8.824,
+            "speechiness": 0.0304,
+            "time_signature": 4,
+            "happiness": 3.4210000000000003
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Thinking out Loud (Acoustic Cover)",
+        "Artist": "Cloud Illusions",
+        "Key": "8B",
+        "Energy": 4.627000000000001,
+        "Popularity": 4.15,
+        "BPM": 79,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "6dVk2L88SKh47C2glkiDWL",
+            "explicit": false,
+            "album": "Thinking out Loud (Acoustic Cover)",
+            "release_date": "2022-02-25",
+            "genres": [],
+            "duration": 278087,
+            "acousticness": 0.404,
+            "danceability": 6.157,
+            "instrumentalness": 0,
+            "liveness": 0.34,
+            "loudness": -7.416,
+            "speechiness": 0.0292,
+            "time_signature": 4,
+            "happiness": 4.996
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Wherever You Will Go (Acoustic Cover)",
+        "Artist": "Girl in the Distance",
+        "Key": "9B",
+        "Energy": 3.5200000000000005,
+        "Popularity": 4.42,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "7DmItXy2Ub9JBMmb7WH2bG",
+            "explicit": false,
+            "album": "Wherever You Will Go (Acoustic Cover)",
+            "release_date": "2023-01-06",
+            "genres": [],
+            "duration": 217368,
+            "acousticness": 0.881,
+            "danceability": 6.5169999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.107,
+            "loudness": -6.328,
+            "speechiness": 0.0275,
+            "time_signature": 4,
+            "happiness": 4.546
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "I Feel Fine (Acoustic Cover)",
+        "Artist": "The Moon Loungers",
+        "Key": "12B",
+        "Energy": 3.862,
+        "Popularity": 4.0600000000000005,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "0MX1FfL2VsLSc0vN7cLena",
+            "explicit": false,
+            "album": "I Feel Fine (Acoustic Cover)",
+            "release_date": "2022-01-14",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 137795,
+            "acousticness": 0.816,
+            "danceability": 6.255999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.0885,
+            "loudness": -9.21,
+            "speechiness": 0.0287,
+            "time_signature": 4,
+            "happiness": 5.005
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Better Together",
+        "Artist": "Us The Duo",
+        "Key": "7B",
+        "Energy": 3.6999999999999997,
+        "Popularity": 1.0,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s",
+            "Nostalgic",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6KzL8s8GdRbd5Mal8yLz6R",
+            "explicit": false,
+            "album": "Better Together",
+            "release_date": "2015-04-28",
+            "genres": [
+                "folk-pop",
+                "viral pop"
+            ],
+            "duration": 200706,
+            "acousticness": 0.649,
+            "danceability": 8.11,
+            "instrumentalness": 0,
+            "liveness": 0.14,
+            "loudness": -10.597,
+            "speechiness": 0.0622,
+            "time_signature": 4,
+            "happiness": 5.41
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Photograph (Acoustic Cover)",
+        "Artist": "Bear Montana",
+        "Key": "10B",
+        "Energy": 4.006,
+        "Popularity": 3.88,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "6l99yB2oWClsJpoI9SKTdH",
+            "explicit": false,
+            "album": "Photograph (Acoustic Cover)",
+            "release_date": "2023-05-26",
+            "genres": [],
+            "duration": 246667,
+            "acousticness": 0.806,
+            "danceability": 7.0840000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.13,
+            "loudness": -9.096,
+            "speechiness": 0.0303,
+            "time_signature": 4,
+            "happiness": 4.006
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "I Don't Want to Miss a Thing (Acoustic Cover)",
+        "Artist": "Coloratura",
+        "Key": "12B",
+        "Energy": 3.646,
+        "Popularity": 4.33,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "0NadMibNtVZpWK7uZTQBZT",
+            "explicit": false,
+            "album": "Acoustic Covers, Vol. 1",
+            "release_date": "2022-05-27",
+            "genres": [],
+            "duration": 224286,
+            "acousticness": 0.867,
+            "danceability": 5.545,
+            "instrumentalness": 0,
+            "liveness": 0.331,
+            "loudness": -6.433,
+            "speechiness": 0.0525,
+            "time_signature": 4,
+            "happiness": 5.104
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "Anyone - Acoustic",
+        "Artist": "Bobby Brinker",
+        "Key": "8B",
+        "Energy": 3.178,
+        "Popularity": 4.15,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1C1bwAtpsDaQoINi5vEUzO",
+            "explicit": false,
+            "album": "Anyone (Acoustic)",
+            "release_date": "2021-02-12",
+            "genres": [],
+            "duration": 191509,
+            "acousticness": 0.791,
+            "danceability": 7.318,
+            "instrumentalness": 0,
+            "liveness": 0.149,
+            "loudness": -10.816,
+            "speechiness": 0.0368,
+            "time_signature": 4,
+            "happiness": 5.113
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Kiss Me (Acoustic Cover)",
+        "Artist": "Penny Sweet",
+        "Key": "1B",
+        "Energy": 3.286,
+        "Popularity": 5.32,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2j5pdzMKWf8eWNkNEjD6Ls",
+            "explicit": false,
+            "album": "Kiss Me (Acoustic Cover)",
+            "release_date": "2023-03-31",
+            "genres": [],
+            "duration": 187429,
+            "acousticness": 0.88,
+            "danceability": 6.0040000000000004,
+            "instrumentalness": 0,
+            "liveness": 0.159,
+            "loudness": -9.676,
+            "speechiness": 0.0275,
+            "time_signature": 4,
+            "happiness": 5.203
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Heaven (Acoustic Cover)",
+        "Artist": "Cloud Illusions",
+        "Key": "12B",
+        "Energy": 3.8890000000000002,
+        "Popularity": 4.0600000000000005,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "6Xcb7rHDvvU6ZE3EjgOZdn",
+            "explicit": false,
+            "album": "Heaven (Acoustic Cover)",
+            "release_date": "2023-02-03",
+            "genres": [],
+            "duration": 244333,
+            "acousticness": 0.825,
+            "danceability": 6.031000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.085,
+            "loudness": -12.552,
+            "speechiness": 0.032,
+            "time_signature": 4,
+            "happiness": 5.131
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "The Joker And The Queen - Acoustic",
+        "Artist": "Jonah Baker, Celine",
+        "Key": "3B",
+        "Energy": 2.395,
+        "Popularity": 3.88,
+        "BPM": 131,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "6HaleGcxVGTzZbeP41YKsK",
+            "explicit": false,
+            "album": "The Joker And The Queen - Acoustic",
+            "release_date": "2022-03-04",
+            "genres": [
+                "acoustic cover",
+                "mgpjr"
+            ],
+            "duration": 166421,
+            "acousticness": 0.886,
+            "danceability": 5.491,
+            "instrumentalness": 0,
+            "liveness": 0.0799,
+            "loudness": -13.783,
+            "speechiness": 0.0359,
+            "time_signature": 4,
+            "happiness": 3.5829999999999997
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Dreamlover (Acoustic Cover)",
+        "Artist": "Coloratura",
+        "Key": "2A",
+        "Energy": 3.853,
+        "Popularity": 4.51,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2q1IeNxdIT1eT5xgbK0GC0",
+            "explicit": false,
+            "album": "Acoustic Covers, Vol. 1",
+            "release_date": "2022-05-27",
+            "genres": [],
+            "duration": 183189,
+            "acousticness": 0.922,
+            "danceability": 8.641,
+            "instrumentalness": 0,
+            "liveness": 0.154,
+            "loudness": -7.318,
+            "speechiness": 0.0508,
+            "time_signature": 4,
+            "happiness": 8.092
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "Never Gonna Give You up (Acoustic Cover)",
+        "Artist": "Maple Flame",
+        "Key": "3A",
+        "Energy": 3.484,
+        "Popularity": 4.15,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "3YIiFEDi5xVVEoxGTp258X",
+            "explicit": false,
+            "album": "Never Gonna Give You up (Acoustic Cover)",
+            "release_date": "2023-01-06",
+            "genres": [],
+            "duration": 175904,
+            "acousticness": 0.648,
+            "danceability": 6.553,
+            "instrumentalness": 0,
+            "liveness": 0.147,
+            "loudness": -8.135,
+            "speechiness": 0.0358,
+            "time_signature": 4,
+            "happiness": 5.905
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "At Last",
+        "Artist": "Clementine Duo",
+        "Key": "7B",
+        "Energy": 1.7614,
+        "Popularity": 1.0,
+        "BPM": 129,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "4GznLUVj0c122Nronoxt7H",
+            "explicit": false,
+            "album": "Clementine Acoustic Sessions",
+            "release_date": "2017-01-16",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 230734,
+            "acousticness": 0.93,
+            "danceability": 5.743,
+            "instrumentalness": 0.000232,
+            "liveness": 0.11,
+            "loudness": -14.219,
+            "speechiness": 0.0382,
+            "time_signature": 3,
+            "happiness": 2.8899999999999997
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "How Deep Is Your Love (Acoustic)",
+        "Artist": "The Moon Loungers",
+        "Key": "7A",
+        "Energy": 4.249,
+        "Popularity": 4.15,
+        "BPM": 112,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2jpInPUTxGloeDVFoKS5Nj",
+            "explicit": false,
+            "album": "Acoustic Covers: 70s",
+            "release_date": "2019-02-07",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 214001,
+            "acousticness": 0.902,
+            "danceability": 6.76,
+            "instrumentalness": 8.52e-06,
+            "liveness": 0.115,
+            "loudness": -9.644,
+            "speechiness": 0.0278,
+            "time_signature": 4,
+            "happiness": 4.7620000000000005
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "10,000 Hours (Acoustic Cover)",
+        "Artist": "Bear Montana",
+        "Key": "2B",
+        "Energy": 3.25,
+        "Popularity": 3.97,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "27QCAqaLPOBusIdZ75wp7e",
+            "explicit": false,
+            "album": "10,000 Hours (Acoustic Cover)",
+            "release_date": "2023-04-18",
+            "genres": [],
+            "duration": 189961,
+            "acousticness": 0.797,
+            "danceability": 7.102,
+            "instrumentalness": 0,
+            "liveness": 0.12,
+            "loudness": -9.94,
+            "speechiness": 0.0294,
+            "time_signature": 4,
+            "happiness": 5.545
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "No One (Acoustic Cover)",
+        "Artist": "Coloratura",
+        "Key": "10B",
+        "Energy": 3.673,
+        "Popularity": 3.88,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "7m4d9UEgcfmHIKbQbgk3oZ",
+            "explicit": false,
+            "album": "No One (Acoustic Cover)",
+            "release_date": "2023-01-06",
+            "genres": [],
+            "duration": 260068,
+            "acousticness": 0.926,
+            "danceability": 5.7250000000000005,
+            "instrumentalness": 1.29e-06,
+            "liveness": 0.111,
+            "loudness": -6.592,
+            "speechiness": 0.0294,
+            "time_signature": 4,
+            "happiness": 4.1049999999999995
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "Me!",
+        "Artist": "Walk off the Earth",
+        "Key": "9B",
+        "Energy": 4.258,
+        "Popularity": 4.96,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s",
+            "Rock",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2DhQ1XIgEJvZWIIz5Gh5e5",
+            "explicit": false,
+            "album": "Me!",
+            "release_date": "2019-05-13",
+            "genres": [
+                "canadian rock",
+                "pop rock"
+            ],
+            "duration": 177386,
+            "acousticness": 0.947,
+            "danceability": 6.31,
+            "instrumentalness": 0,
+            "liveness": 0.102,
+            "loudness": -10.878,
+            "speechiness": 0.05,
+            "time_signature": 4,
+            "happiness": 7.228
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Count on Me (Acoustic Cover)",
+        "Artist": "Penny Sweet",
+        "Key": "1B",
+        "Energy": 3.016,
+        "Popularity": 4.24,
+        "BPM": 144,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "3FS3ZJwNBMF80nseYUKn5g",
+            "explicit": false,
+            "album": "Count on Me (Acoustic Cover)",
+            "release_date": "2022-10-21",
+            "genres": [],
+            "duration": 240070,
+            "acousticness": 0.923,
+            "danceability": 6.274,
+            "instrumentalness": 0,
+            "liveness": 0.0978,
+            "loudness": -7.182,
+            "speechiness": 0.028,
+            "time_signature": 4,
+            "happiness": 5.752000000000001
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "You're My Best Friend (Acoustic Cover)",
+        "Artist": "Cloud Illusions",
+        "Key": "1B",
+        "Energy": 4.303,
+        "Popularity": 4.33,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "5w8n8xAyuoEAcwYvjDjDYX",
+            "explicit": false,
+            "album": "You're My Best Friend (Acoustic Cover)",
+            "release_date": "2022-06-03",
+            "genres": [],
+            "duration": 167652,
+            "acousticness": 0.807,
+            "danceability": 6.301,
+            "instrumentalness": 0,
+            "liveness": 0.105,
+            "loudness": -6.484,
+            "speechiness": 0.0296,
+            "time_signature": 4,
+            "happiness": 5.473
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Bless the Broken Road - Acoustic",
+        "Artist": "Matt Johnson, Bailey Rushlow",
+        "Key": "1B",
+        "Energy": 2.683,
+        "Popularity": 1.0,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "6n0Nc32P7IAIvTwCcFeFYm",
+            "explicit": false,
+            "album": "Bless the Broken Road (Acoustic)",
+            "release_date": "2020-07-24",
+            "genres": [
+                "acoustic cover",
+                "acoustic cover"
+            ],
+            "duration": 175064,
+            "acousticness": 0.887,
+            "danceability": 6.607,
+            "instrumentalness": 0,
+            "liveness": 0.108,
+            "loudness": -11.334,
+            "speechiness": 0.0353,
+            "time_signature": 4,
+            "happiness": 4.744
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "Is This Love (Acoustic Cover)",
+        "Artist": "The Moon Loungers",
+        "Key": "12A",
+        "Energy": 4.311999999999999,
+        "Popularity": 4.42,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1o2GKvTzPxv0tHxQCeQhhm",
+            "explicit": false,
+            "album": "A Collection of Acoustic Covers",
+            "release_date": "2021-03-26",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 218631,
+            "acousticness": 0.832,
+            "danceability": 6.67,
+            "instrumentalness": 0,
+            "liveness": 0.168,
+            "loudness": -7.655,
+            "speechiness": 0.0317,
+            "time_signature": 4,
+            "happiness": 4.6
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "I Will (Acoustic Cover)",
+        "Artist": "Coloratura",
+        "Key": "11B",
+        "Energy": 3.007,
+        "Popularity": 4.15,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "3eotvtOMgPM8HCvXfBL5R9",
+            "explicit": false,
+            "album": "Acoustic Covers, Vol. 1",
+            "release_date": "2022-05-27",
+            "genres": [],
+            "duration": 101636,
+            "acousticness": 0.93,
+            "danceability": 6.823,
+            "instrumentalness": 0,
+            "liveness": 0.414,
+            "loudness": -7.662,
+            "speechiness": 0.044,
+            "time_signature": 4,
+            "happiness": 6.571
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "The Way You Make Me Feel (Acoustic Cover)",
+        "Artist": "The Silkwood Project",
+        "Key": "10B",
+        "Energy": 3.8890000000000002,
+        "Popularity": 4.33,
+        "BPM": 101,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5BEKh3x2St0TxhTM2TkT6s",
+            "explicit": false,
+            "album": "The Way You Make Me Feel (Acoustic Cover)",
+            "release_date": "2023-04-28",
+            "genres": [],
+            "duration": 190099,
+            "acousticness": 0.56,
+            "danceability": 8.515,
+            "instrumentalness": 0,
+            "liveness": 0.0916,
+            "loudness": -5.925,
+            "speechiness": 0.0336,
+            "time_signature": 4,
+            "happiness": 7.191999999999999
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "You're Still the One",
+        "Artist": "Bailey Pelkman",
+        "Key": "5B",
+        "Energy": 3.5829999999999997,
+        "Popularity": 1.0,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "3O2zxgh681MLULEY2Ra61d",
+            "explicit": false,
+            "album": "Covers II",
+            "release_date": "2017-07-31",
+            "genres": [
+                "acoustic chill"
+            ],
+            "duration": 180556,
+            "acousticness": 0.868,
+            "danceability": 5.077,
+            "instrumentalness": 2.82e-06,
+            "liveness": 0.117,
+            "loudness": -9.261,
+            "speechiness": 0.0294,
+            "time_signature": 3,
+            "happiness": 2.296
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "You and Me (Acoustic Cover)",
+        "Artist": "Maple Flame",
+        "Key": "5B",
+        "Energy": 3.484,
+        "Popularity": 4.0600000000000005,
+        "BPM": 138,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2metB1F8a3XZhKz8X98FI8",
+            "explicit": false,
+            "album": "You and Me (Acoustic Cover)",
+            "release_date": "2022-04-01",
+            "genres": [],
+            "duration": 178098,
+            "acousticness": 0.637,
+            "danceability": 5.095,
+            "instrumentalness": 0,
+            "liveness": 0.157,
+            "loudness": -8.78,
+            "speechiness": 0.0358,
+            "time_signature": 3,
+            "happiness": 4.834
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "Friday I'm in Love (Acoustic Cover)",
+        "Artist": "Penny Sweet",
+        "Key": "7B",
+        "Energy": 3.5200000000000005,
+        "Popularity": 4.42,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "4A5EYyubFYWHdFYwOF1cvb",
+            "explicit": false,
+            "album": "Friday I'm in Love (Acoustic Cover)",
+            "release_date": "2023-04-28",
+            "genres": [],
+            "duration": 213120,
+            "acousticness": 0.876,
+            "danceability": 7.543,
+            "instrumentalness": 0,
+            "liveness": 0.113,
+            "loudness": -8.425,
+            "speechiness": 0.0331,
+            "time_signature": 4,
+            "happiness": 4.771
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "I'm Yours (acoustic cover version originally by Jason Mraz)",
+        "Artist": "Ebony Day, ortoPilot",
+        "Key": "5B",
+        "Energy": 3.412,
+        "Popularity": 1.0,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s",
+            "Happy",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2ZyQFJ8JKNLIShhc6DialH",
+            "explicit": false,
+            "album": "Live Lounge Sessions",
+            "release_date": "2011-03-10",
+            "genres": [
+                "viral pop"
+            ],
+            "duration": 204520,
+            "acousticness": 0.457,
+            "danceability": 7.3,
+            "instrumentalness": 0,
+            "liveness": 0.579,
+            "loudness": -10.899,
+            "speechiness": 0.084,
+            "time_signature": 4,
+            "happiness": 8.389
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "I'll Be There (Acoustic)",
+        "Artist": "The Moon Loungers",
+        "Key": "9B",
+        "Energy": 3.907,
+        "Popularity": 2.8899999999999997,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "0HJi6zv9RbY948fzwscW4K",
+            "explicit": false,
+            "album": "Acoustic Covers: 70s",
+            "release_date": "2019-02-07",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 227346,
+            "acousticness": 0.878,
+            "danceability": 5.005,
+            "instrumentalness": 0,
+            "liveness": 0.108,
+            "loudness": -10.009,
+            "speechiness": 0.0326,
+            "time_signature": 4,
+            "happiness": 5.437
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "You're the One That I Want",
+        "Artist": "Angus & Julia Stone",
+        "Key": "7A",
+        "Energy": 1.5922,
+        "Popularity": 5.41,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "0yo7SQcWsIdjjgwpx3ZeR2",
+            "explicit": false,
+            "album": "Big Jet Plane",
+            "release_date": "2010-05-03",
+            "genres": [
+                "australian indie folk",
+                "indie folk"
+            ],
+            "duration": 194960,
+            "acousticness": 0.892,
+            "danceability": 6.499,
+            "instrumentalness": 0,
+            "liveness": 0.149,
+            "loudness": -13.781,
+            "speechiness": 0.0373,
+            "time_signature": 4,
+            "happiness": 3.9610000000000003
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "Use Somebody (Acoustic Cover)",
+        "Artist": "Coloratura",
+        "Key": "2A",
+        "Energy": 3.277,
+        "Popularity": 4.24,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "7ywQ9rSdx2tKs8HonVjKtu",
+            "explicit": false,
+            "album": "Acoustic Covers, Vol. 1",
+            "release_date": "2022-05-27",
+            "genres": [],
+            "duration": 213171,
+            "acousticness": 0.977,
+            "danceability": 4.852,
+            "instrumentalness": 0,
+            "liveness": 0.144,
+            "loudness": -7.607,
+            "speechiness": 0.0336,
+            "time_signature": 4,
+            "happiness": 2.6559999999999997
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "Crazy in Love (Acoustic Cover)",
+        "Artist": "Girl in the Distance",
+        "Key": "1A",
+        "Energy": 4.42,
+        "Popularity": 4.24,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1mZnHS5xtHwVTTgViz9mjt",
+            "explicit": false,
+            "album": "Crazy in Love (Acoustic Cover)",
+            "release_date": "2022-01-19",
+            "genres": [],
+            "duration": 189527,
+            "acousticness": 0.836,
+            "danceability": 7.308999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.127,
+            "loudness": -5.819,
+            "speechiness": 0.0368,
+            "time_signature": 4,
+            "happiness": 6.0040000000000004
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "There She Goes (Acoustic Cover)",
+        "Artist": "Cloud Illusions",
+        "Key": "9B",
+        "Energy": 6.589,
+        "Popularity": 4.33,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7fJsBjQS6DDMruYYCDYUrN",
+            "explicit": false,
+            "album": "There She Goes (Acoustic Cover)",
+            "release_date": "2022-07-29",
+            "genres": [],
+            "duration": 166964,
+            "acousticness": 0.672,
+            "danceability": 6.814,
+            "instrumentalness": 1.59e-06,
+            "liveness": 0.104,
+            "loudness": -7.483,
+            "speechiness": 0.0297,
+            "time_signature": 4,
+            "happiness": 7.4799999999999995
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "God Only Knows",
+        "Artist": "Kina Grannis, Imaginary Future",
+        "Key": "4B",
+        "Energy": 2.125,
+        "Popularity": 5.2299999999999995,
+        "BPM": 107,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s",
+            "Calm",
+            "Nostalgic",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1YnLthg0HOs8YTzgN5hVh2",
+            "explicit": false,
+            "album": "God Only Knows",
+            "release_date": "2017-04-28",
+            "genres": [
+                "acoustic pop",
+                "viral pop",
+                "folk-pop"
+            ],
+            "duration": 136542,
+            "acousticness": 0.877,
+            "danceability": 6.922000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.287,
+            "loudness": -15.901,
+            "speechiness": 0.0323,
+            "time_signature": 4,
+            "happiness": 5.563
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "Just the Way You Are (Acoustic)",
+        "Artist": "The Moon Loungers",
+        "Key": "9B",
+        "Energy": 3.988,
+        "Popularity": 3.25,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "0Do2wDXgmBQ1edQRFujYtb",
+            "explicit": false,
+            "album": "Acoustic Covers: 70s",
+            "release_date": "2019-02-07",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 342339,
+            "acousticness": 0.815,
+            "danceability": 7.372,
+            "instrumentalness": 0.0407,
+            "liveness": 0.117,
+            "loudness": -9.604,
+            "speechiness": 0.0306,
+            "time_signature": 4,
+            "happiness": 4.555
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "Love Me Do (Acoustic Cover)",
+        "Artist": "Coloratura",
+        "Key": "11B",
+        "Energy": 2.926,
+        "Popularity": 3.97,
+        "BPM": 117,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "6NIhb5pWfkgYnE3mkcVZNX",
+            "explicit": false,
+            "album": "Acoustic Covers, Vol. 1",
+            "release_date": "2022-05-27",
+            "genres": [],
+            "duration": 129021,
+            "acousticness": 0.941,
+            "danceability": 4.978,
+            "instrumentalness": 0,
+            "liveness": 0.108,
+            "loudness": -9.691,
+            "speechiness": 0.0377,
+            "time_signature": 4,
+            "happiness": 3.3850000000000002
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "Baby I Love Your Way",
+        "Artist": "Joseph Vincent",
+        "Key": "10B",
+        "Energy": 1.936,
+        "Popularity": 1.0,
+        "BPM": 79,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "20ofLGWLeTUXO8NxcZxVpM",
+            "explicit": false,
+            "album": "Baby I Love Your Way",
+            "release_date": "2017-07-25",
+            "genres": [
+                "viral pop"
+            ],
+            "duration": 126305,
+            "acousticness": 0.845,
+            "danceability": 6.625,
+            "instrumentalness": 0,
+            "liveness": 0.127,
+            "loudness": -16.229,
+            "speechiness": 0.0955,
+            "time_signature": 4,
+            "happiness": 3.979
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "I Just Can't Stop Loving You",
+        "Artist": "Trijntje Oosterhuis",
+        "Key": "2B",
+        "Energy": 3.4210000000000003,
+        "Popularity": 3.43,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2000s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "0TiDy4fPgzrNmgYzL9P7Wi",
+            "explicit": false,
+            "album": "Never Can Say Goodbye",
+            "release_date": "2009-01-01",
+            "genres": [
+                "dutch pop",
+                "dutch rock"
+            ],
+            "duration": 279317,
+            "acousticness": 0.925,
+            "danceability": 7.093,
+            "instrumentalness": 0,
+            "liveness": 0.0695,
+            "loudness": -8.077,
+            "speechiness": 0.0338,
+            "time_signature": 4,
+            "happiness": 2.665
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "Fly Me to the Moon",
+        "Artist": "Imaginary Future",
+        "Key": "5B",
+        "Energy": 2.098,
+        "Popularity": 4.33,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s",
+            "Nostalgic",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5V8SlpvbobWGZCMUMn0yk2",
+            "explicit": false,
+            "album": "Fly Me to the Moon",
+            "release_date": "2017-09-15",
+            "genres": [
+                "folk-pop"
+            ],
+            "duration": 112125,
+            "acousticness": 0.779,
+            "danceability": 6.247,
+            "instrumentalness": 0,
+            "liveness": 0.132,
+            "loudness": -14.152,
+            "speechiness": 0.0373,
+            "time_signature": 4,
+            "happiness": 4.978
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "A Thousand Years - Acoustic",
+        "Artist": "Jonah Baker",
+        "Key": "9B",
+        "Energy": 2.026,
+        "Popularity": 1.0,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "0xqccWockRxG3kbOzT0OVH",
+            "explicit": false,
+            "album": "A Thousand Years (Acoustic)",
+            "release_date": "2020-02-21",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 249728,
+            "acousticness": 0.917,
+            "danceability": 4.465,
+            "instrumentalness": 0,
+            "liveness": 0.128,
+            "loudness": -13.005,
+            "speechiness": 0.0314,
+            "time_signature": 4,
+            "happiness": 3.4210000000000003
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "If I Aint Got You (Acoustic Cover)",
+        "Artist": "Coloratura",
+        "Key": "9B",
+        "Energy": 3.5200000000000005,
+        "Popularity": 3.97,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1sAvW5w3l7BfdGg7ubXEZ5",
+            "explicit": false,
+            "album": "Acoustic Covers, Vol. 1",
+            "release_date": "2022-05-27",
+            "genres": [],
+            "duration": 218678,
+            "acousticness": 0.901,
+            "danceability": 4.609,
+            "instrumentalness": 0,
+            "liveness": 0.119,
+            "loudness": -6.455,
+            "speechiness": 0.0552,
+            "time_signature": 4,
+            "happiness": 4.519
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "Maybe I'm Amazed (Acoustic)",
+        "Artist": "The Moon Loungers",
+        "Key": "10B",
+        "Energy": 3.9250000000000003,
+        "Popularity": 3.34,
+        "BPM": 150,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "6i7KdcsPPPt4qw3IJnR1gf",
+            "explicit": false,
+            "album": "Acoustic Covers: 70s",
+            "release_date": "2019-02-07",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 248542,
+            "acousticness": 0.918,
+            "danceability": 6.823,
+            "instrumentalness": 0.000278,
+            "liveness": 0.103,
+            "loudness": -8.749,
+            "speechiness": 0.0408,
+            "time_signature": 4,
+            "happiness": 4.15
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "L-O-V-E",
+        "Artist": "Bailey Pelkman",
+        "Key": "7B",
+        "Energy": 1.8532,
+        "Popularity": 1.0,
+        "BPM": 103,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6j8AdryEYQUaRYzgLqX1iX",
+            "explicit": false,
+            "album": "Covers",
+            "release_date": "2016-08-26",
+            "genres": [
+                "acoustic chill"
+            ],
+            "duration": 112500,
+            "acousticness": 0.953,
+            "danceability": 6.742,
+            "instrumentalness": 0,
+            "liveness": 0.122,
+            "loudness": -11.063,
+            "speechiness": 0.0491,
+            "time_signature": 5,
+            "happiness": 7.039000000000001
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "She Loves You (Acoustic Cover)",
+        "Artist": "Girl in the Distance",
+        "Key": "11B",
+        "Energy": 3.187,
+        "Popularity": 4.15,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1bSmmdCbvXK13dgE8DgjTd",
+            "explicit": false,
+            "album": "She Loves You (Acoustic Cover)",
+            "release_date": "2023-03-03",
+            "genres": [],
+            "duration": 192924,
+            "acousticness": 0.874,
+            "danceability": 6.4719999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.298,
+            "loudness": -8.128,
+            "speechiness": 0.0304,
+            "time_signature": 4,
+            "happiness": 3.097
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "Perfect (Acoustic Cover)",
+        "Artist": "Cloud Illusions",
+        "Key": "7B",
+        "Energy": 4.276,
+        "Popularity": 3.6999999999999997,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "5sUELpWY5ayTIlw6fPw7V6",
+            "explicit": false,
+            "album": "Perfect (Acoustic Cover)",
+            "release_date": "2023-03-31",
+            "genres": [],
+            "duration": 270988,
+            "acousticness": 0.651,
+            "danceability": 5.581,
+            "instrumentalness": 0,
+            "liveness": 0.145,
+            "loudness": -6.793,
+            "speechiness": 0.0293,
+            "time_signature": 3,
+            "happiness": 5.473
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "I Got You Babe",
+        "Artist": "Northern Skylight",
+        "Key": "1B",
+        "Energy": 3.88,
+        "Popularity": 2.98,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1gM3lk5VCp2qr7A3pFfM88",
+            "explicit": false,
+            "album": "Acoustic Covers, Vol. 1",
+            "release_date": "2020-10-13",
+            "genres": [],
+            "duration": 201379,
+            "acousticness": 0.761,
+            "danceability": 6.886,
+            "instrumentalness": 0,
+            "liveness": 0.152,
+            "loudness": -10.465,
+            "speechiness": 0.0289,
+            "time_signature": 4,
+            "happiness": 3.79
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "You Are My Sunshine",
+        "Artist": "Kina Grannis",
+        "Key": "6B",
+        "Energy": 1.6795,
+        "Popularity": 6.3999999999999995,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s",
+            "Calm",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "65VhbQdqvozUntjnlFkFbZ",
+            "explicit": false,
+            "album": "You Are My Sunshine",
+            "release_date": "2018-05-11",
+            "genres": [
+                "acoustic pop",
+                "viral pop"
+            ],
+            "duration": 123609,
+            "acousticness": 0.91,
+            "danceability": 6.976,
+            "instrumentalness": 0,
+            "liveness": 0.164,
+            "loudness": -19.836,
+            "speechiness": 0.0389,
+            "time_signature": 1,
+            "happiness": 6.175
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "Love Story (Acoustic Cover)",
+        "Artist": "Coloratura",
+        "Key": "11B",
+        "Energy": 3.412,
+        "Popularity": 4.15,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "79hrfBTbOWmHU56p5JqAzO",
+            "explicit": false,
+            "album": "Acoustic Covers, Vol. 1",
+            "release_date": "2022-05-27",
+            "genres": [],
+            "duration": 205000,
+            "acousticness": 0.869,
+            "danceability": 7.696,
+            "instrumentalness": 0,
+            "liveness": 0.169,
+            "loudness": -7.916,
+            "speechiness": 0.0609,
+            "time_signature": 4,
+            "happiness": 5.194
+        }
+    },
+    {
+        "#": 58,
+        "Track Title": "You've Got a Friend (Acoustic)",
+        "Artist": "The Moon Loungers",
+        "Key": "10B",
+        "Energy": 3.466,
+        "Popularity": 4.0600000000000005,
+        "BPM": 106,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "05V9HVnDTXCw5z73irMAEE",
+            "explicit": false,
+            "album": "Acoustic Covers: 70s",
+            "release_date": "2019-02-07",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 235071,
+            "acousticness": 0.885,
+            "danceability": 7.335999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.186,
+            "loudness": -10.801,
+            "speechiness": 0.0282,
+            "time_signature": 4,
+            "happiness": 6.499
+        }
+    },
+    {
+        "#": 59,
+        "Track Title": "Octopus's Garden (Acoustic Cover)",
+        "Artist": "Penny Sweet",
+        "Key": "4B",
+        "Energy": 3.5469999999999997,
+        "Popularity": 4.24,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "4UfblcGu6PRLTQ5b5jTtZE",
+            "explicit": false,
+            "album": "Octopus's Garden (Acoustic Cover)",
+            "release_date": "2022-08-10",
+            "genres": [],
+            "duration": 229066,
+            "acousticness": 0.911,
+            "danceability": 7.0120000000000005,
+            "instrumentalness": 2.23e-06,
+            "liveness": 0.172,
+            "loudness": -7.749,
+            "speechiness": 0.0316,
+            "time_signature": 4,
+            "happiness": 4.933
+        }
+    },
+    {
+        "#": 60,
+        "Track Title": "Your Song (Acoustic)",
+        "Artist": "Cameron Bedell",
+        "Key": "4B",
+        "Energy": 2.701,
+        "Popularity": 4.96,
+        "BPM": 150,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "1g0zTWTunT008ToMdtGnBm",
+            "explicit": false,
+            "album": "Your Song (Acoustic)",
+            "release_date": "2019-02-22",
+            "genres": [],
+            "duration": 205200,
+            "acousticness": 0.878,
+            "danceability": 6.706,
+            "instrumentalness": 0,
+            "liveness": 0.11,
+            "loudness": -8.42,
+            "speechiness": 0.0329,
+            "time_signature": 4,
+            "happiness": 4.573
+        }
+    },
+    {
+        "#": 61,
+        "Track Title": "Ain't No Mountain High Enough - Acoustic",
+        "Artist": "Matt Johnson, Colin & Caroline",
+        "Key": "8A",
+        "Energy": 3.763,
+        "Popularity": 1.0,
+        "BPM": 117,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "44zkUQ9cUD9uEvYBZpyr0U",
+            "explicit": false,
+            "album": "Acoustic Cover Hits, Vol. 1",
+            "release_date": "2018-12-27",
+            "genres": [
+                "acoustic cover",
+                "acoustic cover"
+            ],
+            "duration": 154975,
+            "acousticness": 0.807,
+            "danceability": 7.759,
+            "instrumentalness": 0,
+            "liveness": 0.127,
+            "loudness": -9.771,
+            "speechiness": 0.034,
+            "time_signature": 4,
+            "happiness": 6.228999999999999
+        }
+    },
+    {
+        "#": 62,
+        "Track Title": "Umbrella (Acoustic Cover)",
+        "Artist": "Coloratura",
+        "Key": "10B",
+        "Energy": 3.673,
+        "Popularity": 3.88,
+        "BPM": 134,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "7GC4YUHBnfmLJ5NSSu95YS",
+            "explicit": false,
+            "album": "Acoustic Covers, Vol. 1",
+            "release_date": "2022-05-27",
+            "genres": [],
+            "duration": 192889,
+            "acousticness": 0.873,
+            "danceability": 6.3549999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.128,
+            "loudness": -7.397,
+            "speechiness": 0.0426,
+            "time_signature": 4,
+            "happiness": 5.149
+        }
+    },
+    {
+        "#": 63,
+        "Track Title": "When I Fall In Love - Acoustic",
+        "Artist": "Mateo Oxley",
+        "Key": "8B",
+        "Energy": 2.827,
+        "Popularity": 1.0,
+        "BPM": 71,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "6Mjc4MrkFiqAIbPex3crVC",
+            "explicit": false,
+            "album": "When I Fall In Love (Acoustic)",
+            "release_date": "2018-02-15",
+            "genres": [
+                "channel pop"
+            ],
+            "duration": 164406,
+            "acousticness": 0.92,
+            "danceability": 3.718,
+            "instrumentalness": 1.18e-05,
+            "liveness": 0.132,
+            "loudness": -12.111,
+            "speechiness": 0.0346,
+            "time_signature": 5,
+            "happiness": 3.052
+        }
+    },
+    {
+        "#": 64,
+        "Track Title": "It Must Be Love - Acoustic",
+        "Artist": "Hannah's Yard",
+        "Key": "10B",
+        "Energy": 4.708,
+        "Popularity": 2.8,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2kK1UrwYBJM0iLVAD50gNL",
+            "explicit": false,
+            "album": "It Must Be Love (Acoustic)",
+            "release_date": "2021-10-29",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 210000,
+            "acousticness": 0.63,
+            "danceability": 7.831,
+            "instrumentalness": 0.0001,
+            "liveness": 0.164,
+            "loudness": -9.194,
+            "speechiness": 0.0294,
+            "time_signature": 4,
+            "happiness": 7.021000000000001
+        }
+    },
+    {
+        "#": 65,
+        "Track Title": "Something (Acoustic Cover)",
+        "Artist": "Cloud Illusions",
+        "Key": "9B",
+        "Energy": 4.096,
+        "Popularity": 3.88,
+        "BPM": 132,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "4ydH9MoYyGavs2fQBM5wCH",
+            "explicit": false,
+            "album": "Something (Acoustic Cover)",
+            "release_date": "2022-09-16",
+            "genres": [],
+            "duration": 182979,
+            "acousticness": 0.746,
+            "danceability": 6.994000000000001,
+            "instrumentalness": 3.37e-06,
+            "liveness": 0.121,
+            "loudness": -7.517,
+            "speechiness": 0.0258,
+            "time_signature": 4,
+            "happiness": 5.464
+        }
+    },
+    {
+        "#": 66,
+        "Track Title": "Wouldn't It Be Nice",
+        "Artist": "Kate McGill",
+        "Key": "9A",
+        "Energy": 3.349,
+        "Popularity": 1.09,
+        "BPM": 83,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "7GTpcLYxaSs1dg4NXZpscp",
+            "explicit": false,
+            "album": "Wouldn't It Be Nice",
+            "release_date": "2020-04-10",
+            "genres": [],
+            "duration": 152182,
+            "acousticness": 0.705,
+            "danceability": 6.111999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.126,
+            "loudness": -11.75,
+            "speechiness": 0.0358,
+            "time_signature": 3,
+            "happiness": 3.79
+        }
+    },
+    {
+        "#": 67,
+        "Track Title": "Grow Old With Me",
+        "Artist": "The Moon Loungers",
+        "Key": "9B",
+        "Energy": 3.799,
+        "Popularity": 2.8899999999999997,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "0Iwop34S8VnbrMXClJSjZi",
+            "explicit": false,
+            "album": "Acoustic Covers, Vol. 2",
+            "release_date": "2014-03-07",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 211110,
+            "acousticness": 0.866,
+            "danceability": 5.995,
+            "instrumentalness": 1.11e-06,
+            "liveness": 0.126,
+            "loudness": -10.946,
+            "speechiness": 0.0299,
+            "time_signature": 4,
+            "happiness": 5.05
+        }
+    },
+    {
+        "#": 68,
+        "Track Title": "Every Little Thing She Does Is Magic (Acoustic Cover)",
+        "Artist": "Coloratura",
+        "Key": "10B",
+        "Energy": 4.609,
+        "Popularity": 4.24,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "6zM1FIYx0m7VZUVhoYV8ov",
+            "explicit": false,
+            "album": "Acoustic Covers, Vol. 1",
+            "release_date": "2022-05-27",
+            "genres": [],
+            "duration": 160042,
+            "acousticness": 0.822,
+            "danceability": 5.941000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.117,
+            "loudness": -6.425,
+            "speechiness": 0.0824,
+            "time_signature": 4,
+            "happiness": 5.968
+        }
+    },
+    {
+        "#": 69,
+        "Track Title": "How Sweet It Is (To Be Loved By You)",
+        "Artist": "Bailey Pelkman, Randy Rektor",
+        "Key": "9B",
+        "Energy": 3.331,
+        "Popularity": 1.0,
+        "BPM": 134,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "61IbsClx7dVXgomxzGwjsp",
+            "explicit": false,
+            "album": "Acoustic Duets",
+            "release_date": "2018-02-27",
+            "genres": [
+                "acoustic chill"
+            ],
+            "duration": 158355,
+            "acousticness": 0.438,
+            "danceability": 8.434,
+            "instrumentalness": 0,
+            "liveness": 0.092,
+            "loudness": -11.168,
+            "speechiness": 0.0532,
+            "time_signature": 3,
+            "happiness": 7.327
+        }
+    },
+    {
+        "#": 70,
+        "Track Title": "Dream a Little Dream",
+        "Artist": "Clementine Duo",
+        "Key": "3B",
+        "Energy": 2.116,
+        "Popularity": 1.0,
+        "BPM": 73,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2wMRii61XUGsBle38j4V41",
+            "explicit": false,
+            "album": "Clementine Acoustic Sessions",
+            "release_date": "2017-01-16",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 195009,
+            "acousticness": 0.947,
+            "danceability": 6.463,
+            "instrumentalness": 1.78e-06,
+            "liveness": 0.11,
+            "loudness": -14.133,
+            "speechiness": 0.0326,
+            "time_signature": 1,
+            "happiness": 4.051
+        }
+    },
+    {
+        "#": 71,
+        "Track Title": "You’ve Got A Friend In Me",
+        "Artist": "ortoPilot",
+        "Key": "4B",
+        "Energy": 3.5559999999999996,
+        "Popularity": 3.79,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3TpHNrlKGmWTNLjYwsERt1",
+            "explicit": false,
+            "album": "10 Years and Counting",
+            "release_date": "2017-12-01",
+            "genres": [
+                "viral pop"
+            ],
+            "duration": 135694,
+            "acousticness": 0.793,
+            "danceability": 7.9750000000000005,
+            "instrumentalness": 0.0137,
+            "liveness": 0.117,
+            "loudness": -12.707,
+            "speechiness": 0.11,
+            "time_signature": 4,
+            "happiness": 5.797000000000001
+        }
+    },
+    {
+        "#": 72,
+        "Track Title": "Say You Won't Let Go - Acoustic",
+        "Artist": "Matt Johnson, Jaclyn Davies",
+        "Key": "5B",
+        "Energy": 2.7640000000000002,
+        "Popularity": 1.0,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "4iTnzpFXkR0Ns2JkVhZTpu",
+            "explicit": false,
+            "album": "Acoustic Cover Hits, Vol. 1",
+            "release_date": "2018-12-27",
+            "genres": [
+                "acoustic cover",
+                "acoustic chill"
+            ],
+            "duration": 243725,
+            "acousticness": 0.868,
+            "danceability": 4.888,
+            "instrumentalness": 0,
+            "liveness": 0.107,
+            "loudness": -9.251,
+            "speechiness": 0.0413,
+            "time_signature": 4,
+            "happiness": 4.114
+        }
+    },
+    {
+        "#": 73,
+        "Track Title": "Everywhere (Acoustic Cover)",
+        "Artist": "Coloratura",
+        "Key": "12B",
+        "Energy": 2.8,
+        "Popularity": 3.79,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2tVBwQXBotzwdAOJBSZIHb",
+            "explicit": false,
+            "album": "Acoustic Covers, Vol. 1",
+            "release_date": "2022-05-27",
+            "genres": [],
+            "duration": 149053,
+            "acousticness": 0.944,
+            "danceability": 6.985,
+            "instrumentalness": 0.00319,
+            "liveness": 0.112,
+            "loudness": -8.932,
+            "speechiness": 0.0316,
+            "time_signature": 4,
+            "happiness": 3.745
+        }
+    },
+    {
+        "#": 74,
+        "Track Title": "All My Loving (Acoustic Cover)",
+        "Artist": "The Moon Loungers",
+        "Key": "10B",
+        "Energy": 3.817,
+        "Popularity": 3.6999999999999997,
+        "BPM": 121,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "5S3vUDHUiGCwEvfTrK2X0t",
+            "explicit": false,
+            "album": "A Collection of Acoustic Covers",
+            "release_date": "2021-03-26",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 164990,
+            "acousticness": 0.877,
+            "danceability": 6.319,
+            "instrumentalness": 0.000603,
+            "liveness": 0.109,
+            "loudness": -7.475,
+            "speechiness": 0.0302,
+            "time_signature": 4,
+            "happiness": 3.727
+        }
+    },
+    {
+        "#": 75,
+        "Track Title": "Let's Stay Together",
+        "Artist": "Obadiah Parker",
+        "Key": "12B",
+        "Energy": 3.151,
+        "Popularity": 4.87,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "75q69wO42dZP8VHnEAtPZe",
+            "explicit": false,
+            "album": "The Tip Jar Volume One",
+            "release_date": "2008-12-01",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 242281,
+            "acousticness": 0.442,
+            "danceability": 8.308,
+            "instrumentalness": 6.19e-06,
+            "liveness": 0.109,
+            "loudness": -14.961,
+            "speechiness": 0.0718,
+            "time_signature": 4,
+            "happiness": 5.581
+        }
+    },
+    {
+        "#": 76,
+        "Track Title": "Secret Smile (Acoustic Cover)",
+        "Artist": "Girl in the Distance",
+        "Key": "8A",
+        "Energy": 3.9250000000000003,
+        "Popularity": 3.97,
+        "BPM": 103,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "7AnqUXYQzD0Pvru2EyyErf",
+            "explicit": false,
+            "album": "Secret Smile (Acoustic Cover)",
+            "release_date": "2023-03-31",
+            "genres": [],
+            "duration": 254830,
+            "acousticness": 0.893,
+            "danceability": 4.438000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.11,
+            "loudness": -6.018,
+            "speechiness": 0.04,
+            "time_signature": 4,
+            "happiness": 6.427
+        }
+    },
+    {
+        "#": 77,
+        "Track Title": "Afterglow - Acoustic",
+        "Artist": "Jonah Baker",
+        "Key": "1B",
+        "Energy": 2.593,
+        "Popularity": 1.0,
+        "BPM": 109,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1QDJ2wuyXsbHkaRdGZXF9X",
+            "explicit": false,
+            "album": "Afterglow (Acoustic)",
+            "release_date": "2021-01-09",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 189909,
+            "acousticness": 0.938,
+            "danceability": 6.94,
+            "instrumentalness": 0,
+            "liveness": 0.147,
+            "loudness": -13.434,
+            "speechiness": 0.0427,
+            "time_signature": 4,
+            "happiness": 3.43
+        }
+    },
+    {
+        "#": 78,
+        "Track Title": "I Want to Hold Your Hand (Acoustic Covers)",
+        "Artist": "Coloratura",
+        "Key": "11B",
+        "Energy": 3.061,
+        "Popularity": 3.5200000000000005,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "0KWLU2oeosYxTbfv59ZaRR",
+            "explicit": false,
+            "album": "Acoustic Covers, Vol. 1",
+            "release_date": "2022-05-27",
+            "genres": [],
+            "duration": 159130,
+            "acousticness": 0.87,
+            "danceability": 5.419,
+            "instrumentalness": 0,
+            "liveness": 0.253,
+            "loudness": -8.285,
+            "speechiness": 0.0379,
+            "time_signature": 4,
+            "happiness": 6.382
+        }
+    },
+    {
+        "#": 79,
+        "Track Title": "Sweet Child O' Mine (Acoustic Cover)",
+        "Artist": "Cloud Illusions",
+        "Key": "4B",
+        "Energy": 4.411,
+        "Popularity": 4.51,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2oNn1TD7lGdkdLv8jW0hbS",
+            "explicit": false,
+            "album": "Sweet Child O' Mine (Acoustic Cover)",
+            "release_date": "2022-07-01",
+            "genres": [],
+            "duration": 362949,
+            "acousticness": 0.586,
+            "danceability": 7.255,
+            "instrumentalness": 6.21e-05,
+            "liveness": 0.0883,
+            "loudness": -9.153,
+            "speechiness": 0.0285,
+            "time_signature": 4,
+            "happiness": 5.338
+        }
+    },
+    {
+        "#": 80,
+        "Track Title": "Songbird",
+        "Artist": "Clementine Duo",
+        "Key": "9B",
+        "Energy": 1.6021,
+        "Popularity": 1.0,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "0ymdFlknqMYPDPFpELpky5",
+            "explicit": false,
+            "album": "Clementine Acoustic Sessions",
+            "release_date": "2017-01-16",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 239273,
+            "acousticness": 0.957,
+            "danceability": 5.968,
+            "instrumentalness": 2.03e-05,
+            "liveness": 0.142,
+            "loudness": -16.352,
+            "speechiness": 0.0336,
+            "time_signature": 4,
+            "happiness": 3.268
+        }
+    },
+    {
+        "#": 81,
+        "Track Title": "Truly Madly Deeply - Acoustic",
+        "Artist": "Plamina",
+        "Key": "10B",
+        "Energy": 3.9970000000000003,
+        "Popularity": 1.0,
+        "BPM": 84,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "7BhqjelZc0KiIpVuHmEkiT",
+            "explicit": false,
+            "album": "Truly Madly Deeply (Acoustic)",
+            "release_date": "2020-01-17",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 215869,
+            "acousticness": 0.807,
+            "danceability": 5.3469999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.104,
+            "loudness": -7.646,
+            "speechiness": 0.0303,
+            "time_signature": 4,
+            "happiness": 5.833
+        }
+    },
+    {
+        "#": 82,
+        "Track Title": "I Believe in a Thing Called Love",
+        "Artist": "Colin & Caroline",
+        "Key": "1B",
+        "Energy": 4.303,
+        "Popularity": 3.6999999999999997,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "4mawUzzbSUB8WfbGZLGuUk",
+            "explicit": false,
+            "album": "Cover Sessions, Vol. 1",
+            "release_date": "2014-07-07",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 187867,
+            "acousticness": 0.736,
+            "danceability": 7.335999999999999,
+            "instrumentalness": 1.37e-06,
+            "liveness": 0.0969,
+            "loudness": -13.747,
+            "speechiness": 0.0302,
+            "time_signature": 4,
+            "happiness": 3.16
+        }
+    },
+    {
+        "#": 83,
+        "Track Title": "Only You",
+        "Artist": "The Moon Loungers",
+        "Key": "11B",
+        "Energy": 3.4210000000000003,
+        "Popularity": 3.5200000000000005,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "5QBqRtAIWD5YG9mUGRWvw8",
+            "explicit": false,
+            "album": "Acoustic Covers - 80s",
+            "release_date": "2015-09-14",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 168715,
+            "acousticness": 0.866,
+            "danceability": 6.751,
+            "instrumentalness": 0,
+            "liveness": 0.106,
+            "loudness": -12.781,
+            "speechiness": 0.0285,
+            "time_signature": 4,
+            "happiness": 6.319
+        }
+    },
+    {
+        "#": 84,
+        "Track Title": "La Vie En Rose",
+        "Artist": "Daniela Andrade",
+        "Key": "12B",
+        "Energy": 2.341,
+        "Popularity": 6.76,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s",
+            "Nostalgic",
+            "Romantic & Slow Dance",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0VxocBntP1XTZRsR9ZURPS",
+            "explicit": false,
+            "album": "La Vie En Rose",
+            "release_date": "2015-01-28",
+            "genres": [
+                "canadian contemporary r&b",
+                "folk-pop"
+            ],
+            "duration": 105500,
+            "acousticness": 0.844,
+            "danceability": 5.2749999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.14,
+            "loudness": -11.429,
+            "speechiness": 0.0395,
+            "time_signature": 4,
+            "happiness": 3.862
+        }
+    },
+    {
+        "#": 85,
+        "Track Title": "True Blue (Acoustic Cover)",
+        "Artist": "Coloratura",
+        "Key": "1B",
+        "Energy": 3.907,
+        "Popularity": 4.0600000000000005,
+        "BPM": 113,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0vIjSQSehD07SdUizgXsK6",
+            "explicit": false,
+            "album": "Acoustic Covers, Vol. 1",
+            "release_date": "2022-05-27",
+            "genres": [],
+            "duration": 224366,
+            "acousticness": 0.912,
+            "danceability": 7.093,
+            "instrumentalness": 0,
+            "liveness": 0.188,
+            "loudness": -6.796,
+            "speechiness": 0.0404,
+            "time_signature": 4,
+            "happiness": 7.2909999999999995
+        }
+    },
+    {
+        "#": 86,
+        "Track Title": "Just You and I - Acoustic",
+        "Artist": "Matt Johnson",
+        "Key": "4B",
+        "Energy": 3.826,
+        "Popularity": 1.0,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "17AS7XknuNEl4obfEPCQBy",
+            "explicit": false,
+            "album": "Just You and I (Acoustic)",
+            "release_date": "2019-03-29",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 182534,
+            "acousticness": 0.782,
+            "danceability": 4.978,
+            "instrumentalness": 0,
+            "liveness": 0.152,
+            "loudness": -8.99,
+            "speechiness": 0.0408,
+            "time_signature": 4,
+            "happiness": 6.337
+        }
+    },
+    {
+        "#": 87,
+        "Track Title": "Heaven Is a Place on Earth",
+        "Artist": "The Mayries",
+        "Key": "8B",
+        "Energy": 2.5839999999999996,
+        "Popularity": 6.13,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s",
+            "Calm",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "674WNL7f5Xo8XxtipzB3ao",
+            "explicit": false,
+            "album": "#Acoustic #2",
+            "release_date": "2019-04-26",
+            "genres": [
+                "acoustic cover",
+                "acoustic pop"
+            ],
+            "duration": 193333,
+            "acousticness": 0.931,
+            "danceability": 6.706,
+            "instrumentalness": 1.6e-06,
+            "liveness": 0.136,
+            "loudness": -14.703,
+            "speechiness": 0.0307,
+            "time_signature": 4,
+            "happiness": 4.015000000000001
+        }
+    },
+    {
+        "#": 88,
+        "Track Title": "I’ve Just Seen a Face (Acoustic Cover)",
+        "Artist": "The Moon Loungers",
+        "Key": "9B",
+        "Energy": 3.403,
+        "Popularity": 2.98,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "3wZMjXVrGVRwlKvKU516LF",
+            "explicit": false,
+            "album": "I’ve Just Seen a Face (Acoustic Cover)",
+            "release_date": "2023-03-31",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 132000,
+            "acousticness": 0.714,
+            "danceability": 5.698,
+            "instrumentalness": 0,
+            "liveness": 0.0818,
+            "loudness": -8.339,
+            "speechiness": 0.031,
+            "time_signature": 4,
+            "happiness": 4.537
+        }
+    },
+    {
+        "#": 89,
+        "Track Title": "Walking On Sunshine",
+        "Artist": "Gardiner Sisters",
+        "Key": "11B",
+        "Energy": 3.943,
+        "Popularity": 1.0,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1O91HwI2LMA8RglnZ2hbNH",
+            "explicit": false,
+            "album": "Walking On Sunshine",
+            "release_date": "2017-05-30",
+            "genres": [
+                "channel pop",
+                "lds youth",
+                "viral pop"
+            ],
+            "duration": 151769,
+            "acousticness": 0.767,
+            "danceability": 7.543,
+            "instrumentalness": 0,
+            "liveness": 0.114,
+            "loudness": -8.329,
+            "speechiness": 0.0344,
+            "time_signature": 4,
+            "happiness": 6.526
+        }
+    },
+    {
+        "#": 90,
+        "Track Title": "Come Fly With Me",
+        "Artist": "Gareth Dunlop",
+        "Key": "6B",
+        "Energy": 1.8685,
+        "Popularity": 1.0,
+        "BPM": 103,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "0bW88TfkzkvttGuet2y7Hh",
+            "explicit": false,
+            "album": "Pieces",
+            "release_date": "2017-10-27",
+            "genres": [
+                "irish singer-songwriter"
+            ],
+            "duration": 160129,
+            "acousticness": 0.944,
+            "danceability": 5.077,
+            "instrumentalness": 0.000123,
+            "liveness": 0.104,
+            "loudness": -14.429,
+            "speechiness": 0.0634,
+            "time_signature": 4,
+            "happiness": 3.079
+        }
+    },
+    {
+        "#": 91,
+        "Track Title": "XO",
+        "Artist": "Anna Elizabeth Laube",
+        "Key": "6B",
+        "Energy": 2.386,
+        "Popularity": 5.41,
+        "BPM": 79,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "0oa6d6Nz5BmP7jquxEoyMm",
+            "explicit": false,
+            "album": "Tree",
+            "release_date": "2016-09-09",
+            "genres": [
+                "pop folk"
+            ],
+            "duration": 235907,
+            "acousticness": 0.924,
+            "danceability": 5.104,
+            "instrumentalness": 0.00116,
+            "liveness": 0.108,
+            "loudness": -13.953,
+            "speechiness": 0.0327,
+            "time_signature": 4,
+            "happiness": 4.159
+        }
+    },
+    {
+        "#": 92,
+        "Track Title": "Come Away with Me (Acoustic Cover)",
+        "Artist": "Coloratura",
+        "Key": "5B",
+        "Energy": 3.5559999999999996,
+        "Popularity": 3.61,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2VigWTLTdJ1mhOlmu3pmo3",
+            "explicit": false,
+            "album": "Acoustic Covers, Vol. 1",
+            "release_date": "2022-05-27",
+            "genres": [],
+            "duration": 132503,
+            "acousticness": 0.953,
+            "danceability": 5.878,
+            "instrumentalness": 0,
+            "liveness": 0.108,
+            "loudness": -8.708,
+            "speechiness": 0.0396,
+            "time_signature": 3,
+            "happiness": 3.223
+        }
+    },
+    {
+        "#": 93,
+        "Track Title": "Marry You (Acoustic Cover)",
+        "Artist": "The Moon Loungers",
+        "Key": "6B",
+        "Energy": 3.763,
+        "Popularity": 3.5200000000000005,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "4DNiaqACvz3K2uzQ6lXoM2",
+            "explicit": false,
+            "album": "A Collection of Acoustic Covers",
+            "release_date": "2021-03-26",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 266389,
+            "acousticness": 0.849,
+            "danceability": 7.075,
+            "instrumentalness": 0,
+            "liveness": 0.107,
+            "loudness": -8.723,
+            "speechiness": 0.0302,
+            "time_signature": 4,
+            "happiness": 4.285
+        }
+    },
+    {
+        "#": 94,
+        "Track Title": "Love Me Like You Do - Acoustic Mix",
+        "Artist": "Matt Johnson",
+        "Key": "3A",
+        "Energy": 3.277,
+        "Popularity": 1.0,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "6KSLCVYDkQE3j2W3h3TqOf",
+            "explicit": false,
+            "album": "Acoustic Hits, Vol. 3",
+            "release_date": "2016-07-29",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 231263,
+            "acousticness": 0.847,
+            "danceability": 7.0840000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.0745,
+            "loudness": -10.103,
+            "speechiness": 0.0301,
+            "time_signature": 4,
+            "happiness": 3.646
+        }
+    },
+    {
+        "#": 95,
+        "Track Title": "Earth Angel",
+        "Artist": "Cold Weather Company",
+        "Key": "12B",
+        "Energy": 3.9250000000000003,
+        "Popularity": 3.16,
+        "BPM": 117,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "40aBVLz023q6cIcFpQkcU8",
+            "explicit": false,
+            "album": "Earth Angel",
+            "release_date": "2019-11-12",
+            "genres": [
+                "ambient folk"
+            ],
+            "duration": 212474,
+            "acousticness": 0.782,
+            "danceability": 6.724,
+            "instrumentalness": 0.0303,
+            "liveness": 0.0948,
+            "loudness": -10.696,
+            "speechiness": 0.0295,
+            "time_signature": 3,
+            "happiness": 5.743
+        }
+    },
+    {
+        "#": 96,
+        "Track Title": "You've Really Got A Hold On Me - Acoustic",
+        "Artist": "Alex Francis",
+        "Key": "3B",
+        "Energy": 3.358,
+        "Popularity": 1.0,
+        "BPM": 111,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "4eTM9lDPT0v3S53pH0y6Qp",
+            "explicit": false,
+            "album": "Foundations Acoustic",
+            "release_date": "2019-09-02",
+            "genres": [
+                "london indie"
+            ],
+            "duration": 143415,
+            "acousticness": 0.737,
+            "danceability": 7.318,
+            "instrumentalness": 0,
+            "liveness": 0.111,
+            "loudness": -9.075,
+            "speechiness": 0.0315,
+            "time_signature": 3,
+            "happiness": 6.985
+        }
+    },
+    {
+        "#": 97,
+        "Track Title": "Make You Feel My Love (Acoustic Cover)",
+        "Artist": "Coloratura",
+        "Key": "6B",
+        "Energy": 3.25,
+        "Popularity": 3.0700000000000003,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "0pVUjKPdoAT3dXjnVeFxto",
+            "explicit": false,
+            "album": "Acoustic Covers, Vol. 1",
+            "release_date": "2022-05-27",
+            "genres": [],
+            "duration": 134526,
+            "acousticness": 0.929,
+            "danceability": 4.753,
+            "instrumentalness": 0,
+            "liveness": 0.0986,
+            "loudness": -7.838,
+            "speechiness": 0.0835,
+            "time_signature": 4,
+            "happiness": 4.9239999999999995
+        }
+    },
+    {
+        "#": 98,
+        "Track Title": "Northern Sky (Acoustic)",
+        "Artist": "The Moon Loungers",
+        "Key": "5B",
+        "Energy": 3.799,
+        "Popularity": 2.62,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "6oWHTv2TsLPjcrElbUOH2b",
+            "explicit": false,
+            "album": "Acoustic Covers: 70s",
+            "release_date": "2019-02-07",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 226843,
+            "acousticness": 0.88,
+            "danceability": 4.843,
+            "instrumentalness": 0.0071,
+            "liveness": 0.0991,
+            "loudness": -11.344,
+            "speechiness": 0.036,
+            "time_signature": 5,
+            "happiness": 4.744
+        }
+    },
+    {
+        "#": 99,
+        "Track Title": "My Baby Just Cares for Me",
+        "Artist": "Friend 'N Fellow",
+        "Key": "11B",
+        "Energy": 3.5020000000000002,
+        "Popularity": 4.15,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "3raXZCIoRIu5xRwgzFkXfd",
+            "explicit": false,
+            "album": "Lady",
+            "release_date": "2009",
+            "genres": [
+                "contemporary vocal jazz"
+            ],
+            "duration": 209000,
+            "acousticness": 0.885,
+            "danceability": 7.777,
+            "instrumentalness": 0.00027,
+            "liveness": 0.11,
+            "loudness": -13.551,
+            "speechiness": 0.0511,
+            "time_signature": 4,
+            "happiness": 4.167999999999999
+        }
+    },
+    {
+        "#": 100,
+        "Track Title": "Adore You",
+        "Artist": "Nora & Will",
+        "Key": "5B",
+        "Energy": 3.403,
+        "Popularity": 3.43,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "[Wedding, Calm]",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "2kyV6Vn5RYqjaWdD95uc8i",
+            "explicit": false,
+            "album": "Pop Acoustic Playlist",
+            "release_date": "2020-04-26",
+            "genres": [
+                "acoustic cover"
+            ],
+            "duration": 207799,
+            "acousticness": 0.85,
+            "danceability": 4.9510000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.132,
+            "loudness": -7.245,
+            "speechiness": 0.0303,
+            "time_signature": 4,
+            "happiness": 2.5839999999999996
+        }
+    }
+]
