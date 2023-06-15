@@ -1,0 +1,3623 @@
+[
+    {
+        "#": 1,
+        "Track Title": "רק בנות",
+        "Artist": "Itay Levi, Stephane Legar",
+        "Key": "6A",
+        "Energy": 7.327,
+        "Popularity": 4.6899999999999995,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Hip Hop",
+            "Israeli - Kibutz",
+            "Pop",
+            "Mizrahit",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3hplQ2tuZhT4oCHijqJwhB",
+            "explicit": false,
+            "album": "רק בנות",
+            "release_date": "2020-06-24",
+            "genres": [
+                "israeli mediterranean",
+                "mizrahi",
+                "israeli hip hop",
+                "israeli pop"
+            ],
+            "duration": 184967,
+            "acousticness": 0.302,
+            "danceability": 7.624,
+            "instrumentalness": 0,
+            "liveness": 0.308,
+            "loudness": -6.09,
+            "speechiness": 0.0676,
+            "time_signature": 4,
+            "happiness": 8.155000000000001
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "עזוב אותי מטכנו",
+        "Artist": "Doli & Penn, ליאור נרקיס",
+        "Key": "8B",
+        "Energy": 7.353999999999999,
+        "Popularity": 4.51,
+        "BPM": 145,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Mizrahit",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1st1G4ms39bWno8xaL4wrA",
+            "explicit": false,
+            "album": "עזוב אותי מטכנו",
+            "release_date": "2022-06-14",
+            "genres": [
+                "israeli pop",
+                "israeli mediterranean",
+                "mizrahi"
+            ],
+            "duration": 132309,
+            "acousticness": 0.0253,
+            "danceability": 8.974,
+            "instrumentalness": 0.000465,
+            "liveness": 0.187,
+            "loudness": -8.356,
+            "speechiness": 0.274,
+            "time_signature": 4,
+            "happiness": 8.524000000000001
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "עולה לי הסטלה",
+        "Artist": "Idan Bakshi",
+        "Key": "2A",
+        "Energy": 5.536,
+        "Popularity": 4.42,
+        "BPM": 129,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "23t5Px32wgDsHlWduejxU0",
+            "explicit": false,
+            "album": "עולה לי הסטלה",
+            "release_date": "2019-09-10",
+            "genres": [
+                "israeli mediterranean"
+            ],
+            "duration": 192249,
+            "acousticness": 0.555,
+            "danceability": 7.5969999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.183,
+            "loudness": -5.629,
+            "speechiness": 0.127,
+            "time_signature": 4,
+            "happiness": 8.038
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "כל ההזויים עליי",
+        "Artist": "Lyri Uzan",
+        "Key": "9B",
+        "Energy": 7.633,
+        "Popularity": 2.8,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "05RGVur2Oy2UtjImT972VE",
+            "explicit": false,
+            "album": "כל ההזויים עליי",
+            "release_date": "2023-03-05",
+            "genres": [],
+            "duration": 157440,
+            "acousticness": 0.0661,
+            "danceability": 9.127,
+            "instrumentalness": 0.000533,
+            "liveness": 0.0655,
+            "loudness": -6.713,
+            "speechiness": 0.0624,
+            "time_signature": 4,
+            "happiness": 8.497
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "שם טבעת עליה",
+        "Artist": "Dudu Aharon",
+        "Key": "10B",
+        "Energy": 7.606,
+        "Popularity": 1.0,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Mizrahit",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0X1OUfovqRvsGLCdzNPkSa",
+            "explicit": false,
+            "album": "השמחה שלנו",
+            "release_date": "2019-05-23",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi"
+            ],
+            "duration": 225063,
+            "acousticness": 0.287,
+            "danceability": 7.273,
+            "instrumentalness": 0,
+            "liveness": 0.126,
+            "loudness": -5.586,
+            "speechiness": 0.0382,
+            "time_signature": 4,
+            "happiness": 7.353999999999999
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "סיבובים",
+        "Artist": "Eden Hason",
+        "Key": "2A",
+        "Energy": 8.074,
+        "Popularity": 4.779999999999999,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "21qCzrANOK7gB0KPoNE1zP",
+            "explicit": false,
+            "album": "סיבובים",
+            "release_date": "2020-07-07",
+            "genres": [
+                "israeli mediterranean"
+            ],
+            "duration": 185400,
+            "acousticness": 0.135,
+            "danceability": 8.992,
+            "instrumentalness": 2.95e-06,
+            "liveness": 0.0754,
+            "loudness": -4.2,
+            "speechiness": 0.0517,
+            "time_signature": 4,
+            "happiness": 7.939
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "אנא מג'נונה",
+        "Artist": "Eden Ben Zaken",
+        "Key": "6A",
+        "Energy": 7.534,
+        "Popularity": 3.79,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "36P7rXYHyPFosTA3i8jqfP",
+            "explicit": false,
+            "album": "אנא מג'נונה",
+            "release_date": "2020-09-10",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop"
+            ],
+            "duration": 151091,
+            "acousticness": 0.222,
+            "danceability": 8.748999999999999,
+            "instrumentalness": 0.00186,
+            "liveness": 0.187,
+            "loudness": -6.134,
+            "speechiness": 0.0366,
+            "time_signature": 4,
+            "happiness": 7.732
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "מה אתה רוצה",
+        "Artist": "Ella Lee",
+        "Key": "2B",
+        "Energy": 7.021000000000001,
+        "Popularity": 4.51,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1inqeo4qN7t9nSPiwZtR82",
+            "explicit": false,
+            "album": "מה אתה רוצה",
+            "release_date": "2020-11-15",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 146087,
+            "acousticness": 0.0685,
+            "danceability": 7.2459999999999996,
+            "instrumentalness": 0,
+            "liveness": 0.114,
+            "loudness": -6.722,
+            "speechiness": 0.0385,
+            "time_signature": 4,
+            "happiness": 6.562
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "עולה על שולחנות",
+        "Artist": "Marina Maximilian, Itay Galo",
+        "Key": "12A",
+        "Energy": 8.047,
+        "Popularity": 5.95,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5tNrVA1ySsk7HkV5yg2iXN",
+            "explicit": false,
+            "album": "עולה על שולחנות",
+            "release_date": "2022-07-12",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 196320,
+            "acousticness": 0.123,
+            "danceability": 8.425,
+            "instrumentalness": 0.00117,
+            "liveness": 0.117,
+            "loudness": -6.674,
+            "speechiness": 0.0452,
+            "time_signature": 4,
+            "happiness": 6.868
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "קוביד 19",
+        "Artist": "Nunu",
+        "Key": "3B",
+        "Energy": 4.186,
+        "Popularity": 4.6899999999999995,
+        "BPM": 117,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7dEtCKY2MthcyP0U6aiMCW",
+            "explicit": false,
+            "album": "סטטוס",
+            "release_date": "2022-07-18",
+            "genres": [
+                "israeli hip hop"
+            ],
+            "duration": 142386,
+            "acousticness": 0.0201,
+            "danceability": 9.676,
+            "instrumentalness": 0,
+            "liveness": 0.0861,
+            "loudness": -9.213,
+            "speechiness": 0.0646,
+            "time_signature": 4,
+            "happiness": 7.804
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "רוצה שנדבר",
+        "Artist": "Shaked Molcho",
+        "Key": "10A",
+        "Energy": 5.113,
+        "Popularity": 4.0600000000000005,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "7A2bu8j6zvZpsgKR5MNHCY",
+            "explicit": false,
+            "album": "רוצה שנדבר",
+            "release_date": "2023-05-16",
+            "genres": [],
+            "duration": 161057,
+            "acousticness": 0.0513,
+            "danceability": 6.976,
+            "instrumentalness": 0,
+            "liveness": 0.175,
+            "loudness": -9.882,
+            "speechiness": 0.0587,
+            "time_signature": 4,
+            "happiness": 5.473
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "מיליון דולר - Itay Galo Remix",
+        "Artist": "Noa Kirel, Itay Galo, שחר סאול",
+        "Key": "9A",
+        "Energy": 9.244,
+        "Popularity": 3.5200000000000005,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6TA2HoWmquGTkPr8gm1LwJ",
+            "explicit": false,
+            "album": "מיליון דולר (Itay Galo Remix)",
+            "release_date": "2020-06-29",
+            "genres": [
+                "israeli pop",
+                "israeli hip hop"
+            ],
+            "duration": 255484,
+            "acousticness": 0.0313,
+            "danceability": 6.364,
+            "instrumentalness": 0.513,
+            "liveness": 0.276,
+            "loudness": -5.792,
+            "speechiness": 0.0339,
+            "time_signature": 4,
+            "happiness": 7.327
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "שמפניה",
+        "Artist": "Eden Hason",
+        "Key": "7B",
+        "Energy": 7.0840000000000005,
+        "Popularity": 3.79,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4ci5mGfp5j0Vse2spBpyT3",
+            "explicit": false,
+            "album": "שמפניה",
+            "release_date": "2019-11-17",
+            "genres": [
+                "israeli mediterranean"
+            ],
+            "duration": 175023,
+            "acousticness": 0.158,
+            "danceability": 7.048,
+            "instrumentalness": 0,
+            "liveness": 0.35,
+            "loudness": -6.411,
+            "speechiness": 0.141,
+            "time_signature": 4,
+            "happiness": 7.885
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "את צריכה גבר מזרחי",
+        "Artist": "Yigal Sternklar",
+        "Key": "6A",
+        "Energy": 6.463,
+        "Popularity": 1.6300000000000001,
+        "BPM": 84,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4bEuOZgyznv5pMxPPLNidx",
+            "explicit": false,
+            "album": "את צריכה גבר מזרחי",
+            "release_date": "2021-06-10",
+            "genres": [],
+            "duration": 191437,
+            "acousticness": 0.0104,
+            "danceability": 5.536,
+            "instrumentalness": 0,
+            "liveness": 0.136,
+            "loudness": -9.043,
+            "speechiness": 0.074,
+            "time_signature": 4,
+            "happiness": 8.542
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "יהלומים - BLING BLING",
+        "Artist": "Noa Kirel",
+        "Key": "7A",
+        "Energy": 7.588,
+        "Popularity": 5.05,
+        "BPM": 146,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7v63pRo1RXcYzrCxaMkGc5",
+            "explicit": false,
+            "album": "יהלומים - BLING BLING",
+            "release_date": "2021-03-07",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 185548,
+            "acousticness": 0.118,
+            "danceability": 7.353999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.13,
+            "loudness": -4.917,
+            "speechiness": 0.0379,
+            "time_signature": 4,
+            "happiness": 7.138000000000001
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "הכל מהתחלה (Prod. By Triangle)",
+        "Artist": "Yam Refaeli",
+        "Key": "1A",
+        "Energy": 6.823,
+        "Popularity": 4.33,
+        "BPM": 119,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7fUjUu56vWXzi4sW3KdjYe",
+            "explicit": false,
+            "album": "הכל מהתחלה",
+            "release_date": "2020-11-29",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 142209,
+            "acousticness": 0.0982,
+            "danceability": 7.84,
+            "instrumentalness": 8.78e-06,
+            "liveness": 0.31,
+            "loudness": -5.353,
+            "speechiness": 0.117,
+            "time_signature": 4,
+            "happiness": 9.037
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "BEG",
+        "Artist": "Omer Adam, Netta",
+        "Key": "8A",
+        "Energy": 7.615,
+        "Popularity": 1.0,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Mizrahit"
+        ],
+        "Additional Info": {
+            "id": "44pKbfoyixQSaiiJde9i1F",
+            "explicit": false,
+            "album": "עומר",
+            "release_date": "2020-01-01",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "israeli pop"
+            ],
+            "duration": 175924,
+            "acousticness": 0.0176,
+            "danceability": 9.244,
+            "instrumentalness": 1.06e-05,
+            "liveness": 0.0689,
+            "loudness": -3.927,
+            "speechiness": 0.0657,
+            "time_signature": 4,
+            "happiness": 6.2829999999999995
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "טיקיטאס",
+        "Artist": "Noa Kirel, Stephane Legar, Arisa",
+        "Key": "4A",
+        "Energy": 9.109,
+        "Popularity": 1.0,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1JRoPBsjLNfWvstDTUaztP",
+            "explicit": false,
+            "album": "טיקיטאס",
+            "release_date": "2017-10-19",
+            "genres": [
+                "israeli pop",
+                "israeli hip hop",
+                "israeli pop"
+            ],
+            "duration": 237580,
+            "acousticness": 0.0134,
+            "danceability": 7.759,
+            "instrumentalness": 0,
+            "liveness": 0.316,
+            "loudness": -3.461,
+            "speechiness": 0.0654,
+            "time_signature": 4,
+            "happiness": 8.227
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Feker Libi",
+        "Artist": "Eden Alene",
+        "Key": "4B",
+        "Energy": 9.163,
+        "Popularity": 1.0,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2vxijCz1x6bxozBE2khCSx",
+            "explicit": false,
+            "album": "השיר הבא לארוויזיון",
+            "release_date": "2020-02-27",
+            "genres": [],
+            "duration": 183747,
+            "acousticness": 0.238,
+            "danceability": 7.633,
+            "instrumentalness": 2.64e-05,
+            "liveness": 0.0962,
+            "loudness": -2.982,
+            "speechiness": 0.131,
+            "time_signature": 4,
+            "happiness": 6.066999999999999
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "אין יותר מועדונים",
+        "Artist": "Eden Hason",
+        "Key": "4B",
+        "Energy": 6.49,
+        "Popularity": 5.5,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "0q3yDDxPh0k5nvgh2SPcsS",
+            "explicit": false,
+            "album": "שמישהו יעצור אותי",
+            "release_date": "2019-03-31",
+            "genres": [
+                "israeli mediterranean"
+            ],
+            "duration": 184003,
+            "acousticness": 0.0952,
+            "danceability": 6.508,
+            "instrumentalness": 6.03e-06,
+            "liveness": 0.0743,
+            "loudness": -5.241,
+            "speechiness": 0.0612,
+            "time_signature": 4,
+            "happiness": 6.688
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "טמפרטורה",
+        "Artist": "Omer Adam, Richie Loop",
+        "Key": "4B",
+        "Energy": 7.777,
+        "Popularity": 1.0,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Mizrahit"
+        ],
+        "Additional Info": {
+            "id": "1YBHjsD9R7kEgGnXBlONjy",
+            "explicit": false,
+            "album": "5 בום!",
+            "release_date": "2019-06-06",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "basshall"
+            ],
+            "duration": 182449,
+            "acousticness": 0.0173,
+            "danceability": 8.353,
+            "instrumentalness": 4.31e-06,
+            "liveness": 0.049,
+            "loudness": -3.427,
+            "speechiness": 0.0497,
+            "time_signature": 4,
+            "happiness": 6.436
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "חצוף",
+        "Artist": "Noa Kirel",
+        "Key": "1B",
+        "Energy": 6.724,
+        "Popularity": 1.0,
+        "BPM": 103,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5JhqGzhPRmZdY3WBOCcMEl",
+            "explicit": false,
+            "album": "חצוף",
+            "release_date": "2019-04-28",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 167767,
+            "acousticness": 0.00338,
+            "danceability": 8.559999999999999,
+            "instrumentalness": 0.00147,
+            "liveness": 0.107,
+            "loudness": -7.516,
+            "speechiness": 0.0484,
+            "time_signature": 4,
+            "happiness": 3.9970000000000003
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "תזיזו",
+        "Artist": "Eden Ben Zaken",
+        "Key": "4B",
+        "Energy": 9.136000000000001,
+        "Popularity": 1.0,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5D5c43nioqoGmRAsCkJ86F",
+            "explicit": false,
+            "album": "תאמין לי",
+            "release_date": "2016-09-05",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop"
+            ],
+            "duration": 221827,
+            "acousticness": 0.146,
+            "danceability": 7.588,
+            "instrumentalness": 3.07e-05,
+            "liveness": 0.143,
+            "loudness": -4.106,
+            "speechiness": 0.0492,
+            "time_signature": 4,
+            "happiness": 8.344
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "עור ברווז",
+        "Artist": "Arutz Hakibud, Lidoy, Astma, Shaked Ferrera",
+        "Key": "9B",
+        "Energy": 8.370999999999999,
+        "Popularity": 1.0,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "7x4UW1hIIEhU3hlMclJckP",
+            "explicit": false,
+            "album": "עור ברווז",
+            "release_date": "2016-02-16",
+            "genres": [
+                "israeli hip hop"
+            ],
+            "duration": 202893,
+            "acousticness": 0.0595,
+            "danceability": 6.3549999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.0968,
+            "loudness": -3.297,
+            "speechiness": 0.1,
+            "time_signature": 3,
+            "happiness": 5.743
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "פאוץ'",
+        "Artist": "Noa Kirel",
+        "Key": "9A",
+        "Energy": 6.922000000000001,
+        "Popularity": 1.0,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1Hg89hDeCCUxG2w57pEOyq",
+            "explicit": false,
+            "album": "פאוץ'",
+            "release_date": "2019-07-22",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 167108,
+            "acousticness": 0.233,
+            "danceability": 8.155000000000001,
+            "instrumentalness": 0.0883,
+            "liveness": 0.247,
+            "loudness": -6.896,
+            "speechiness": 0.057,
+            "time_signature": 4,
+            "happiness": 8.074
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "חתונת השנה",
+        "Artist": "Itay Levi",
+        "Key": "4B",
+        "Energy": 9.19,
+        "Popularity": 5.05,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Mizrahit"
+        ],
+        "Additional Info": {
+            "id": "3TLFXTudEoBUK4UbEqo3gv",
+            "explicit": false,
+            "album": "שורדים אהבה",
+            "release_date": "2017-07-16",
+            "genres": [
+                "israeli mediterranean",
+                "mizrahi"
+            ],
+            "duration": 190273,
+            "acousticness": 0.0902,
+            "danceability": 7.9750000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.0962,
+            "loudness": -2.441,
+            "speechiness": 0.0566,
+            "time_signature": 4,
+            "happiness": 6.076
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "Sha La La - Radio Edit",
+        "Artist": "Ido Shoam, Roy Machluf",
+        "Key": "12A",
+        "Energy": 9.235,
+        "Popularity": 4.779999999999999,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "49LhntJQpkanCJvpBYXsbs",
+            "explicit": false,
+            "album": "Sha La La",
+            "release_date": "2016-03-20",
+            "genres": [],
+            "duration": 150805,
+            "acousticness": 0.0497,
+            "danceability": 7.687,
+            "instrumentalness": 0,
+            "liveness": 0.316,
+            "loudness": -5.105,
+            "speechiness": 0.0629,
+            "time_signature": 4,
+            "happiness": 6.706
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "SLT",
+        "Artist": "Noa Kirel",
+        "Key": "6A",
+        "Energy": 7.417,
+        "Popularity": 1.0,
+        "BPM": 106,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3HKnc4EQqMtR2MSHxXZ4bZ",
+            "explicit": false,
+            "album": "SLT",
+            "release_date": "2019-09-22",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 160699,
+            "acousticness": 0.0078,
+            "danceability": 7.399,
+            "instrumentalness": 5.17e-05,
+            "liveness": 0.0672,
+            "loudness": -5.403,
+            "speechiness": 0.0503,
+            "time_signature": 4,
+            "happiness": 6.382
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "Ego",
+        "Artist": "Noy Meirson",
+        "Key": "7A",
+        "Energy": 7.804,
+        "Popularity": 2.8,
+        "BPM": 84,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "57kUDt0vMwv6G5GMdNwmeG",
+            "explicit": false,
+            "album": "Ego",
+            "release_date": "2023-05-19",
+            "genres": [],
+            "duration": 163561,
+            "acousticness": 0.358,
+            "danceability": 6.823,
+            "instrumentalness": 0,
+            "liveness": 0.0848,
+            "loudness": -5.688,
+            "speechiness": 0.107,
+            "time_signature": 4,
+            "happiness": 7.624
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "חצי משוגע",
+        "Artist": "Noa Kirel",
+        "Key": "10A",
+        "Energy": 8.731,
+        "Popularity": 1.0,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2R8WBV2UUzYyawXdhkWwKO",
+            "explicit": false,
+            "album": "חצי משוגע",
+            "release_date": "2016-07-18",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 227040,
+            "acousticness": 0.116,
+            "danceability": 6.7330000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.469,
+            "loudness": -4.753,
+            "speechiness": 0.0641,
+            "time_signature": 4,
+            "happiness": 5.707
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "דירה קטנה בחיפה",
+        "Artist": "Adir Getz",
+        "Key": "6B",
+        "Energy": 7.804,
+        "Popularity": 4.6899999999999995,
+        "BPM": 106,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "783RZTcszQ3PBma0t4o9v4",
+            "explicit": false,
+            "album": "נדבר על הכל",
+            "release_date": "2017-06-15",
+            "genres": [
+                "israeli mediterranean"
+            ],
+            "duration": 229720,
+            "acousticness": 0.254,
+            "danceability": 7.714,
+            "instrumentalness": 0,
+            "liveness": 0.0943,
+            "loudness": -4.006,
+            "speechiness": 0.0451,
+            "time_signature": 4,
+            "happiness": 7.255
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "כולם באילת",
+        "Artist": "Eden Ben Zaken",
+        "Key": "11A",
+        "Energy": 7.2459999999999996,
+        "Popularity": 1.0,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "04bMgvGHAGX1thph3xcGxx",
+            "explicit": false,
+            "album": "לזאת שניצחה",
+            "release_date": "2017-09-01",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop"
+            ],
+            "duration": 199400,
+            "acousticness": 0.131,
+            "danceability": 8.857,
+            "instrumentalness": 8.87e-06,
+            "liveness": 0.0941,
+            "loudness": -5.421,
+            "speechiness": 0.0633,
+            "time_signature": 4,
+            "happiness": 8.074
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "בואי נרקוד",
+        "Artist": "The Ultras, Chen Aharoni",
+        "Key": "4B",
+        "Energy": 8.488,
+        "Popularity": 2.5300000000000002,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1tPdPnS1IjNSJGyM9iVdNf",
+            "explicit": false,
+            "album": "יהלום נוצץ",
+            "release_date": "2020-12-14",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop"
+            ],
+            "duration": 230777,
+            "acousticness": 0.0937,
+            "danceability": 7.714,
+            "instrumentalness": 1.83e-06,
+            "liveness": 0.0802,
+            "loudness": -6.28,
+            "speechiness": 0.0412,
+            "time_signature": 4,
+            "happiness": 5.923
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "מדברים",
+        "Artist": "Noa Kirel",
+        "Key": "9B",
+        "Energy": 8.281,
+        "Popularity": 1.0,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1TXP4ExKiUwmI2pceC3wz4",
+            "explicit": false,
+            "album": "מדברים",
+            "release_date": "2015-03-09",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 213681,
+            "acousticness": 0.0215,
+            "danceability": 7.705,
+            "instrumentalness": 0.000237,
+            "liveness": 0.316,
+            "loudness": -5.87,
+            "speechiness": 0.042,
+            "time_signature": 4,
+            "happiness": 4.024
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Merci",
+        "Artist": "Stephane Legar",
+        "Key": "8B",
+        "Energy": 7.939,
+        "Popularity": 3.79,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3LMzvounIdRYMekmzODOoa",
+            "explicit": false,
+            "album": "Merci",
+            "release_date": "2018-01-01",
+            "genres": [
+                "israeli hip hop",
+                "israeli pop"
+            ],
+            "duration": 164574,
+            "acousticness": 0.113,
+            "danceability": 8.389,
+            "instrumentalness": 0,
+            "liveness": 0.279,
+            "loudness": -4.873,
+            "speechiness": 0.146,
+            "time_signature": 4,
+            "happiness": 8.479
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "מסיבת רווקים",
+        "Artist": "Itay Levi, ליאור נרקיס, Vivo",
+        "Key": "8B",
+        "Energy": 8.884,
+        "Popularity": 3.5200000000000005,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Mizrahit",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6zduNRxQjNsXWwFln72Hwu",
+            "explicit": false,
+            "album": "שתישרף האהבה",
+            "release_date": "2019-10-31",
+            "genres": [
+                "israeli mediterranean",
+                "mizrahi",
+                "israeli mediterranean",
+                "mizrahi"
+            ],
+            "duration": 177231,
+            "acousticness": 0.258,
+            "danceability": 7.579,
+            "instrumentalness": 0,
+            "liveness": 0.707,
+            "loudness": -4.808,
+            "speechiness": 0.0713,
+            "time_signature": 4,
+            "happiness": 9.091000000000001
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "ואם תבואי אליי - Special Version",
+        "Artist": "Idan Raichel, TripL",
+        "Key": "3A",
+        "Energy": 8.911,
+        "Popularity": 2.98,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "EDM",
+            "Pop",
+            "Club-Hotel"
+        ],
+        "Additional Info": {
+            "id": "2vLYldoya1lTpAafdTU2xg",
+            "explicit": false,
+            "album": "ואם תבואי אליי",
+            "release_date": "2017-03-22",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "israeli singer-songwriter",
+                "big room"
+            ],
+            "duration": 231273,
+            "acousticness": 0.164,
+            "danceability": 6.796,
+            "instrumentalness": 0,
+            "liveness": 0.164,
+            "loudness": -3.801,
+            "speechiness": 0.0359,
+            "time_signature": 4,
+            "happiness": 5.806
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "מאורסת",
+        "Artist": "Eden Ben Zaken, Vivo",
+        "Key": "10B",
+        "Energy": 9.037,
+        "Popularity": 1.0,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4jf09IZpYGQUWo33q4GVkV",
+            "explicit": false,
+            "album": "לזאת שניצחה",
+            "release_date": "2017-09-01",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop"
+            ],
+            "duration": 218240,
+            "acousticness": 0.237,
+            "danceability": 6.7780000000000005,
+            "instrumentalness": 9.57e-06,
+            "liveness": 0.268,
+            "loudness": -4.211,
+            "speechiness": 0.0456,
+            "time_signature": 4,
+            "happiness": 6.292
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Tik Tok",
+        "Artist": "Anna Zak",
+        "Key": "3A",
+        "Energy": 8.578,
+        "Popularity": 1.0,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "27bIwufqbbWbRpdGhDbvrQ",
+            "explicit": false,
+            "album": "Tik Tok",
+            "release_date": "2019-04-28",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 169258,
+            "acousticness": 0.19,
+            "danceability": 8.379999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.166,
+            "loudness": -4.409,
+            "speechiness": 0.0839,
+            "time_signature": 4,
+            "happiness": 9.028
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "בא לה לרקוד",
+        "Artist": "DJ Malka, Static",
+        "Key": "2B",
+        "Energy": 8.191,
+        "Popularity": 5.2299999999999995,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6eLuJOmiWn4mFGupRJvCKN",
+            "explicit": false,
+            "album": "בא לה לרקוד",
+            "release_date": "2015-01-01",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 170394,
+            "acousticness": 0.249,
+            "danceability": 7.84,
+            "instrumentalness": 0,
+            "liveness": 0.109,
+            "loudness": -2.513,
+            "speechiness": 0.0688,
+            "time_signature": 4,
+            "happiness": 7.687
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "תל אביב זה אני ואת - Remix",
+        "Artist": "Amir Ve Ben, Jane Bordeaux, Dalit Rechester",
+        "Key": "7A",
+        "Energy": 8.677,
+        "Popularity": 1.0,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2BEbT55cpj7H8dYvxiqIzz",
+            "explicit": false,
+            "album": "תל אביב זה אני ואת (Remix)",
+            "release_date": "2020-09-17",
+            "genres": [
+                "israeli pop",
+                "israeli indie",
+                "israeli pop"
+            ],
+            "duration": 255000,
+            "acousticness": 0.0368,
+            "danceability": 7.822,
+            "instrumentalness": 1.28e-05,
+            "liveness": 0.158,
+            "loudness": -5.097,
+            "speechiness": 0.0411,
+            "time_signature": 4,
+            "happiness": 7.183000000000001
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "גם וגם",
+        "Artist": "MaZeZe, Eden Hason",
+        "Key": "2A",
+        "Energy": 7.3629999999999995,
+        "Popularity": 3.5200000000000005,
+        "BPM": 132,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5Y5wiwFCKvdwQIZIqupcP1",
+            "explicit": false,
+            "album": "גם וגם",
+            "release_date": "2018-11-22",
+            "genres": [
+                "israeli mediterranean",
+                "israeli mediterranean"
+            ],
+            "duration": 177679,
+            "acousticness": 0.0712,
+            "danceability": 7.471,
+            "instrumentalness": 0,
+            "liveness": 0.234,
+            "loudness": -5.226,
+            "speechiness": 0.0528,
+            "time_signature": 4,
+            "happiness": 7.4079999999999995
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "מסיבה בחיפה/ הזוג הזה/ פאוץ׳/ תרקדו",
+        "Artist": "Itay Levi, Mergui, Noa Kirel, Eden Ben Zaken",
+        "Key": "11B",
+        "Energy": 7.57,
+        "Popularity": 1.0,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Mizrahit",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6ImdvKvY5pkyqoXuIxspZ9",
+            "explicit": false,
+            "album": "PLAY פסטיגל (2019)",
+            "release_date": "2019-12-10",
+            "genres": [
+                "israeli mediterranean",
+                "mizrahi",
+                "israeli pop",
+                "israeli pop",
+                "israeli mediterranean",
+                "israeli pop"
+            ],
+            "duration": 395896,
+            "acousticness": 0.124,
+            "danceability": 6.1659999999999995,
+            "instrumentalness": 4.63e-06,
+            "liveness": 0.443,
+            "loudness": -5.426,
+            "speechiness": 0.167,
+            "time_signature": 4,
+            "happiness": 7.0120000000000005
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "מכתוב",
+        "Artist": "Eve And Lear",
+        "Key": "4A",
+        "Energy": 8.074,
+        "Popularity": 4.6899999999999995,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5Try5Fu8DTrUD4SXQLnCQY",
+            "explicit": false,
+            "album": "מכתוב",
+            "release_date": "2016-10-13",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 211670,
+            "acousticness": 0.0626,
+            "danceability": 7.156000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.076,
+            "loudness": -4.6,
+            "speechiness": 0.0402,
+            "time_signature": 4,
+            "happiness": 8.875
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "אין כמוך",
+        "Artist": "Moshe Peretz",
+        "Key": "1A",
+        "Energy": 9.703,
+        "Popularity": 3.0700000000000003,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Mizrahit",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1BPQzxYMDBI0iNkUkcUF1X",
+            "explicit": false,
+            "album": "אין כמוך",
+            "release_date": "2017-05-24",
+            "genres": [
+                "israeli mediterranean",
+                "mizrahi"
+            ],
+            "duration": 210004,
+            "acousticness": 0.0564,
+            "danceability": 7.057,
+            "instrumentalness": 0,
+            "liveness": 0.537,
+            "loudness": -1.719,
+            "speechiness": 0.0443,
+            "time_signature": 4,
+            "happiness": 8.542
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "דיבור נגוע - עם מרגי",
+        "Artist": "Stephane Legar",
+        "Key": "7A",
+        "Energy": 5.41,
+        "Popularity": 4.6,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "19u24hOHMdNfGPedV2lFum",
+            "explicit": false,
+            "album": "דיבור נגוע (עם מרגי)",
+            "release_date": "2019-12-03",
+            "genres": [
+                "israeli hip hop",
+                "israeli pop"
+            ],
+            "duration": 166165,
+            "acousticness": 0.0617,
+            "danceability": 9.064,
+            "instrumentalness": 0,
+            "liveness": 0.0802,
+            "loudness": -4.452,
+            "speechiness": 0.165,
+            "time_signature": 4,
+            "happiness": 7.552
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "לטוס לשם",
+        "Artist": "Eden Ben Zaken",
+        "Key": "11A",
+        "Energy": 7.876,
+        "Popularity": 1.0,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1ByYZDnfzlqHGxDRfeb5gy",
+            "explicit": false,
+            "album": "לזאת שניצחה",
+            "release_date": "2017-09-01",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop"
+            ],
+            "duration": 211147,
+            "acousticness": 0.017,
+            "danceability": 6.418,
+            "instrumentalness": 0.00347,
+            "liveness": 0.171,
+            "loudness": -6.102,
+            "speechiness": 0.0727,
+            "time_signature": 4,
+            "happiness": 5.788
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "Yalla Bye",
+        "Artist": "Kobi Marimi",
+        "Key": "12A",
+        "Energy": 7.147,
+        "Popularity": 1.0,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2INmKFQQerkosae0n6GkzO",
+            "explicit": false,
+            "album": "Yalla Bye",
+            "release_date": "2019-09-12",
+            "genres": [],
+            "duration": 183504,
+            "acousticness": 0.197,
+            "danceability": 7.66,
+            "instrumentalness": 7.54e-06,
+            "liveness": 0.337,
+            "loudness": -5.114,
+            "speechiness": 0.0347,
+            "time_signature": 4,
+            "happiness": 5.509
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "תענה לה",
+        "Artist": "Omer Adam",
+        "Key": "8A",
+        "Energy": 7.191999999999999,
+        "Popularity": 1.0,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Mizrahit"
+        ],
+        "Additional Info": {
+            "id": "5gOEFl4ltyXybQS3Oc7Uxc",
+            "explicit": false,
+            "album": "אחרי כל השנים",
+            "release_date": "2017-02-01",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi"
+            ],
+            "duration": 211293,
+            "acousticness": 0.171,
+            "danceability": 7.957,
+            "instrumentalness": 1.87e-06,
+            "liveness": 0.0966,
+            "loudness": -6.18,
+            "speechiness": 0.062,
+            "time_signature": 4,
+            "happiness": 6.265
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "Bassa Sababa",
+        "Artist": "Netta",
+        "Key": "5A",
+        "Energy": 7.966,
+        "Popularity": 5.5,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "36hJ4qWU3bx0IqDPxxusg6",
+            "explicit": false,
+            "album": "Bassa Sababa (Global Remixes)",
+            "release_date": "2018-09-14",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 178140,
+            "acousticness": 0.0116,
+            "danceability": 7.444,
+            "instrumentalness": 0,
+            "liveness": 0.119,
+            "loudness": -4.451,
+            "speechiness": 0.0843,
+            "time_signature": 4,
+            "happiness": 7.669
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "Toy",
+        "Artist": "Netta",
+        "Key": "5A",
+        "Energy": 7.4079999999999995,
+        "Popularity": 6.94,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6n2eIfLj0wOOUkUfNmYzlh",
+            "explicit": false,
+            "album": "Toy",
+            "release_date": "2018-05-23",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 180231,
+            "acousticness": 0.0706,
+            "danceability": 8.074,
+            "instrumentalness": 0,
+            "liveness": 0.236,
+            "loudness": -5.349,
+            "speechiness": 0.0678,
+            "time_signature": 4,
+            "happiness": 8.155000000000001
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "היא רק רוצה לרקוד",
+        "Artist": "Omer Adam, Moshe Peretz",
+        "Key": "1A",
+        "Energy": 8.614,
+        "Popularity": 1.0,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Mizrahit",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3S78QFc6We2G7UGQMoDSg6",
+            "explicit": false,
+            "album": "מודה אני",
+            "release_date": "2015-08-01",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "israeli mediterranean",
+                "mizrahi"
+            ],
+            "duration": 191333,
+            "acousticness": 0.0626,
+            "danceability": 7.534,
+            "instrumentalness": 0,
+            "liveness": 0.437,
+            "loudness": -4.92,
+            "speechiness": 0.0683,
+            "time_signature": 4,
+            "happiness": 8.218
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "Stam",
+        "Artist": "Static & Ben El",
+        "Key": "2B",
+        "Energy": 8.137,
+        "Popularity": 4.6899999999999995,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1UxPPRzZOUhZPTslSjzagr",
+            "explicit": false,
+            "album": "Stam",
+            "release_date": "2016-09-25",
+            "genres": [
+                "israeli pop",
+                "jewish pop"
+            ],
+            "duration": 167688,
+            "acousticness": 0.436,
+            "danceability": 8.263000000000002,
+            "instrumentalness": 1.55e-05,
+            "liveness": 0.265,
+            "loudness": -4.621,
+            "speechiness": 0.0483,
+            "time_signature": 4,
+            "happiness": 8.290000000000001
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "מועבט",
+        "Artist": "Eden Ben Zaken, Itay Galo",
+        "Key": "9B",
+        "Energy": 5.239,
+        "Popularity": 4.6,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1peEkDKW4oCV3qzpuIiN3H",
+            "explicit": false,
+            "album": "מועבט",
+            "release_date": "2021-04-23",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop"
+            ],
+            "duration": 251613,
+            "acousticness": 0.0685,
+            "danceability": 8.551,
+            "instrumentalness": 0.128,
+            "liveness": 0.0971,
+            "loudness": -9.136,
+            "speechiness": 0.0416,
+            "time_signature": 4,
+            "happiness": 5.158
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "בית משוגעים - Itay Galo Remix",
+        "Artist": "Ran Danker, Itay Galo",
+        "Key": "7A",
+        "Energy": 6.742,
+        "Popularity": 4.24,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7wG0fHodj1i90zPPXqv90d",
+            "explicit": false,
+            "album": "בית משוגעים (Itay Galo Remix)",
+            "release_date": "2021-04-04",
+            "genres": [
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 208525,
+            "acousticness": 0.0949,
+            "danceability": 8.038,
+            "instrumentalness": 0.00077,
+            "liveness": 0.0659,
+            "loudness": -7.785,
+            "speechiness": 0.111,
+            "time_signature": 4,
+            "happiness": 7.165000000000001
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "פרצופים",
+        "Artist": "Omer Adam",
+        "Key": "1A",
+        "Energy": 5.32,
+        "Popularity": 5.140000000000001,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Mizrahit"
+        ],
+        "Additional Info": {
+            "id": "09PZuKctf7D3RAdaegN7zu",
+            "explicit": false,
+            "album": "פרצופים",
+            "release_date": "2021-04-22",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi"
+            ],
+            "duration": 166134,
+            "acousticness": 0.165,
+            "danceability": 7.0120000000000005,
+            "instrumentalness": 0.0139,
+            "liveness": 0.0634,
+            "loudness": -8.763,
+            "speechiness": 0.298,
+            "time_signature": 4,
+            "happiness": 4.6
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "יהלום - Prod. By Triangle",
+        "Artist": "Agam Buhbut",
+        "Key": "8B",
+        "Energy": 6.544,
+        "Popularity": 4.779999999999999,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "20rg6HNd837eX34TA5tEVf",
+            "explicit": false,
+            "album": "יהלום - Prod. By Triangle",
+            "release_date": "2021-01-31",
+            "genres": [
+                "israeli mediterranean"
+            ],
+            "duration": 162091,
+            "acousticness": 0.0494,
+            "danceability": 7.948,
+            "instrumentalness": 0,
+            "liveness": 0.152,
+            "loudness": -3.667,
+            "speechiness": 0.0479,
+            "time_signature": 4,
+            "happiness": 6.058000000000001
+        }
+    },
+    {
+        "#": 58,
+        "Track Title": "משוגעת",
+        "Artist": "Dudi Buzaglo",
+        "Key": "3B",
+        "Energy": 6.372999999999999,
+        "Popularity": 3.79,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6Ks2hDNojCX1gILlMgGHcT",
+            "explicit": false,
+            "album": "משוגעת",
+            "release_date": "2021-01-12",
+            "genres": [
+                "israeli mediterranean"
+            ],
+            "duration": 161111,
+            "acousticness": 0.13,
+            "danceability": 8.272,
+            "instrumentalness": 0,
+            "liveness": 0.0696,
+            "loudness": -5.68,
+            "speechiness": 0.226,
+            "time_signature": 4,
+            "happiness": 7.471
+        }
+    },
+    {
+        "#": 59,
+        "Track Title": "Set Me Free",
+        "Artist": "Eden Alene",
+        "Key": "3A",
+        "Energy": 6.976,
+        "Popularity": 5.68,
+        "BPM": 107,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "76TRCnbYfo9GU5DPsZ1uI9",
+            "explicit": false,
+            "album": "Set Me Free",
+            "release_date": "2021-03-27",
+            "genres": [],
+            "duration": 179439,
+            "acousticness": 0.28,
+            "danceability": 7.768,
+            "instrumentalness": 0,
+            "liveness": 0.102,
+            "loudness": -7.392,
+            "speechiness": 0.0775,
+            "time_signature": 4,
+            "happiness": 5.212000000000001
+        }
+    },
+    {
+        "#": 60,
+        "Track Title": "אין אף אחד (Prod. By Triangle)",
+        "Artist": "Yam Refaeli",
+        "Key": "12A",
+        "Energy": 6.2829999999999995,
+        "Popularity": 2.98,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "27WgBekKvjpTzoOBYCLFSq",
+            "explicit": false,
+            "album": "אין אף אחד",
+            "release_date": "2021-03-01",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 144109,
+            "acousticness": 0.0981,
+            "danceability": 7.777,
+            "instrumentalness": 0,
+            "liveness": 0.362,
+            "loudness": -7.696,
+            "speechiness": 0.168,
+            "time_signature": 4,
+            "happiness": 5.113
+        }
+    },
+    {
+        "#": 61,
+        "Track Title": "הולכת יחפה",
+        "Artist": "Itay Levi",
+        "Key": "3B",
+        "Energy": 5.833,
+        "Popularity": 3.6999999999999997,
+        "BPM": 112,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Mizrahit"
+        ],
+        "Additional Info": {
+            "id": "7gr1ROZKMVPyBoRcycQ7Uk",
+            "explicit": false,
+            "album": "הולכת יחפה",
+            "release_date": "2020-03-10",
+            "genres": [
+                "israeli mediterranean",
+                "mizrahi"
+            ],
+            "duration": 192313,
+            "acousticness": 0.429,
+            "danceability": 7.4079999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.107,
+            "loudness": -7.144,
+            "speechiness": 0.0562,
+            "time_signature": 4,
+            "happiness": 6.0040000000000004
+        }
+    },
+    {
+        "#": 62,
+        "Track Title": "נוריד ת'חולצה",
+        "Artist": "Eden Hason",
+        "Key": "7A",
+        "Energy": 6.877000000000001,
+        "Popularity": 3.79,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "0oHTvb0EVeYTUc0zscZphb",
+            "explicit": false,
+            "album": "נוריד ת'חולצה",
+            "release_date": "2021-04-29",
+            "genres": [
+                "israeli mediterranean"
+            ],
+            "duration": 158065,
+            "acousticness": 0.00201,
+            "danceability": 5.743,
+            "instrumentalness": 1.41e-05,
+            "liveness": 0.116,
+            "loudness": -4.776,
+            "speechiness": 0.134,
+            "time_signature": 4,
+            "happiness": 6.4719999999999995
+        }
+    },
+    {
+        "#": 63,
+        "Track Title": "אין לך מה לדאוג",
+        "Artist": "Idan Rafael Haviv",
+        "Key": "3B",
+        "Energy": 5.005,
+        "Popularity": 4.96,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1AlnrCNHBkYlWp73v8fFge",
+            "explicit": false,
+            "album": "אין לך מה לדאוג",
+            "release_date": "2021-05-23",
+            "genres": [
+                "israeli singer-songwriter"
+            ],
+            "duration": 181487,
+            "acousticness": 0.539,
+            "danceability": 8.641,
+            "instrumentalness": 0.000692,
+            "liveness": 0.143,
+            "loudness": -13.746,
+            "speechiness": 0.294,
+            "time_signature": 4,
+            "happiness": 5.815
+        }
+    },
+    {
+        "#": 64,
+        "Track Title": "בוקר טוב עולם",
+        "Artist": "Doli & Penn, Anna Zak, Nasrin Kadri",
+        "Key": "10B",
+        "Energy": 6.013000000000001,
+        "Popularity": 4.51,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1rD46iQRSw8f7W7KB1fjtR",
+            "explicit": false,
+            "album": "בוקר טוב עולם",
+            "release_date": "2021-06-01",
+            "genres": [
+                "israeli pop",
+                "israeli pop",
+                "israeli mediterranean"
+            ],
+            "duration": 165600,
+            "acousticness": 0.0863,
+            "danceability": 8.083,
+            "instrumentalness": 0,
+            "liveness": 0.271,
+            "loudness": -9.093,
+            "speechiness": 0.0888,
+            "time_signature": 4,
+            "happiness": 7.165000000000001
+        }
+    },
+    {
+        "#": 65,
+        "Track Title": "חביב אלבי",
+        "Artist": "Static & Ben El, Nasrin Kadri",
+        "Key": "1B",
+        "Energy": 8.056000000000001,
+        "Popularity": 4.96,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5vCGfl8d5iLZ1BZjEnmRd8",
+            "explicit": false,
+            "album": "חביב אלבי",
+            "release_date": "2020-06-28",
+            "genres": [
+                "israeli pop",
+                "jewish pop",
+                "israeli mediterranean"
+            ],
+            "duration": 198400,
+            "acousticness": 0.126,
+            "danceability": 7.624,
+            "instrumentalness": 0,
+            "liveness": 0.133,
+            "loudness": -5.037,
+            "speechiness": 0.113,
+            "time_signature": 4,
+            "happiness": 6.8500000000000005
+        }
+    },
+    {
+        "#": 66,
+        "Track Title": "זוט עני",
+        "Artist": "Ella Lee",
+        "Key": "4A",
+        "Energy": 5.878,
+        "Popularity": 1.0,
+        "BPM": 138,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3bwwEAtEfHVgO56U0yEvG8",
+            "explicit": false,
+            "album": "זוט עני",
+            "release_date": "2020-06-02",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 178913,
+            "acousticness": 0.0562,
+            "danceability": 8.317,
+            "instrumentalness": 0.000149,
+            "liveness": 0.0691,
+            "loudness": -5.68,
+            "speechiness": 0.0589,
+            "time_signature": 4,
+            "happiness": 9.037
+        }
+    },
+    {
+        "#": 67,
+        "Track Title": "אמאל׳ה ואבאל׳ה",
+        "Artist": "Sarit Hadad",
+        "Key": "10B",
+        "Energy": 9.001,
+        "Popularity": 1.0,
+        "BPM": 132,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Mizrahit",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1qlmI7CD465ayioxDIL7Q4",
+            "explicit": false,
+            "album": "אמאל׳ה ואבאל׳ה",
+            "release_date": "2018-10-11",
+            "genres": [
+                "festigal",
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi"
+            ],
+            "duration": 171364,
+            "acousticness": 0.1,
+            "danceability": 8.317,
+            "instrumentalness": 0,
+            "liveness": 0.0589,
+            "loudness": -4.254,
+            "speechiness": 0.0619,
+            "time_signature": 4,
+            "happiness": 7.03
+        }
+    },
+    {
+        "#": 68,
+        "Track Title": "בובות",
+        "Artist": "Itzik Shamli, במבוק",
+        "Key": "5A",
+        "Energy": 8.731,
+        "Popularity": 3.0700000000000003,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "07qw6LEsjoPmWzaACEFDLO",
+            "explicit": false,
+            "album": "בובות",
+            "release_date": "2018-10-07",
+            "genres": [],
+            "duration": 189900,
+            "acousticness": 0.0948,
+            "danceability": 8.002,
+            "instrumentalness": 0,
+            "liveness": 0.734,
+            "loudness": -3.509,
+            "speechiness": 0.121,
+            "time_signature": 4,
+            "happiness": 8.173
+        }
+    },
+    {
+        "#": 69,
+        "Track Title": "קוביות",
+        "Artist": "Static & Ben El, Anna Zak",
+        "Key": "3B",
+        "Energy": 7.236999999999999,
+        "Popularity": 4.87,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7cklZZ8jXIKjqWR7Lhnydb",
+            "explicit": false,
+            "album": "קוביות",
+            "release_date": "2020-08-16",
+            "genres": [
+                "israeli pop",
+                "jewish pop",
+                "israeli pop"
+            ],
+            "duration": 142857,
+            "acousticness": 0.0383,
+            "danceability": 8.227,
+            "instrumentalness": 1.17e-05,
+            "liveness": 0.0453,
+            "loudness": -6.053,
+            "speechiness": 0.056,
+            "time_signature": 4,
+            "happiness": 4.87
+        }
+    },
+    {
+        "#": 70,
+        "Track Title": "בא לי אותך",
+        "Artist": "Noa Kirel",
+        "Key": "3B",
+        "Energy": 7.489,
+        "Popularity": 1.0,
+        "BPM": 103,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5OANR3ii7LCd6DSvWPTdcc",
+            "explicit": false,
+            "album": "בא לי אותך",
+            "release_date": "2018-06-28",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 181748,
+            "acousticness": 0.0273,
+            "danceability": 7.651,
+            "instrumentalness": 1.07e-05,
+            "liveness": 0.0603,
+            "loudness": -4.699,
+            "speechiness": 0.07,
+            "time_signature": 4,
+            "happiness": 6.949
+        }
+    },
+    {
+        "#": 71,
+        "Track Title": "Hetchil Hachom",
+        "Artist": "Rotem Cohen",
+        "Key": "2B",
+        "Energy": 8.2,
+        "Popularity": 1.0,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2nD5r03p4Ay43yTgyx0DpP",
+            "explicit": false,
+            "album": "El Haolam Shelach",
+            "release_date": "2014",
+            "genres": [
+                "israeli mediterranean"
+            ],
+            "duration": 204953,
+            "acousticness": 0.103,
+            "danceability": 6.7330000000000005,
+            "instrumentalness": 1.1e-06,
+            "liveness": 0.056,
+            "loudness": -4.822,
+            "speechiness": 0.0427,
+            "time_signature": 4,
+            "happiness": 7.9030000000000005
+        }
+    },
+    {
+        "#": 72,
+        "Track Title": "לרקוד עם דמעות בעיניים",
+        "Artist": "Ivri Lider, תומר מייזנר",
+        "Key": "11B",
+        "Energy": 8.146,
+        "Popularity": 4.33,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2XxnaUUACnu3BOlyPPJLDF",
+            "explicit": false,
+            "album": "לרקוד עם דמעות בעיניים",
+            "release_date": "2019-08-25",
+            "genres": [
+                "israeli pop",
+                "israeli rock",
+                "israeli singer-songwriter"
+            ],
+            "duration": 219483,
+            "acousticness": 0.162,
+            "danceability": 8.308,
+            "instrumentalness": 9.4e-06,
+            "liveness": 0.0749,
+            "loudness": -4.544,
+            "speechiness": 0.0425,
+            "time_signature": 4,
+            "happiness": 6.436
+        }
+    },
+    {
+        "#": 73,
+        "Track Title": "מאושרים - Eden Shalev Remix",
+        "Artist": "Doli & Penn, Noa Kirel, Liran Danino, Eden Shalev",
+        "Key": "12A",
+        "Energy": 9.334,
+        "Popularity": 1.0,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3qPYdAHTCL66hYxUHcMjQB",
+            "explicit": false,
+            "album": "מאושרים (Eden Shalev Remix)",
+            "release_date": "2019-11-07",
+            "genres": [
+                "israeli pop",
+                "israeli pop",
+                "israeli pop"
+            ],
+            "duration": 260308,
+            "acousticness": 0.0181,
+            "danceability": 7.075,
+            "instrumentalness": 1.61e-05,
+            "liveness": 0.678,
+            "loudness": -4.05,
+            "speechiness": 0.0504,
+            "time_signature": 4,
+            "happiness": 4.96
+        }
+    },
+    {
+        "#": 74,
+        "Track Title": "לא יוצא למסיבות - רמיקס",
+        "Artist": "Mergui, Dalit Rechester",
+        "Key": "11A",
+        "Energy": 7.66,
+        "Popularity": 3.34,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1tYKjOAP0QhZ5oKzB9iqyh",
+            "explicit": false,
+            "album": "לא יוצא למסיבות (רמיקס)",
+            "release_date": "2020-05-27",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 280464,
+            "acousticness": 0.0137,
+            "danceability": 7.263999999999999,
+            "instrumentalness": 0.00124,
+            "liveness": 0.0647,
+            "loudness": -9.33,
+            "speechiness": 0.0478,
+            "time_signature": 4,
+            "happiness": 5.113
+        }
+    },
+    {
+        "#": 75,
+        "Track Title": "ניפגש בשמחות",
+        "Artist": "Omer Adam",
+        "Key": "3A",
+        "Energy": 4.4559999999999995,
+        "Popularity": 1.0,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Mizrahit"
+        ],
+        "Additional Info": {
+            "id": "5Ca8KB3xvb81L4I6JME90U",
+            "explicit": false,
+            "album": "עומר",
+            "release_date": "2020-01-01",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi"
+            ],
+            "duration": 184787,
+            "acousticness": 0.475,
+            "danceability": 8.902000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.223,
+            "loudness": -6.592,
+            "speechiness": 0.148,
+            "time_signature": 4,
+            "happiness": 4.843
+        }
+    },
+    {
+        "#": 76,
+        "Track Title": "שימי פס",
+        "Artist": "Eden Hason, Ella Lee",
+        "Key": "12A",
+        "Energy": 6.697,
+        "Popularity": 3.97,
+        "BPM": 132,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "30NVqoPHBnHVmAdwv1CjBr",
+            "explicit": false,
+            "album": "שימי פס",
+            "release_date": "2021-06-17",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop"
+            ],
+            "duration": 191648,
+            "acousticness": 0.124,
+            "danceability": 7.93,
+            "instrumentalness": 0,
+            "liveness": 0.22,
+            "loudness": -6.571,
+            "speechiness": 0.0754,
+            "time_signature": 4,
+            "happiness": 6.292
+        }
+    },
+    {
+        "#": 77,
+        "Track Title": "פאוץ' - Remix",
+        "Artist": "Noa Kirel, Dalit Rechester, Ran Ziv",
+        "Key": "9A",
+        "Energy": 8.605,
+        "Popularity": 1.0,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3GxdU2r2HqLcaCugBKhnxH",
+            "explicit": false,
+            "album": "פאוץ' (Remix)",
+            "release_date": "2019-08-22",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 310781,
+            "acousticness": 0.00469,
+            "danceability": 7.3,
+            "instrumentalness": 0.0689,
+            "liveness": 0.169,
+            "loudness": -5.569,
+            "speechiness": 0.0362,
+            "time_signature": 4,
+            "happiness": 3.727
+        }
+    },
+    {
+        "#": 78,
+        "Track Title": "אח שלי מתחתן - DJ Braindead Remix",
+        "Artist": "Doli & Penn, Mosh Ben Ari, Dj Braindead",
+        "Key": "9A",
+        "Energy": 9.361,
+        "Popularity": 1.0,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Mizrahit",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5mtoYYPxHSaXW5zNmygXb1",
+            "explicit": false,
+            "album": "אח שלי מתחתן (DJ Braindead Remix)",
+            "release_date": "2019-09-01",
+            "genres": [
+                "israeli pop",
+                "mizrahi"
+            ],
+            "duration": 202117,
+            "acousticness": 0.00483,
+            "danceability": 7.633,
+            "instrumentalness": 5.28e-05,
+            "liveness": 0.0926,
+            "loudness": -1.458,
+            "speechiness": 0.071,
+            "time_signature": 4,
+            "happiness": 7.4799999999999995
+        }
+    },
+    {
+        "#": 79,
+        "Track Title": "צמאה לאהבה - Itay Galo Remix",
+        "Artist": "Liran Danino, Itay Galo",
+        "Key": "6A",
+        "Energy": 6.652,
+        "Popularity": 3.6999999999999997,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1D6pSmzRYmhsqR2VHHFx0g",
+            "explicit": false,
+            "album": "צמאה לאהבה (Itay Galo Remix)",
+            "release_date": "2021-01-07",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 180952,
+            "acousticness": 0.457,
+            "danceability": 8.379999999999999,
+            "instrumentalness": 4.96e-06,
+            "liveness": 0.117,
+            "loudness": -8.668,
+            "speechiness": 0.0353,
+            "time_signature": 4,
+            "happiness": 6.013000000000001
+        }
+    },
+    {
+        "#": 80,
+        "Track Title": "טרמינל 3",
+        "Artist": "Dudu Aharon",
+        "Key": "12B",
+        "Energy": 9.343,
+        "Popularity": 5.05,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Mizrahit",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2s3H3S1wSFWqiyWABpepcP",
+            "explicit": false,
+            "album": "טרמינל 3",
+            "release_date": "2015-06-10",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi"
+            ],
+            "duration": 200307,
+            "acousticness": 0.121,
+            "danceability": 8.209,
+            "instrumentalness": 0,
+            "liveness": 0.108,
+            "loudness": -2.471,
+            "speechiness": 0.0417,
+            "time_signature": 4,
+            "happiness": 8.299
+        }
+    },
+    {
+        "#": 81,
+        "Track Title": "טרילילי טרללה - Dalit Rechester Remix",
+        "Artist": "Noa Kirel, Ilan Peled, Dalit Rechester",
+        "Key": "7A",
+        "Energy": 8.578,
+        "Popularity": 3.6999999999999997,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "4QZViRMm1xHelQ5FygZt58",
+            "explicit": false,
+            "album": "טרילילי טרללה (Dalit Rechester Remix)",
+            "release_date": "2021-06-24",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 199370,
+            "acousticness": 0.00197,
+            "danceability": 6.7330000000000005,
+            "instrumentalness": 0.11,
+            "liveness": 0.126,
+            "loudness": -7.225,
+            "speechiness": 0.0338,
+            "time_signature": 4,
+            "happiness": 2.638
+        }
+    },
+    {
+        "#": 82,
+        "Track Title": "מסיבה בחיפה - DJ Mash Remix",
+        "Artist": "The Ultras, Itay Levi, DJ Elon Matana",
+        "Key": "6A",
+        "Energy": 8.875,
+        "Popularity": 1.0,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Mizrahit",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4Ue7duB2m1vapAXVEj0JT1",
+            "explicit": false,
+            "album": "מסיבה בחיפה (The Remixes)",
+            "release_date": "2016-07-16",
+            "genres": [
+                "israeli mediterranean",
+                "israeli mediterranean",
+                "mizrahi"
+            ],
+            "duration": 216150,
+            "acousticness": 0.0222,
+            "danceability": 8.272,
+            "instrumentalness": 1.28e-06,
+            "liveness": 0.076,
+            "loudness": -4.217,
+            "speechiness": 0.121,
+            "time_signature": 4,
+            "happiness": 8.947
+        }
+    },
+    {
+        "#": 83,
+        "Track Title": "מסיבה - Shon Hen Remix",
+        "Artist": "Eden Ben Zaken, Shon Hen",
+        "Key": "6A",
+        "Energy": 9.199,
+        "Popularity": 1.0,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7uqAJdBxP7sqAUd54b5mkf",
+            "explicit": false,
+            "album": "מסיבה (Shon Hen Remix)",
+            "release_date": "2019-06-20",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop"
+            ],
+            "duration": 176802,
+            "acousticness": 0.0266,
+            "danceability": 5.572,
+            "instrumentalness": 0.000812,
+            "liveness": 0.223,
+            "loudness": -4.39,
+            "speechiness": 0.0614,
+            "time_signature": 4,
+            "happiness": 8.173
+        }
+    },
+    {
+        "#": 84,
+        "Track Title": "מורידים את הירח - DJ Sharon Yosefov Official Remix",
+        "Artist": "Shlomi Shabat, Eliad, Sharon Yosefov",
+        "Key": "5A",
+        "Energy": 7.318,
+        "Popularity": 3.16,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Mizrahit",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "764k0jUNvPVCR70FxefH8W",
+            "explicit": false,
+            "album": "מורידים את הירח (DJ Sharon Yosefov Official Remix)",
+            "release_date": "2020-06-03",
+            "genres": [
+                "israeli mediterranean",
+                "mizrahi",
+                "israeli pop"
+            ],
+            "duration": 208958,
+            "acousticness": 0.205,
+            "danceability": 8.658999999999999,
+            "instrumentalness": 0.00012,
+            "liveness": 0.0181,
+            "loudness": -3.706,
+            "speechiness": 0.0912,
+            "time_signature": 4,
+            "happiness": 9.1
+        }
+    },
+    {
+        "#": 85,
+        "Track Title": "אם תרצי / חנן בן ארי - Remix",
+        "Artist": "Israel Kimchi, ASYA",
+        "Key": "1A",
+        "Energy": 8.776,
+        "Popularity": 1.0,
+        "BPM": 131,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0Kfk9Fp7qpCinRPRqTtn1p",
+            "explicit": false,
+            "album": "אם תרצי / חנן בן ארי (Remix)",
+            "release_date": "2021-06-11",
+            "genres": [],
+            "duration": 277656,
+            "acousticness": 0.0771,
+            "danceability": 6.994000000000001,
+            "instrumentalness": 0.000371,
+            "liveness": 0.044,
+            "loudness": -6.479,
+            "speechiness": 0.0359,
+            "time_signature": 4,
+            "happiness": 9.397
+        }
+    },
+    {
+        "#": 86,
+        "Track Title": "חגיגה",
+        "Artist": "Sarit Hadad",
+        "Key": "7A",
+        "Energy": 8.847999999999999,
+        "Popularity": 4.0600000000000005,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Mizrahit",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1Ai1FfRefEJr2GTbDaJmnb",
+            "explicit": false,
+            "album": "חגיגה",
+            "release_date": "2004-07-28",
+            "genres": [
+                "festigal",
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi"
+            ],
+            "duration": 253013,
+            "acousticness": 0.185,
+            "danceability": 7.552,
+            "instrumentalness": 0,
+            "liveness": 0.181,
+            "loudness": -3.771,
+            "speechiness": 0.0493,
+            "time_signature": 4,
+            "happiness": 7.957
+        }
+    },
+    {
+        "#": 87,
+        "Track Title": "אל תגלי - Tzealon Official Remix",
+        "Artist": "Eliad, Metro the Savage, Tzealon",
+        "Key": "10B",
+        "Energy": 7.777,
+        "Popularity": 2.62,
+        "BPM": 103,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5759noOd0mecx2BDIwO5G0",
+            "explicit": false,
+            "album": "אל תגלי (Tzealon Official Remix)",
+            "release_date": "2021-06-17",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 178252,
+            "acousticness": 0.0103,
+            "danceability": 8.361999999999998,
+            "instrumentalness": 0.0939,
+            "liveness": 0.0737,
+            "loudness": -4.315,
+            "speechiness": 0.0458,
+            "time_signature": 4,
+            "happiness": 4.384
+        }
+    },
+    {
+        "#": 88,
+        "Track Title": "רובינזון קרוזו",
+        "Artist": "Static & Ben El, Ran Danker",
+        "Key": "7B",
+        "Energy": 7.885,
+        "Popularity": 3.43,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1NHEh6Xb5PSu9HZZV8vCvh",
+            "explicit": false,
+            "album": "רובינזון קרוזו",
+            "release_date": "2021-07-01",
+            "genres": [
+                "israeli pop",
+                "jewish pop",
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 148576,
+            "acousticness": 0.211,
+            "danceability": 8.407,
+            "instrumentalness": 0,
+            "liveness": 0.425,
+            "loudness": -5.311,
+            "speechiness": 0.128,
+            "time_signature": 4,
+            "happiness": 6.183999999999999
+        }
+    },
+    {
+        "#": 89,
+        "Track Title": "שמח",
+        "Artist": "Ivri Lider, Sam Halabi",
+        "Key": "12B",
+        "Energy": 9.568,
+        "Popularity": 3.16,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3VGIJ7GHZ6Etd1w0UxCmy3",
+            "explicit": false,
+            "album": "שמח",
+            "release_date": "2021-05-05",
+            "genres": [
+                "israeli pop",
+                "israeli rock",
+                "israeli singer-songwriter",
+                "israeli pop"
+            ],
+            "duration": 183706,
+            "acousticness": 0.0144,
+            "danceability": 5.986000000000001,
+            "instrumentalness": 0.00327,
+            "liveness": 0.423,
+            "loudness": -5.197,
+            "speechiness": 0.326,
+            "time_signature": 4,
+            "happiness": 6.598
+        }
+    },
+    {
+        "#": 90,
+        "Track Title": "תופעות לוואי",
+        "Artist": "אושר ביטון",
+        "Key": "6A",
+        "Energy": 7.552,
+        "Popularity": 3.79,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1izhS1Cofy5BlGyrhc6Bi3",
+            "explicit": false,
+            "album": "תופעות לוואי",
+            "release_date": "2021-08-19",
+            "genres": [
+                "israeli mediterranean"
+            ],
+            "duration": 176849,
+            "acousticness": 0.112,
+            "danceability": 8.065000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0705,
+            "loudness": -5.613,
+            "speechiness": 0.157,
+            "time_signature": 4,
+            "happiness": 7.183000000000001
+        }
+    },
+    {
+        "#": 91,
+        "Track Title": "צ'ייסר",
+        "Artist": "Noy Fadlon",
+        "Key": "12A",
+        "Energy": 8.596,
+        "Popularity": 2.8899999999999997,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6MMjQVZsAodAdaVY1sWMMy",
+            "explicit": false,
+            "album": "צ'ייסר",
+            "release_date": "2021-08-17",
+            "genres": [
+                "israeli mediterranean"
+            ],
+            "duration": 136615,
+            "acousticness": 0.0609,
+            "danceability": 8.272,
+            "instrumentalness": 5.89e-06,
+            "liveness": 0.0511,
+            "loudness": -3.039,
+            "speechiness": 0.0694,
+            "time_signature": 4,
+            "happiness": 8.092
+        }
+    },
+    {
+        "#": 92,
+        "Track Title": "שופוני",
+        "Artist": "Kevin Rubin, Sapir Saban",
+        "Key": "10B",
+        "Energy": 7.021000000000001,
+        "Popularity": 2.62,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "6jML2mo0HccpQrcwyy7Cwp",
+            "explicit": false,
+            "album": "שופוני",
+            "release_date": "2021-08-10",
+            "genres": [
+                "israeli mediterranean"
+            ],
+            "duration": 185600,
+            "acousticness": 0.022,
+            "danceability": 7.308999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.325,
+            "loudness": -7.833,
+            "speechiness": 0.0575,
+            "time_signature": 4,
+            "happiness": 4.366
+        }
+    },
+    {
+        "#": 93,
+        "Track Title": "מגבות",
+        "Artist": "Agam Buhbut",
+        "Key": "3A",
+        "Energy": 8.578,
+        "Popularity": 3.88,
+        "BPM": 137,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7FHL9BVqOK06k1Eye7QaWi",
+            "explicit": false,
+            "album": "מגבות",
+            "release_date": "2021-07-19",
+            "genres": [
+                "israeli mediterranean"
+            ],
+            "duration": 157664,
+            "acousticness": 0.00997,
+            "danceability": 8.542,
+            "instrumentalness": 3.8e-05,
+            "liveness": 0.117,
+            "loudness": -4.299,
+            "speechiness": 0.0498,
+            "time_signature": 4,
+            "happiness": 8.947
+        }
+    },
+    {
+        "#": 94,
+        "Track Title": "אנג'ל",
+        "Artist": "Mergui",
+        "Key": "10B",
+        "Energy": 6.481,
+        "Popularity": 4.24,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2KpvlQWTbTvTuj4hfsrUSy",
+            "explicit": false,
+            "album": "אנג'ל",
+            "release_date": "2021-07-04",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 198000,
+            "acousticness": 0.102,
+            "danceability": 5.914000000000001,
+            "instrumentalness": 3.21e-05,
+            "liveness": 0.0778,
+            "loudness": -5.711,
+            "speechiness": 0.0632,
+            "time_signature": 4,
+            "happiness": 4.402
+        }
+    },
+    {
+        "#": 95,
+        "Track Title": "דוש",
+        "Artist": "Lyri Uzan",
+        "Key": "6A",
+        "Energy": 7.236999999999999,
+        "Popularity": 1.54,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "497HqKeOxtlT1yIS2nPQHN",
+            "explicit": false,
+            "album": "דוש",
+            "release_date": "2021-04-29",
+            "genres": [],
+            "duration": 178286,
+            "acousticness": 0.047,
+            "danceability": 6.49,
+            "instrumentalness": 0,
+            "liveness": 0.0891,
+            "loudness": -7.998,
+            "speechiness": 0.0958,
+            "time_signature": 4,
+            "happiness": 5.149
+        }
+    },
+    {
+        "#": 96,
+        "Track Title": "Please Don't Suck (Afrojack x Black V Neck Remix)",
+        "Artist": "Noa Kirel, AFROJACK, Black V Neck",
+        "Key": "2A",
+        "Energy": 9.307,
+        "Popularity": 4.0600000000000005,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "EDM",
+            "Club-Hotel",
+            "Israeli - Kibutz",
+            "Pop",
+            "Dance Remixes",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0O3NTgDl4o73vnDLg2jP5U",
+            "explicit": true,
+            "album": "Please Don't Suck (Afrojack x Black V Neck Remix)",
+            "release_date": "2021-09-03",
+            "genres": [
+                "israeli pop",
+                "big room",
+                "dance pop",
+                "dutch house",
+                "edm",
+                "electro house",
+                "pop dance",
+                "progressive electro house",
+                "bass house",
+                "tech house"
+            ],
+            "duration": 168149,
+            "acousticness": 0.0131,
+            "danceability": 7.705,
+            "instrumentalness": 0.00642,
+            "liveness": 0.173,
+            "loudness": -3.911,
+            "speechiness": 0.0491,
+            "time_signature": 4,
+            "happiness": 8.497
+        }
+    },
+    {
+        "#": 97,
+        "Track Title": "חצי דפוק",
+        "Artist": "Omer Adam",
+        "Key": "10A",
+        "Energy": 5.1850000000000005,
+        "Popularity": 5.5,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Mizrahit"
+        ],
+        "Additional Info": {
+            "id": "6jMCb4UpIBjmiKf6EwVK8u",
+            "explicit": false,
+            "album": "3",
+            "release_date": "2021-08-03",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi"
+            ],
+            "duration": 177875,
+            "acousticness": 0.101,
+            "danceability": 9.127,
+            "instrumentalness": 1.18e-05,
+            "liveness": 0.109,
+            "loudness": -9.638,
+            "speechiness": 0.126,
+            "time_signature": 4,
+            "happiness": 3.43
+        }
+    },
+    {
+        "#": 98,
+        "Track Title": "מגבת באוויר",
+        "Artist": "NOROZ, Ido B & Zooki",
+        "Key": "8B",
+        "Energy": 9.046,
+        "Popularity": 4.779999999999999,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "7qCwgzeZQbNp6VHt9wz8i7",
+            "explicit": false,
+            "album": "מגבת באוויר",
+            "release_date": "2020-07-06",
+            "genres": [
+                "israeli hip hop",
+                "israeli trap",
+                "israeli hip hop",
+                "israeli trap"
+            ],
+            "duration": 171200,
+            "acousticness": 0.146,
+            "danceability": 7.183000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.082,
+            "loudness": -3.436,
+            "speechiness": 0.172,
+            "time_signature": 4,
+            "happiness": 5.968
+        }
+    },
+    {
+        "#": 99,
+        "Track Title": "לך לישון",
+        "Artist": "Anna Zak",
+        "Key": "11A",
+        "Energy": 6.859,
+        "Popularity": 5.59,
+        "BPM": 117,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3fCS3m3uWUgAFm3purs15C",
+            "explicit": false,
+            "album": "לך לישון",
+            "release_date": "2022-01-02",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 158590,
+            "acousticness": 0.0245,
+            "danceability": 7.921,
+            "instrumentalness": 0,
+            "liveness": 0.323,
+            "loudness": -8.138,
+            "speechiness": 0.0422,
+            "time_signature": 4,
+            "happiness": 5.932
+        }
+    },
+    {
+        "#": 100,
+        "Track Title": "גנגסטאר",
+        "Artist": "Stephane Legar, Loai Ali",
+        "Key": "10B",
+        "Energy": 7.813,
+        "Popularity": 3.16,
+        "BPM": 111,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "5PfmPAJE8TSp4TKr6LZZW8",
+            "explicit": false,
+            "album": "גנגסטאר",
+            "release_date": "2022-01-06",
+            "genres": [
+                "israeli hip hop",
+                "israeli pop",
+                "israeli pop"
+            ],
+            "duration": 154020,
+            "acousticness": 0.331,
+            "danceability": 8.425,
+            "instrumentalness": 0,
+            "liveness": 0.0642,
+            "loudness": -5.853,
+            "speechiness": 0.0985,
+            "time_signature": 4,
+            "happiness": 4.546
+        }
+    }
+]

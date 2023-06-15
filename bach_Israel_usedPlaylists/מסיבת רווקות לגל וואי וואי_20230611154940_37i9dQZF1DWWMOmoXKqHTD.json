@@ -1,0 +1,3814 @@
+[
+    {
+        "#": 1,
+        "Track Title": "WHOLE LOTTA MONEY",
+        "Artist": "BIA",
+        "Key": "3B",
+        "Energy": 4.339,
+        "Popularity": 6.67,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "EDM",
+            "Latin",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5yorXJWdBan1Vlh116ZtQ7",
+            "explicit": true,
+            "album": "FOR CERTAIN",
+            "release_date": "2020-12-11",
+            "genres": [
+                "rap latina",
+                "trap queen"
+            ],
+            "duration": 156005,
+            "acousticness": 0.0904,
+            "danceability": 9.073,
+            "instrumentalness": 0,
+            "liveness": 0.325,
+            "loudness": -5.019,
+            "speechiness": 0.368,
+            "time_signature": 4,
+            "happiness": 4.968999999999999
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Get Ur Freak On",
+        "Artist": "Missy Elliott",
+        "Key": "8B",
+        "Energy": 7.75,
+        "Popularity": 7.4799999999999995,
+        "BPM": 89,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Hip Hop",
+            "Happy",
+            "Pop",
+            "Dance Remixes",
+            "Romantic & Slow Dance",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6zsk6uF3MxfIeHPlubKBvR",
+            "explicit": true,
+            "album": "Miss E... So Addictive",
+            "release_date": "2001-05-14",
+            "genres": [
+                "dance pop",
+                "hip hop",
+                "hip pop",
+                "neo soul",
+                "pop rap",
+                "r&b",
+                "rap",
+                "urban contemporary",
+                "virginia hip hop"
+            ],
+            "duration": 211120,
+            "acousticness": 0.533,
+            "danceability": 8.173,
+            "instrumentalness": 0.108,
+            "liveness": 0.095,
+            "loudness": -9.369,
+            "speechiness": 0.247,
+            "time_signature": 4,
+            "happiness": 7.66
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "CUFF IT",
+        "Artist": "Beyoncé",
+        "Key": "9B",
+        "Energy": 7.201,
+        "Popularity": 9.1,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Pop",
+            "Romantic & Slow Dance",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "1xzi1Jcr7mEi9K2RfzLOqS",
+            "explicit": true,
+            "album": "RENAISSANCE",
+            "release_date": "2022-07-29",
+            "genres": [
+                "pop",
+                "r&b"
+            ],
+            "duration": 225389,
+            "acousticness": 0.0368,
+            "danceability": 8.02,
+            "instrumentalness": 9.69e-06,
+            "liveness": 0.0698,
+            "loudness": -5.668,
+            "speechiness": 0.141,
+            "time_signature": 4,
+            "happiness": 6.7780000000000005
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Flowers",
+        "Artist": "Miley Cyrus",
+        "Key": "8B",
+        "Energy": 7.1290000000000004,
+        "Popularity": 9.73,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0yLdNVWF3Srea0uzk55zFn",
+            "explicit": false,
+            "album": "Flowers",
+            "release_date": "2023-01-13",
+            "genres": [
+                "pop"
+            ],
+            "duration": 200455,
+            "acousticness": 0.0632,
+            "danceability": 7.3629999999999995,
+            "instrumentalness": 5.15e-06,
+            "liveness": 0.0322,
+            "loudness": -4.325,
+            "speechiness": 0.0668,
+            "time_signature": 4,
+            "happiness": 6.814
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Made You Look",
+        "Artist": "Meghan Trainor",
+        "Key": "6B",
+        "Energy": 5.7250000000000005,
+        "Popularity": 9.01,
+        "BPM": 145,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Pop",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0QHEIqNKsMoOY5urbzN48u",
+            "explicit": false,
+            "album": "Takin' It Back",
+            "release_date": "2022-10-21",
+            "genres": [
+                "hip pop",
+                "pop"
+            ],
+            "duration": 134256,
+            "acousticness": 0.345,
+            "danceability": 8.542,
+            "instrumentalness": 1.92e-06,
+            "liveness": 0.0771,
+            "loudness": -3.562,
+            "speechiness": 0.0665,
+            "time_signature": 4,
+            "happiness": 8.956
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Calm Down (with Selena Gomez)",
+        "Artist": "Rema, Selena Gomez",
+        "Key": "1B",
+        "Energy": 8.254000000000001,
+        "Popularity": 9.549999999999999,
+        "BPM": 107,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Happy",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0WtM2NBVQNNJLh6scP13H8",
+            "explicit": false,
+            "album": "Calm Down (with Selena Gomez)",
+            "release_date": "2022-08-25",
+            "genres": [
+                "afrobeats",
+                "nigerian pop",
+                "pop",
+                "post-teen pop"
+            ],
+            "duration": 239318,
+            "acousticness": 0.382,
+            "danceability": 8.209,
+            "instrumentalness": 0.000669,
+            "liveness": 0.114,
+            "loudness": -5.206,
+            "speechiness": 0.0381,
+            "time_signature": 4,
+            "happiness": 8.218
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Shakira: Bzrp Music Sessions, Vol. 53",
+        "Artist": "Bizarrap, Shakira",
+        "Key": "10A",
+        "Energy": 6.688,
+        "Popularity": 9.459999999999999,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Latin",
+            "Pop",
+            "Hip Hop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "4nrPB8O7Y7wsOCJdgXkthe",
+            "explicit": false,
+            "album": "Shakira: Bzrp Music Sessions, Vol. 53",
+            "release_date": "2023-01-11",
+            "genres": [
+                "argentine hip hop",
+                "pop venezolano",
+                "trap argentino",
+                "trap latino",
+                "urbano latino",
+                "colombian pop",
+                "dance pop",
+                "latin pop",
+                "pop"
+            ],
+            "duration": 218289,
+            "acousticness": 0.274,
+            "danceability": 8.002,
+            "instrumentalness": 0,
+            "liveness": 0.0915,
+            "loudness": -5.6,
+            "speechiness": 0.0493,
+            "time_signature": 4,
+            "happiness": 5.482
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Blinding Lights",
+        "Artist": "The Weeknd",
+        "Key": "3B",
+        "Energy": 7.57,
+        "Popularity": 9.280000000000001,
+        "BPM": 86,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Pop",
+            "Romantic & Slow Dance"
+        ],
+        "Additional Info": {
+            "id": "0VjIjW4GlUZAMYd2vXMi3b",
+            "explicit": false,
+            "album": "After Hours",
+            "release_date": "2020-03-20",
+            "genres": [
+                "canadian contemporary r&b",
+                "canadian pop",
+                "pop"
+            ],
+            "duration": 200040,
+            "acousticness": 0.00146,
+            "danceability": 5.626,
+            "instrumentalness": 9.54e-05,
+            "liveness": 0.0897,
+            "loudness": -5.934,
+            "speechiness": 0.0598,
+            "time_signature": 4,
+            "happiness": 4.006
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Celebration - Single Version",
+        "Artist": "Kool & The Gang",
+        "Key": "3B",
+        "Energy": 8.533,
+        "Popularity": 7.12,
+        "BPM": 121,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Nostalgic",
+            "Romantic & Slow Dance",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6HIVJXpdvp1C1ubfnkFnz8",
+            "explicit": false,
+            "album": "Collected",
+            "release_date": "2018-05-25",
+            "genres": [
+                "disco",
+                "funk",
+                "motown",
+                "soul"
+            ],
+            "duration": 218787,
+            "acousticness": 0.0216,
+            "danceability": 8.416,
+            "instrumentalness": 0.00944,
+            "liveness": 0.123,
+            "loudness": -7.124,
+            "speechiness": 0.054,
+            "time_signature": 4,
+            "happiness": 9.523
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "דובשנייה",
+        "Artist": "שחר סאול, Agam Buhbut, NOROZ",
+        "Key": "9B",
+        "Energy": 9.046,
+        "Popularity": 6.040000000000001,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "67PF7VLcYEKKF82ziNf9Ur",
+            "explicit": false,
+            "album": "דובשנייה",
+            "release_date": "2022-01-19",
+            "genres": [
+                "israeli hip hop",
+                "israeli mediterranean",
+                "israeli hip hop",
+                "israeli trap"
+            ],
+            "duration": 152000,
+            "acousticness": 0.318,
+            "danceability": 7.93,
+            "instrumentalness": 0.00238,
+            "liveness": 0.3,
+            "loudness": -4.653,
+            "speechiness": 0.218,
+            "time_signature": 4,
+            "happiness": 7.039000000000001
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "חצי דפוק",
+        "Artist": "Omer Adam",
+        "Key": "10A",
+        "Energy": 5.1850000000000005,
+        "Popularity": 5.5,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Mizrahit"
+        ],
+        "Additional Info": {
+            "id": "6jMCb4UpIBjmiKf6EwVK8u",
+            "explicit": false,
+            "album": "3",
+            "release_date": "2021-08-03",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi"
+            ],
+            "duration": 177875,
+            "acousticness": 0.101,
+            "danceability": 9.127,
+            "instrumentalness": 1.18e-05,
+            "liveness": 0.109,
+            "loudness": -9.638,
+            "speechiness": 0.126,
+            "time_signature": 4,
+            "happiness": 3.43
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "STAY (with Justin Bieber)",
+        "Artist": "The Kid LAROI, Justin Bieber",
+        "Key": "3B",
+        "Energy": 7.876,
+        "Popularity": 8.83,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Pop",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5HCyWlXZPP0y6Gqq8TgA20",
+            "explicit": true,
+            "album": "STAY (with Justin Bieber)",
+            "release_date": "2021-07-09",
+            "genres": [
+                "australian hip hop",
+                "canadian pop",
+                "pop"
+            ],
+            "duration": 141806,
+            "acousticness": 0.0383,
+            "danceability": 6.319,
+            "instrumentalness": 0,
+            "liveness": 0.103,
+            "loudness": -5.484,
+            "speechiness": 0.0483,
+            "time_signature": 4,
+            "happiness": 5.302
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "It's Raining Men",
+        "Artist": "The Weather Girls",
+        "Key": "7A",
+        "Energy": 9.325000000000001,
+        "Popularity": 6.31,
+        "BPM": 136,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "90s",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "5g6nzsOxwxdoj6sqAl0NXB",
+            "explicit": false,
+            "album": "The Best of Disco",
+            "release_date": "1996-11-25",
+            "genres": [
+                "disco",
+                "hi-nrg"
+            ],
+            "duration": 211013,
+            "acousticness": 0.315,
+            "danceability": 7.138000000000001,
+            "instrumentalness": 0.000718,
+            "liveness": 0.702,
+            "loudness": -5.896,
+            "speechiness": 0.121,
+            "time_signature": 4,
+            "happiness": 6.499
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Sucks to Know You (FU)",
+        "Artist": "Mergui",
+        "Key": "6A",
+        "Energy": 4.879,
+        "Popularity": 5.2299999999999995,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6nwFh4WrPiqYV79nY4fHPA",
+            "explicit": true,
+            "album": "Sucks to Know You (FU)",
+            "release_date": "2022-07-15",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 118233,
+            "acousticness": 0.103,
+            "danceability": 6.255999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.12,
+            "loudness": -6.57,
+            "speechiness": 0.0427,
+            "time_signature": 4,
+            "happiness": 6.805
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "MONTERO (Call Me By Your Name)",
+        "Artist": "Lil Nas X",
+        "Key": "4A",
+        "Energy": 5.572,
+        "Popularity": 7.93,
+        "BPM": 89,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Happy",
+            "Hip Hop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "67BtfxlNbhBmCDR2L2l8qd",
+            "explicit": true,
+            "album": "MONTERO (Call Me By Your Name)",
+            "release_date": "2021-03-31",
+            "genres": [
+                "lgbtq+ hip hop"
+            ],
+            "duration": 137876,
+            "acousticness": 0.297,
+            "danceability": 6.49,
+            "instrumentalness": 0,
+            "liveness": 0.384,
+            "loudness": -6.682,
+            "speechiness": 0.152,
+            "time_signature": 4,
+            "happiness": 7.822
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "פעמון",
+        "Artist": "Noa Kirel, Itay Galo",
+        "Key": "12B",
+        "Energy": 6.382,
+        "Popularity": 5.5,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4DgyTAwiSJsT5u5EljsImB",
+            "explicit": false,
+            "album": "פעמון",
+            "release_date": "2022-03-22",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 180984,
+            "acousticness": 0.0917,
+            "danceability": 8.398,
+            "instrumentalness": 0.00107,
+            "liveness": 0.0905,
+            "loudness": -6.463,
+            "speechiness": 0.0442,
+            "time_signature": 4,
+            "happiness": 6.22
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "לא להיות לבד",
+        "Artist": "Mergui",
+        "Key": "3B",
+        "Energy": 9.1,
+        "Popularity": 5.41,
+        "BPM": 145,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3R07e1YzlIJATTjA3aT0Et",
+            "explicit": false,
+            "album": "לא להיות לבד",
+            "release_date": "2021-10-21",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 180000,
+            "acousticness": 0.000128,
+            "danceability": 6.022,
+            "instrumentalness": 0.00122,
+            "liveness": 0.0421,
+            "loudness": -4.78,
+            "speechiness": 0.0387,
+            "time_signature": 4,
+            "happiness": 9.693999999999999
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "אנג'ל",
+        "Artist": "Mergui",
+        "Key": "10B",
+        "Energy": 6.481,
+        "Popularity": 4.24,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2KpvlQWTbTvTuj4hfsrUSy",
+            "explicit": false,
+            "album": "אנג'ל",
+            "release_date": "2021-07-04",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 198000,
+            "acousticness": 0.102,
+            "danceability": 5.914000000000001,
+            "instrumentalness": 3.21e-05,
+            "liveness": 0.0778,
+            "loudness": -5.711,
+            "speechiness": 0.0632,
+            "time_signature": 4,
+            "happiness": 4.402
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "לך לישון",
+        "Artist": "Anna Zak",
+        "Key": "11A",
+        "Energy": 6.859,
+        "Popularity": 5.59,
+        "BPM": 117,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3fCS3m3uWUgAFm3purs15C",
+            "explicit": false,
+            "album": "לך לישון",
+            "release_date": "2022-01-02",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 158590,
+            "acousticness": 0.0245,
+            "danceability": 7.921,
+            "instrumentalness": 0,
+            "liveness": 0.323,
+            "loudness": -8.138,
+            "speechiness": 0.0422,
+            "time_signature": 4,
+            "happiness": 5.932
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "Hold Me Closer",
+        "Artist": "Elton John, Britney Spears",
+        "Key": "8B",
+        "Energy": 7.75,
+        "Popularity": 8.290000000000001,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Rock",
+            "Calm",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "72yP0DUlWPyH8P7IoxskwN",
+            "explicit": false,
+            "album": "Hold Me Closer",
+            "release_date": "2022-08-26",
+            "genres": [
+                "glam rock",
+                "mellow gold",
+                "piano rock",
+                "rock",
+                "dance pop",
+                "pop"
+            ],
+            "duration": 202246,
+            "acousticness": 0.0746,
+            "danceability": 7.003,
+            "instrumentalness": 0.000198,
+            "liveness": 0.197,
+            "loudness": -4.602,
+            "speechiness": 0.0906,
+            "time_signature": 4,
+            "happiness": 5.374
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Levitating (feat. DaBaby)",
+        "Artist": "Dua Lipa, DaBaby",
+        "Key": "2A",
+        "Energy": 8.425,
+        "Popularity": 8.74,
+        "BPM": 103,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Pop",
+            "Hip Hop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5nujrmhLynf4yMoMtj8AQF",
+            "explicit": false,
+            "album": "Future Nostalgia",
+            "release_date": "2020-03-27",
+            "genres": [
+                "dance pop",
+                "pop",
+                "uk pop",
+                "hip hop",
+                "north carolina hip hop",
+                "rap"
+            ],
+            "duration": 203064,
+            "acousticness": 0.00883,
+            "danceability": 7.318,
+            "instrumentalness": 0,
+            "liveness": 0.0674,
+            "loudness": -3.787,
+            "speechiness": 0.0601,
+            "time_signature": 4,
+            "happiness": 9.235
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "Do It To It",
+        "Artist": "ACRAZE, Cherish",
+        "Key": "1A",
+        "Energy": 8.254000000000001,
+        "Popularity": 8.469999999999999,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "EDM",
+            "Girl Power",
+            "Club-Hotel",
+            "Hip Hop",
+            "Happy",
+            "Pop",
+            "Dance Remixes",
+            "Romantic & Slow Dance"
+        ],
+        "Additional Info": {
+            "id": "20on25jryn53hWghthWWW3",
+            "explicit": false,
+            "album": "Do It To It",
+            "release_date": "2021-08-20",
+            "genres": [
+                "pop dance",
+                "tech house",
+                "atl hip hop",
+                "girl group",
+                "hip pop",
+                "r&b",
+                "southern hip hop",
+                "urban contemporary"
+            ],
+            "duration": 157890,
+            "acousticness": 0.0209,
+            "danceability": 8.686,
+            "instrumentalness": 0.0542,
+            "liveness": 0.0703,
+            "loudness": -8.262,
+            "speechiness": 0.0886,
+            "time_signature": 4,
+            "happiness": 6.7330000000000005
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
+        "Artist": "Riton, Nightcrawlers, Mufasa & Hypeman, Dopamine",
+        "Key": "10B",
+        "Energy": 8.758,
+        "Popularity": 8.379999999999999,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Dance Remixes",
+            "EDM",
+            "Pop",
+            "Club-Hotel",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4cG7HUWYHBV6R6tHn1gxrl",
+            "explicit": false,
+            "album": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
+            "release_date": "2021-01-15",
+            "genres": [
+                "house",
+                "pop dance",
+                "uk dance",
+                "disco house",
+                "hip house",
+                "uk dance",
+                "vocal house"
+            ],
+            "duration": 169153,
+            "acousticness": 0.0076,
+            "danceability": 8.416,
+            "instrumentalness": 0.000132,
+            "liveness": 0.303,
+            "loudness": -3.424,
+            "speechiness": 0.126,
+            "time_signature": 4,
+            "happiness": 8.209
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Love Tonight (Edit)",
+        "Artist": "Shouse",
+        "Key": "7A",
+        "Energy": 7.1290000000000004,
+        "Popularity": 7.93,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "6OufwUcCqo81guU2jAlDVP",
+            "explicit": false,
+            "album": "Love Tonight",
+            "release_date": "2017-12-14",
+            "genres": [
+                "aussietronica"
+            ],
+            "duration": 241970,
+            "acousticness": 0.00214,
+            "danceability": 7.543,
+            "instrumentalness": 0.000307,
+            "liveness": 0.0861,
+            "loudness": -7.114,
+            "speechiness": 0.0265,
+            "time_signature": 4,
+            "happiness": 5.032
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "אחותי כבר לא סובלת אותך",
+        "Artist": "Shira Margalit",
+        "Key": "9B",
+        "Energy": 6.499,
+        "Popularity": 5.95,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6clAq1cGO4PYimAmzelTmL",
+            "explicit": false,
+            "album": "אחותי כבר לא סובלת אותך",
+            "release_date": "2022-11-20",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 181760,
+            "acousticness": 0.166,
+            "danceability": 7.255,
+            "instrumentalness": 0,
+            "liveness": 0.138,
+            "loudness": -3.976,
+            "speechiness": 0.223,
+            "time_signature": 4,
+            "happiness": 5.0680000000000005
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "Hips Don't Lie (feat. Wyclef Jean)",
+        "Artist": "Shakira, Wyclef Jean",
+        "Key": "6A",
+        "Energy": 8.416,
+        "Popularity": 8.83,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Latin",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3ZFTkvIE7kyPt6Nu3PEa7V",
+            "explicit": false,
+            "album": "Oral Fixation, Vol. 2 (Expanded Edition)",
+            "release_date": "2005-11-28",
+            "genres": [
+                "colombian pop",
+                "dance pop",
+                "latin pop",
+                "pop",
+                "rap kreyol"
+            ],
+            "duration": 218093,
+            "acousticness": 0.284,
+            "danceability": 8.002,
+            "instrumentalness": 0,
+            "liveness": 0.405,
+            "loudness": -5.892,
+            "speechiness": 0.0707,
+            "time_signature": 4,
+            "happiness": 7.822
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "חייב למות עליי",
+        "Artist": "Hamsa",
+        "Key": "9B",
+        "Energy": 9.541,
+        "Popularity": 4.33,
+        "BPM": 112,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "04kDcHQzi9kmtl4ViObM2B",
+            "explicit": false,
+            "album": "חמסה",
+            "release_date": "2003-01-01",
+            "genres": [
+                "festigal"
+            ],
+            "duration": 200480,
+            "acousticness": 0.101,
+            "danceability": 7.867,
+            "instrumentalness": 1.19e-05,
+            "liveness": 0.302,
+            "loudness": -3.921,
+            "speechiness": 0.0306,
+            "time_signature": 4,
+            "happiness": 9.145
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "בשורות טובות",
+        "Artist": "Agam Buhbut, הפשוטע",
+        "Key": "1A",
+        "Energy": 7.5249999999999995,
+        "Popularity": 5.140000000000001,
+        "BPM": 134,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "5dUG9RrLElsi2sxJAhVUZJ",
+            "explicit": false,
+            "album": "בשורות טובות",
+            "release_date": "2022-06-06",
+            "genres": [
+                "israeli mediterranean"
+            ],
+            "duration": 174739,
+            "acousticness": 0.197,
+            "danceability": 7.705,
+            "instrumentalness": 0.211,
+            "liveness": 0.101,
+            "loudness": -6.25,
+            "speechiness": 0.0361,
+            "time_signature": 4,
+            "happiness": 6.985
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "עולה על שולחנות",
+        "Artist": "Marina Maximilian, Itay Galo",
+        "Key": "12A",
+        "Energy": 8.047,
+        "Popularity": 5.95,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5tNrVA1ySsk7HkV5yg2iXN",
+            "explicit": false,
+            "album": "עולה על שולחנות",
+            "release_date": "2022-07-12",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 196320,
+            "acousticness": 0.123,
+            "danceability": 8.425,
+            "instrumentalness": 0.00117,
+            "liveness": 0.117,
+            "loudness": -6.674,
+            "speechiness": 0.0452,
+            "time_signature": 4,
+            "happiness": 6.868
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Roses - Imanbek Remix",
+        "Artist": "SAINt JHN",
+        "Key": "4B",
+        "Energy": 7.489,
+        "Popularity": 4.6,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "EDM",
+            "Hip Hop",
+            "Club-Hotel",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6e6be6hyp6QXrAlzCUFzSL",
+            "explicit": false,
+            "album": "Roses (Imanbek Remix)",
+            "release_date": "2019-05-04",
+            "genres": [
+                "melodic rap",
+                "slap house"
+            ],
+            "duration": 176219,
+            "acousticness": 0.0149,
+            "danceability": 8.056000000000001,
+            "instrumentalness": 0.00424,
+            "liveness": 0.285,
+            "loudness": -5.457,
+            "speechiness": 0.0506,
+            "time_signature": 4,
+            "happiness": 9.055
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "קוביד 19",
+        "Artist": "Nunu",
+        "Key": "3B",
+        "Energy": 4.186,
+        "Popularity": 4.6899999999999995,
+        "BPM": 117,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7dEtCKY2MthcyP0U6aiMCW",
+            "explicit": false,
+            "album": "סטטוס",
+            "release_date": "2022-07-18",
+            "genres": [
+                "israeli hip hop"
+            ],
+            "duration": 142386,
+            "acousticness": 0.0201,
+            "danceability": 9.676,
+            "instrumentalness": 0,
+            "liveness": 0.0861,
+            "loudness": -9.213,
+            "speechiness": 0.0646,
+            "time_signature": 4,
+            "happiness": 7.804
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "Pepas",
+        "Artist": "Farruko",
+        "Key": "9B",
+        "Energy": 7.894,
+        "Popularity": 8.649999999999999,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Latin",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5fwSHlTEWpluwOM0Sxnh5k",
+            "explicit": true,
+            "album": "Pepas",
+            "release_date": "2021-06-24",
+            "genres": [
+                "reggaeton",
+                "trap latino",
+                "urbano latino"
+            ],
+            "duration": 287120,
+            "acousticness": 0.00776,
+            "danceability": 7.8580000000000005,
+            "instrumentalness": 6.98e-05,
+            "liveness": 0.128,
+            "loudness": -3.955,
+            "speechiness": 0.0343,
+            "time_signature": 4,
+            "happiness": 4.978
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "Bad Habits",
+        "Artist": "Ed Sheeran",
+        "Key": "1A",
+        "Energy": 9.073,
+        "Popularity": 3.34,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6PQ88X9TkUIAUIZJHW2upE",
+            "explicit": false,
+            "album": "Bad Habits",
+            "release_date": "2021-06-25",
+            "genres": [
+                "pop",
+                "uk pop"
+            ],
+            "duration": 231041,
+            "acousticness": 0.0469,
+            "danceability": 8.272,
+            "instrumentalness": 3.14e-05,
+            "liveness": 0.364,
+            "loudness": -3.712,
+            "speechiness": 0.0348,
+            "time_signature": 4,
+            "happiness": 6.319
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "אסור",
+        "Artist": "Mergui",
+        "Key": "9A",
+        "Energy": 6.454,
+        "Popularity": 4.87,
+        "BPM": 76,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5MSnQx4WDgSh8kdCz4pnuj",
+            "explicit": false,
+            "album": "מה יהיה",
+            "release_date": "2019-09-15",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 187554,
+            "acousticness": 0.244,
+            "danceability": 7.147,
+            "instrumentalness": 0,
+            "liveness": 0.057,
+            "loudness": -6.149,
+            "speechiness": 0.113,
+            "time_signature": 4,
+            "happiness": 4.573
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+        "Artist": "ABBA",
+        "Key": "6B",
+        "Energy": 5.419,
+        "Popularity": 8.469999999999999,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "70s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3vkQ5DAB1qQMYO4Mr9zJN6",
+            "explicit": false,
+            "album": "Voulez-Vous",
+            "release_date": "1979",
+            "genres": [
+                "europop",
+                "swedish pop"
+            ],
+            "duration": 292613,
+            "acousticness": 0.02,
+            "danceability": 7.741,
+            "instrumentalness": 0.00899,
+            "liveness": 0.159,
+            "loudness": -9.655,
+            "speechiness": 0.0403,
+            "time_signature": 4,
+            "happiness": 5.824
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "I'm Good (Blue)",
+        "Artist": "David Guetta, Bebe Rexha",
+        "Key": "9A",
+        "Energy": 9.685,
+        "Popularity": 9.549999999999999,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Dance Remixes",
+            "EDM",
+            "Pop",
+            "Club-Hotel",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4uUG5RXrOk84mYEfFvj3cK",
+            "explicit": true,
+            "album": "I'm Good (Blue)",
+            "release_date": "2022-08-26",
+            "genres": [
+                "big room",
+                "dance pop",
+                "edm",
+                "pop",
+                "pop dance",
+                "dance pop",
+                "pop"
+            ],
+            "duration": 175238,
+            "acousticness": 0.00383,
+            "danceability": 6.049,
+            "instrumentalness": 7.07e-06,
+            "liveness": 0.371,
+            "loudness": -3.673,
+            "speechiness": 0.0343,
+            "time_signature": 4,
+            "happiness": 3.7359999999999998
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "About Damn Time - Purple Disco Machine Remix",
+        "Artist": "Lizzo, Purple Disco Machine",
+        "Key": "6A",
+        "Energy": 7.939,
+        "Popularity": 7.209999999999999,
+        "BPM": 119,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "EDM",
+            "Club-Hotel",
+            "Hip Hop",
+            "Calm",
+            "Pop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4WIaDYUIlXsHi4yMF596aI",
+            "explicit": true,
+            "album": "About Damn Time (Purple Disco Machine Remix)",
+            "release_date": "2022-05-18",
+            "genres": [
+                "escape room",
+                "minnesota hip hop",
+                "pop",
+                "trap queen",
+                "deep house",
+                "house"
+            ],
+            "duration": 218476,
+            "acousticness": 0.0531,
+            "danceability": 8.2,
+            "instrumentalness": 0,
+            "liveness": 0.229,
+            "loudness": -6.638,
+            "speechiness": 0.123,
+            "time_signature": 4,
+            "happiness": 8.974
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "Me Gustas Tu",
+        "Artist": "Manu Chao",
+        "Key": "1A",
+        "Energy": 7.669,
+        "Popularity": 8.649999999999999,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Latin",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6b37xrsNCWYIUphFBazqD6",
+            "explicit": false,
+            "album": "Próxima Estación: Esperanza",
+            "release_date": "2001-06-01",
+            "genres": [
+                "latin alternative",
+                "world"
+            ],
+            "duration": 239987,
+            "acousticness": 0.663,
+            "danceability": 6.913,
+            "instrumentalness": 0.494,
+            "liveness": 0.222,
+            "loudness": -6.822,
+            "speechiness": 0.0825,
+            "time_signature": 4,
+            "happiness": 9.172
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "ב.מ.וו. שחורה",
+        "Artist": "Ethnix",
+        "Key": "11A",
+        "Energy": 8.902000000000001,
+        "Popularity": 4.51,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "90s",
+            "Mizrahit",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4iTXVDvJIcFtSqvshO4JPA",
+            "explicit": false,
+            "album": "ברוכים הבאים לישראל",
+            "release_date": "1998-01-01",
+            "genres": [
+                "classic israeli pop",
+                "mizrahi"
+            ],
+            "duration": 210867,
+            "acousticness": 0.0849,
+            "danceability": 7.4079999999999995,
+            "instrumentalness": 4.5e-05,
+            "liveness": 0.0392,
+            "loudness": -5.308,
+            "speechiness": 0.0336,
+            "time_signature": 4,
+            "happiness": 9.783999999999999
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "Hold On",
+        "Artist": "Justin Bieber",
+        "Key": "3A",
+        "Energy": 6.706,
+        "Popularity": 7.84,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1nahzW3kfMuwReTka28tH5",
+            "explicit": false,
+            "album": "Justice",
+            "release_date": "2021-03-19",
+            "genres": [
+                "canadian pop",
+                "pop"
+            ],
+            "duration": 170813,
+            "acousticness": 0.0104,
+            "danceability": 6.922000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.12,
+            "loudness": -6.068,
+            "speechiness": 0.0431,
+            "time_signature": 4,
+            "happiness": 3.718
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "סיוופלה",
+        "Artist": "Nunu, TOX1C",
+        "Key": "11B",
+        "Energy": 7.732,
+        "Popularity": 5.140000000000001,
+        "BPM": 132,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "3xoOOmHo07QA9Q7ng1aplW",
+            "explicit": false,
+            "album": "סיוופלה",
+            "release_date": "2022-10-24",
+            "genres": [
+                "israeli hip hop"
+            ],
+            "duration": 143636,
+            "acousticness": 0.033,
+            "danceability": 8.992,
+            "instrumentalness": 0.00863,
+            "liveness": 0.0928,
+            "loudness": -5.044,
+            "speechiness": 0.142,
+            "time_signature": 4,
+            "happiness": 4.4559999999999995
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "מי זאת",
+        "Artist": "Anna Zak",
+        "Key": "6A",
+        "Energy": 5.086,
+        "Popularity": 5.68,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3iJQ54fGO6CyP374UzvDJu",
+            "explicit": false,
+            "album": "מי זאת",
+            "release_date": "2022-05-22",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 146990,
+            "acousticness": 0.192,
+            "danceability": 8.92,
+            "instrumentalness": 4.36e-06,
+            "liveness": 0.0786,
+            "loudness": -8.404,
+            "speechiness": 0.0865,
+            "time_signature": 4,
+            "happiness": 6.724
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "פנתרה",
+        "Artist": "Noa Kirel",
+        "Key": "11A",
+        "Energy": 6.823,
+        "Popularity": 6.3999999999999995,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5A3bEckI7AjWTguGqZOzUm",
+            "explicit": false,
+            "album": "פנתרה",
+            "release_date": "2022-08-11",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 173603,
+            "acousticness": 0.0588,
+            "danceability": 8.488,
+            "instrumentalness": 0.0014,
+            "liveness": 0.411,
+            "loudness": -7.954,
+            "speechiness": 0.0755,
+            "time_signature": 4,
+            "happiness": 5.3919999999999995
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "ליבינג דה דרים",
+        "Artist": "Nunu",
+        "Key": "8B",
+        "Energy": 4.582000000000001,
+        "Popularity": 4.87,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "6so2IwKQyYFkNv1G0FrZ95",
+            "explicit": false,
+            "album": "ליבינג דה דרים",
+            "release_date": "2021-12-07",
+            "genres": [
+                "israeli hip hop"
+            ],
+            "duration": 175743,
+            "acousticness": 0.0344,
+            "danceability": 8.370999999999999,
+            "instrumentalness": 0.000524,
+            "liveness": 0.0563,
+            "loudness": -12.517,
+            "speechiness": 0.0802,
+            "time_signature": 4,
+            "happiness": 4.726
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "abcdefu",
+        "Artist": "GAYLE",
+        "Key": "12B",
+        "Energy": 5.86,
+        "Popularity": 8.559999999999999,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4fouWK6XVHhzl78KzQ1UjL",
+            "explicit": true,
+            "album": "abcdefu",
+            "release_date": "2021-08-13",
+            "genres": [
+                "modern alternative pop"
+            ],
+            "duration": 168602,
+            "acousticness": 0.299,
+            "danceability": 7.255,
+            "instrumentalness": 0,
+            "liveness": 0.367,
+            "loudness": -5.692,
+            "speechiness": 0.0493,
+            "time_signature": 4,
+            "happiness": 4.734999999999999
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "חגיגה",
+        "Artist": "Sarit Hadad",
+        "Key": "7A",
+        "Energy": 9.037,
+        "Popularity": 1.0,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Mizrahit",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7eGoabceBVs2MEf2Z1VNqL",
+            "explicit": false,
+            "album": "חגיגה",
+            "release_date": "2004-07-28",
+            "genres": [
+                "festigal",
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi"
+            ],
+            "duration": 253440,
+            "acousticness": 0.185,
+            "danceability": 7.579,
+            "instrumentalness": 0,
+            "liveness": 0.194,
+            "loudness": -2.836,
+            "speechiness": 0.0496,
+            "time_signature": 4,
+            "happiness": 8.128
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "DÁKITI",
+        "Artist": "Bad Bunny, Jhayco",
+        "Key": "12A",
+        "Energy": 6.157,
+        "Popularity": 8.469999999999999,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Latin",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "47EiUVwUp4C9fGccaPuUCS",
+            "explicit": true,
+            "album": "DÁKITI",
+            "release_date": "2020-10-30",
+            "genres": [
+                "reggaeton",
+                "trap latino",
+                "urbano latino",
+                "reggaeton",
+                "trap latino",
+                "urbano latino"
+            ],
+            "duration": 205090,
+            "acousticness": 0.401,
+            "danceability": 7.579,
+            "instrumentalness": 5.22e-05,
+            "liveness": 0.113,
+            "loudness": -10.059,
+            "speechiness": 0.0544,
+            "time_signature": 4,
+            "happiness": 2.3049999999999997
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "Cold Heart - PNAU Remix",
+        "Artist": "Elton John, Dua Lipa, PNAU",
+        "Key": "3B",
+        "Energy": 8.2,
+        "Popularity": 8.469999999999999,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "EDM",
+            "Rock",
+            "Calm",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6JIC3hbC28JZKZ8AlAqX8h",
+            "explicit": false,
+            "album": "The Lockdown Sessions",
+            "release_date": "2021-10-22",
+            "genres": [
+                "glam rock",
+                "mellow gold",
+                "piano rock",
+                "rock",
+                "dance pop",
+                "pop",
+                "uk pop",
+                "alternative dance",
+                "aussietronica",
+                "australian dance",
+                "australian electropop"
+            ],
+            "duration": 202735,
+            "acousticness": 0.0354,
+            "danceability": 8.155000000000001,
+            "instrumentalness": 7.25e-05,
+            "liveness": 0.0915,
+            "loudness": -6.32,
+            "speechiness": 0.0309,
+            "time_signature": 4,
+            "happiness": 9.406
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "On My Mind",
+        "Artist": "Diplo, SIDEPIECE",
+        "Key": "9B",
+        "Energy": 7.579,
+        "Popularity": 6.67,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "EDM",
+            "Latin",
+            "Club-Hotel",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "5lXY6PTuWXOludKy4zDQwM",
+            "explicit": false,
+            "album": "On My Mind",
+            "release_date": "2019-12-13",
+            "genres": [
+                "edm",
+                "electro house",
+                "moombahton",
+                "pop dance",
+                "edm",
+                "tech house"
+            ],
+            "duration": 189268,
+            "acousticness": 0.00165,
+            "danceability": 7.939,
+            "instrumentalness": 0.633,
+            "liveness": 0.217,
+            "loudness": -6.574,
+            "speechiness": 0.0409,
+            "time_signature": 4,
+            "happiness": 6.715
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "Woman",
+        "Artist": "Doja Cat",
+        "Key": "7A",
+        "Energy": 7.876,
+        "Popularity": 8.83,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Pop",
+            "Dance Remixes",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6Uj1ctrBOjOas8xZXGqKk4",
+            "explicit": true,
+            "album": "Planet Her",
+            "release_date": "2021-06-25",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 172627,
+            "acousticness": 0.0888,
+            "danceability": 8.416,
+            "instrumentalness": 0.00294,
+            "liveness": 0.117,
+            "loudness": -4.175,
+            "speechiness": 0.0854,
+            "time_signature": 4,
+            "happiness": 8.929
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "Gasolina",
+        "Artist": "Daddy Yankee",
+        "Key": "8B",
+        "Energy": 8.173,
+        "Popularity": 8.559999999999999,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Latin",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "228BxWXUYQPJrJYHDLOHkj",
+            "explicit": false,
+            "album": "Barrio Fino (Bonus Track Version)",
+            "release_date": "2004-07-13",
+            "genres": [
+                "latin hip hop",
+                "reggaeton",
+                "trap latino",
+                "urbano latino"
+            ],
+            "duration": 192600,
+            "acousticness": 0.322,
+            "danceability": 8.668,
+            "instrumentalness": 2.69e-06,
+            "liveness": 0.0845,
+            "loudness": -6.543,
+            "speechiness": 0.0614,
+            "time_signature": 4,
+            "happiness": 7.669
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "מגבת באוויר",
+        "Artist": "NOROZ, Ido B & Zooki",
+        "Key": "8B",
+        "Energy": 9.046,
+        "Popularity": 4.779999999999999,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "7qCwgzeZQbNp6VHt9wz8i7",
+            "explicit": false,
+            "album": "מגבת באוויר",
+            "release_date": "2020-07-06",
+            "genres": [
+                "israeli hip hop",
+                "israeli trap",
+                "israeli hip hop",
+                "israeli trap"
+            ],
+            "duration": 171200,
+            "acousticness": 0.146,
+            "danceability": 7.183000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.082,
+            "loudness": -3.436,
+            "speechiness": 0.172,
+            "time_signature": 4,
+            "happiness": 5.968
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "Don't Go Yet",
+        "Artist": "Camila Cabello",
+        "Key": "6A",
+        "Energy": 8.164000000000001,
+        "Popularity": 7.66,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "1058fW9H3fZA6QjYCdOBad",
+            "explicit": false,
+            "album": "Don't Go Yet",
+            "release_date": "2021-07-23",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 164842,
+            "acousticness": 0.0492,
+            "danceability": 6.994000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0442,
+            "loudness": -6.967,
+            "speechiness": 0.103,
+            "time_signature": 4,
+            "happiness": 6.49
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "THATS WHAT I WANT",
+        "Artist": "Lil Nas X",
+        "Key": "3A",
+        "Energy": 8.614,
+        "Popularity": 8.559999999999999,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Happy",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0e8nrvls4Qqv5Rfa2UhqmO",
+            "explicit": true,
+            "album": "MONTERO",
+            "release_date": "2021-09-17",
+            "genres": [
+                "lgbtq+ hip hop"
+            ],
+            "duration": 143901,
+            "acousticness": 0.00614,
+            "danceability": 7.633,
+            "instrumentalness": 0,
+            "liveness": 0.0486,
+            "loudness": -4.51,
+            "speechiness": 0.22,
+            "time_signature": 4,
+            "happiness": 5.914000000000001
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "Con Calma",
+        "Artist": "Daddy Yankee, Snow",
+        "Key": "4A",
+        "Energy": 8.74,
+        "Popularity": 8.290000000000001,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Latin",
+            "Hip Hop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "5w9c2J52mkdntKOmRLeM2m",
+            "explicit": false,
+            "album": "Con Calma",
+            "release_date": "2019-01-24",
+            "genres": [
+                "latin hip hop",
+                "reggaeton",
+                "trap latino",
+                "urbano latino",
+                "canadian old school hip hop",
+                "reggae fusion"
+            ],
+            "duration": 193227,
+            "acousticness": 0.11,
+            "danceability": 7.633,
+            "instrumentalness": 1.94e-06,
+            "liveness": 0.0574,
+            "loudness": -2.652,
+            "speechiness": 0.0593,
+            "time_signature": 4,
+            "happiness": 6.904
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "Save Your Tears (with Ariana Grande) (Remix)",
+        "Artist": "The Weeknd, Ariana Grande",
+        "Key": "8B",
+        "Energy": 8.425,
+        "Popularity": 8.469999999999999,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Pop",
+            "Romantic & Slow Dance"
+        ],
+        "Additional Info": {
+            "id": "37BZB0z9T8Xu7U3e65qxFy",
+            "explicit": false,
+            "album": "Save Your Tears (Remix)",
+            "release_date": "2021-04-23",
+            "genres": [
+                "canadian contemporary r&b",
+                "canadian pop",
+                "pop",
+                "pop"
+            ],
+            "duration": 191014,
+            "acousticness": 0.0215,
+            "danceability": 6.8500000000000005,
+            "instrumentalness": 2.44e-05,
+            "liveness": 0.0936,
+            "loudness": -4.645,
+            "speechiness": 0.0325,
+            "time_signature": 4,
+            "happiness": 6.337
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "Something",
+        "Artist": "Lasgo",
+        "Key": "9A",
+        "Energy": 9.829,
+        "Popularity": 7.209999999999999,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Happy",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "3e9L9HiHKcfYLAga28Vmcf",
+            "explicit": false,
+            "album": "Some Things",
+            "release_date": "2001",
+            "genres": [
+                "belgian dance",
+                "belgian pop",
+                "eurodance"
+            ],
+            "duration": 220973,
+            "acousticness": 0.0271,
+            "danceability": 6.796,
+            "instrumentalness": 9.67e-05,
+            "liveness": 0.11,
+            "loudness": -6.644,
+            "speechiness": 0.0439,
+            "time_signature": 4,
+            "happiness": 4.411
+        }
+    },
+    {
+        "#": 58,
+        "Track Title": "Bam Bam (feat. Ed Sheeran)",
+        "Artist": "Camila Cabello, Ed Sheeran",
+        "Key": "4B",
+        "Energy": 7.273,
+        "Popularity": 8.379999999999999,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0QBzMgT7NIeoCYy3sJCof1",
+            "explicit": false,
+            "album": "Bam Bam (feat. Ed Sheeran)",
+            "release_date": "2022-03-04",
+            "genres": [
+                "dance pop",
+                "pop",
+                "pop",
+                "uk pop"
+            ],
+            "duration": 206071,
+            "acousticness": 0.182,
+            "danceability": 7.804,
+            "instrumentalness": 0,
+            "liveness": 0.333,
+            "loudness": -6.377,
+            "speechiness": 0.0401,
+            "time_signature": 4,
+            "happiness": 9.604
+        }
+    },
+    {
+        "#": 59,
+        "Track Title": "Doja",
+        "Artist": "Central Cee",
+        "Key": "2B",
+        "Energy": 6.157,
+        "Popularity": 8.74,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3LtpKP5abr2qqjunvjlX5i",
+            "explicit": true,
+            "album": "Doja",
+            "release_date": "2022-07-21",
+            "genres": [
+                "melodic drill"
+            ],
+            "duration": 97393,
+            "acousticness": 0.38,
+            "danceability": 9.199,
+            "instrumentalness": 0,
+            "liveness": 0.403,
+            "loudness": -7.43,
+            "speechiness": 0.288,
+            "time_signature": 4,
+            "happiness": 9.748
+        }
+    },
+    {
+        "#": 60,
+        "Track Title": "Music",
+        "Artist": "Madonna",
+        "Key": "9B",
+        "Energy": 8.218,
+        "Popularity": 6.58,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2fzykVsO2Di5jnofUNX3YE",
+            "explicit": false,
+            "album": "Music",
+            "release_date": "2000-09-19",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 225973,
+            "acousticness": 0.00149,
+            "danceability": 7.624,
+            "instrumentalness": 0.0876,
+            "liveness": 0.14,
+            "loudness": -8.527,
+            "speechiness": 0.0663,
+            "time_signature": 4,
+            "happiness": 8.839
+        }
+    },
+    {
+        "#": 61,
+        "Track Title": "Reina Gitana",
+        "Artist": "Teenangels, María Eugenia Suárez",
+        "Key": "3A",
+        "Energy": 8.847999999999999,
+        "Popularity": 4.96,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Latin",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5BbNdyTmY7DONFkTV6tuk3",
+            "explicit": false,
+            "album": "Teenangels",
+            "release_date": "2007-02-24",
+            "genres": [
+                "argentine telepop",
+                "latin viral pop"
+            ],
+            "duration": 231373,
+            "acousticness": 0.413,
+            "danceability": 7.380999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.271,
+            "loudness": -5.28,
+            "speechiness": 0.0906,
+            "time_signature": 4,
+            "happiness": 8.776
+        }
+    },
+    {
+        "#": 62,
+        "Track Title": "Cute Boy",
+        "Artist": "Nunu, Sagi Kariv, Forever Tel Aviv",
+        "Key": "3A",
+        "Energy": 8.2,
+        "Popularity": 5.5,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "7DS5SpsWS7rtKeAfe9rbfn",
+            "explicit": false,
+            "album": "Cute Boy",
+            "release_date": "2022-06-06",
+            "genres": [
+                "israeli hip hop",
+                "circuit"
+            ],
+            "duration": 185625,
+            "acousticness": 0.113,
+            "danceability": 7.912,
+            "instrumentalness": 0.000343,
+            "liveness": 0.549,
+            "loudness": -4.387,
+            "speechiness": 0.0913,
+            "time_signature": 4,
+            "happiness": 6.4719999999999995
+        }
+    },
+    {
+        "#": 63,
+        "Track Title": "Rasputin",
+        "Artist": "Majestic, Boney M.",
+        "Key": "2A",
+        "Energy": 9.217,
+        "Popularity": 8.2,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "EDM",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0b18g3G5spr4ZCkz7Y6Q0Q",
+            "explicit": false,
+            "album": "Rasputin",
+            "release_date": "2021-02-26",
+            "genres": [
+                "uk dance",
+                "europop"
+            ],
+            "duration": 186210,
+            "acousticness": 0.00364,
+            "danceability": 7.822,
+            "instrumentalness": 6.92e-05,
+            "liveness": 0.193,
+            "loudness": -2.926,
+            "speechiness": 0.113,
+            "time_signature": 4,
+            "happiness": 6.922000000000001
+        }
+    },
+    {
+        "#": 64,
+        "Track Title": "INDUSTRY BABY (feat. Jack Harlow)",
+        "Artist": "Lil Nas X, Jack Harlow",
+        "Key": "5A",
+        "Energy": 7.335999999999999,
+        "Popularity": 8.469999999999999,
+        "BPM": 150,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Mad",
+            "Happy",
+            "Pop",
+            "Hip Hop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "27NovPIUIRrOZoCHxABJwK",
+            "explicit": true,
+            "album": "INDUSTRY BABY (feat. Jack Harlow)",
+            "release_date": "2021-07-23",
+            "genres": [
+                "lgbtq+ hip hop",
+                "deep underground hip hop",
+                "kentucky hip hop",
+                "pop rap",
+                "rap"
+            ],
+            "duration": 212000,
+            "acousticness": 0.0203,
+            "danceability": 7.624,
+            "instrumentalness": 0,
+            "liveness": 0.0501,
+            "loudness": -7.409,
+            "speechiness": 0.0615,
+            "time_signature": 4,
+            "happiness": 9.046
+        }
+    },
+    {
+        "#": 65,
+        "Track Title": "Temperature",
+        "Artist": "Sean Paul",
+        "Key": "8A",
+        "Energy": 6.3999999999999995,
+        "Popularity": 8.379999999999999,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Pop",
+            "Hip Hop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0k2GOhqsrxDTAbFFSdNJjT",
+            "explicit": false,
+            "album": "The Trinity",
+            "release_date": "2005-09-26",
+            "genres": [
+                "dance pop",
+                "dancehall",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 218573,
+            "acousticness": 0.106,
+            "danceability": 9.559,
+            "instrumentalness": 0,
+            "liveness": 0.0712,
+            "loudness": -4.675,
+            "speechiness": 0.0685,
+            "time_signature": 4,
+            "happiness": 8.398
+        }
+    },
+    {
+        "#": 66,
+        "Track Title": "Party In The U.S.A.",
+        "Artist": "Miley Cyrus",
+        "Key": "6A",
+        "Energy": 7.282,
+        "Popularity": 8.469999999999999,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3E7dfMvvCLUddWissuqMwr",
+            "explicit": false,
+            "album": "The Time Of Our Lives (International Version)",
+            "release_date": "2009-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 202067,
+            "acousticness": 0.00112,
+            "danceability": 6.868,
+            "instrumentalness": 0.000115,
+            "liveness": 0.0886,
+            "loudness": -4.667,
+            "speechiness": 0.042,
+            "time_signature": 4,
+            "happiness": 5.2299999999999995
+        }
+    },
+    {
+        "#": 67,
+        "Track Title": "אפס מאמץ",
+        "Artist": "Static & Ben El, Netta",
+        "Key": "11A",
+        "Energy": 6.255999999999999,
+        "Popularity": 5.59,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2liUMhNvpAxRNVAGnz8jNJ",
+            "explicit": false,
+            "album": "שבעה ירחים",
+            "release_date": "2021-07-06",
+            "genres": [
+                "israeli pop",
+                "jewish pop",
+                "israeli pop"
+            ],
+            "duration": 200143,
+            "acousticness": 0.113,
+            "danceability": 8.623,
+            "instrumentalness": 0.0103,
+            "liveness": 0.0673,
+            "loudness": -6.289,
+            "speechiness": 0.0458,
+            "time_signature": 4,
+            "happiness": 6.364
+        }
+    },
+    {
+        "#": 68,
+        "Track Title": "Fiera Inquieta (Quien Es Ese Hombre) - Pasión De Gavilanes",
+        "Artist": "Lady Noriega",
+        "Key": "1B",
+        "Energy": 8.263000000000002,
+        "Popularity": 3.88,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3rVL0N2Fl8gex1da8OaIQc",
+            "explicit": false,
+            "album": "Pasión Popular",
+            "release_date": "2020-07-03",
+            "genres": [],
+            "duration": 183888,
+            "acousticness": 0.34,
+            "danceability": 6.652,
+            "instrumentalness": 0,
+            "liveness": 0.161,
+            "loudness": -5.278,
+            "speechiness": 0.0373,
+            "time_signature": 4,
+            "happiness": 7.732
+        }
+    },
+    {
+        "#": 69,
+        "Track Title": "Me Muero de Amor",
+        "Artist": "Natalia Oreiro",
+        "Key": "9B",
+        "Energy": 5.356,
+        "Popularity": 5.2299999999999995,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "90s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "43RkmILnITcWx7i95eoNVm",
+            "explicit": false,
+            "album": "Natalia Oreiro",
+            "release_date": "1997",
+            "genres": [
+                "pop argentino"
+            ],
+            "duration": 233960,
+            "acousticness": 0.879,
+            "danceability": 6.652,
+            "instrumentalness": 0,
+            "liveness": 0.342,
+            "loudness": -7.738,
+            "speechiness": 0.0303,
+            "time_signature": 4,
+            "happiness": 4.249
+        }
+    },
+    {
+        "#": 70,
+        "Track Title": "Cambio Dolor",
+        "Artist": "Natalia Oreiro",
+        "Key": "7B",
+        "Energy": 8.308,
+        "Popularity": 5.32,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "90s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4kreL49xOapJRVTKl2OcmQ",
+            "explicit": false,
+            "album": "Natalia Oreiro",
+            "release_date": "1997",
+            "genres": [
+                "pop argentino"
+            ],
+            "duration": 242600,
+            "acousticness": 0.448,
+            "danceability": 7.209999999999999,
+            "instrumentalness": 0.00333,
+            "liveness": 0.15,
+            "loudness": -5.616,
+            "speechiness": 0.0351,
+            "time_signature": 4,
+            "happiness": 8.911
+        }
+    },
+    {
+        "#": 71,
+        "Track Title": "Bonita de Más",
+        "Artist": "Erreway",
+        "Key": "9A",
+        "Energy": 9.352,
+        "Popularity": 5.5,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "4fwQV8RJIgVeAJiCD6jwi9",
+            "explicit": false,
+            "album": "Señales",
+            "release_date": "2002-02-24",
+            "genres": [
+                "argentine telepop",
+                "latin arena pop"
+            ],
+            "duration": 195240,
+            "acousticness": 0.119,
+            "danceability": 6.364,
+            "instrumentalness": 1.22e-05,
+            "liveness": 0.323,
+            "loudness": -4.436,
+            "speechiness": 0.165,
+            "time_signature": 4,
+            "happiness": 6.2379999999999995
+        }
+    },
+    {
+        "#": 72,
+        "Track Title": "Chiquititas Baila Así",
+        "Artist": "Chiquititas",
+        "Key": "1A",
+        "Energy": 6.372999999999999,
+        "Popularity": 2.98,
+        "BPM": 143,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "3NyBJmra5i53JAKR15fe1e",
+            "explicit": false,
+            "album": "Chiquititas, Vol. 7",
+            "release_date": "2001-02-10",
+            "genres": [],
+            "duration": 152773,
+            "acousticness": 0.00507,
+            "danceability": 6.454,
+            "instrumentalness": 0,
+            "liveness": 0.0606,
+            "loudness": -11.434,
+            "speechiness": 0.0346,
+            "time_signature": 4,
+            "happiness": 6.093999999999999
+        }
+    },
+    {
+        "#": 73,
+        "Track Title": "Será por Que Te Quiero",
+        "Artist": "Erreway",
+        "Key": "9B",
+        "Energy": 8.469999999999999,
+        "Popularity": 5.2299999999999995,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "619bd9F0Xe3QtxJjCNEWnP",
+            "explicit": false,
+            "album": "Señales",
+            "release_date": "2002-02-24",
+            "genres": [
+                "argentine telepop",
+                "latin arena pop"
+            ],
+            "duration": 201560,
+            "acousticness": 0.0829,
+            "danceability": 7.777,
+            "instrumentalness": 1.05e-05,
+            "liveness": 0.104,
+            "loudness": -7.009,
+            "speechiness": 0.0706,
+            "time_signature": 4,
+            "happiness": 6.58
+        }
+    },
+    {
+        "#": 74,
+        "Track Title": "Para Cosas Buenas",
+        "Artist": "Erreway",
+        "Key": "2A",
+        "Energy": 8.146,
+        "Popularity": 4.87,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0sI3JVHdTP52uW6zcH0kuk",
+            "explicit": false,
+            "album": "Tiempo",
+            "release_date": "2003-02-24",
+            "genres": [
+                "argentine telepop",
+                "latin arena pop"
+            ],
+            "duration": 190293,
+            "acousticness": 0.00266,
+            "danceability": 5.815,
+            "instrumentalness": 0,
+            "liveness": 0.343,
+            "loudness": -5.986,
+            "speechiness": 0.113,
+            "time_signature": 4,
+            "happiness": 9.316
+        }
+    },
+    {
+        "#": 75,
+        "Track Title": "Te Soñé",
+        "Artist": "Erreway",
+        "Key": "12B",
+        "Energy": 8.785,
+        "Popularity": 5.140000000000001,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "0Iaxfj8AJuYwKs2PlgV9nm",
+            "explicit": false,
+            "album": "Tiempo",
+            "release_date": "2003-02-24",
+            "genres": [
+                "argentine telepop",
+                "latin arena pop"
+            ],
+            "duration": 238387,
+            "acousticness": 0.053,
+            "danceability": 5.995,
+            "instrumentalness": 0,
+            "liveness": 0.154,
+            "loudness": -5.86,
+            "speechiness": 0.0692,
+            "time_signature": 4,
+            "happiness": 6.8500000000000005
+        }
+    },
+    {
+        "#": 76,
+        "Track Title": "What Dreams Are Made Of",
+        "Artist": "Hilary Duff",
+        "Key": "8A",
+        "Energy": 9.235,
+        "Popularity": 6.58,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Happy",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7J1S5n6Kn4wZEu6xrBT0gk",
+            "explicit": false,
+            "album": "The Lizzie McGuire Movie (Original Motion Picture Soundtrack)",
+            "release_date": "2003",
+            "genres": [
+                "dance pop",
+                "pop",
+                "post-teen pop"
+            ],
+            "duration": 242160,
+            "acousticness": 0.0131,
+            "danceability": 6.58,
+            "instrumentalness": 2.17e-05,
+            "liveness": 0.329,
+            "loudness": -4.353,
+            "speechiness": 0.0525,
+            "time_signature": 4,
+            "happiness": 8.137
+        }
+    },
+    {
+        "#": 77,
+        "Track Title": "Fergalicious",
+        "Artist": "Fergie, will.i.am",
+        "Key": "4A",
+        "Energy": 6.255999999999999,
+        "Popularity": 6.94,
+        "BPM": 129,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Pop",
+            "Dance Remixes",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6Q44rxzH39y2tjic98Spo5",
+            "explicit": true,
+            "album": "The Dutchess",
+            "release_date": "2006-09-13",
+            "genres": [
+                "dance pop",
+                "pop",
+                "dance pop",
+                "pop"
+            ],
+            "duration": 292373,
+            "acousticness": 0.0576,
+            "danceability": 9.154,
+            "instrumentalness": 0,
+            "liveness": 0.128,
+            "loudness": -7.72,
+            "speechiness": 0.316,
+            "time_signature": 4,
+            "happiness": 8.479
+        }
+    },
+    {
+        "#": 78,
+        "Track Title": "Baby Boy (feat. Sean Paul)",
+        "Artist": "Beyoncé, Sean Paul",
+        "Key": "3B",
+        "Energy": 5.302,
+        "Popularity": 7.209999999999999,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Hip Hop",
+            "Pop",
+            "Romantic & Slow Dance",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6dF5QhnUT1pjG0mDCbEYVf",
+            "explicit": false,
+            "album": "Dangerously In Love",
+            "release_date": "2003-03-10",
+            "genres": [
+                "pop",
+                "r&b",
+                "dance pop",
+                "dancehall",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 244867,
+            "acousticness": 0.0881,
+            "danceability": 7.201,
+            "instrumentalness": 2.45e-06,
+            "liveness": 0.357,
+            "loudness": -9.142,
+            "speechiness": 0.231,
+            "time_signature": 4,
+            "happiness": 7.966
+        }
+    },
+    {
+        "#": 79,
+        "Track Title": "Glamorous",
+        "Artist": "Fergie, Ludacris",
+        "Key": "8B",
+        "Energy": 7.813,
+        "Popularity": 7.03,
+        "BPM": 131,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "EDM",
+            "Hip Hop",
+            "Pop",
+            "Dance Remixes",
+            "Nostalgic",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4N0tDOF2bo9JEpSqLNlpjq",
+            "explicit": true,
+            "album": "The Dutchess",
+            "release_date": "2006-09-13",
+            "genres": [
+                "dance pop",
+                "pop",
+                "atl hip hop",
+                "dance pop",
+                "dirty south rap",
+                "hip hop",
+                "old school atlanta hip hop",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap"
+            ],
+            "duration": 246600,
+            "acousticness": 0.298,
+            "danceability": 8.299,
+            "instrumentalness": 0,
+            "liveness": 0.103,
+            "loudness": -6.447,
+            "speechiness": 0.23,
+            "time_signature": 4,
+            "happiness": 6.084999999999999
+        }
+    },
+    {
+        "#": 80,
+        "Track Title": "Say My Name",
+        "Artist": "Destiny's Child",
+        "Key": "7A",
+        "Energy": 7.102,
+        "Popularity": 8.2,
+        "BPM": 138,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "90s",
+            "Girl Power",
+            "Hip Hop",
+            "Happy",
+            "Pop",
+            "Dance Remixes",
+            "Romantic & Slow Dance",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7H6ev70Weq6DdpZyyTmUXk",
+            "explicit": false,
+            "album": "The Writing's On The Wall",
+            "release_date": "1999-07-27",
+            "genres": [
+                "dance pop",
+                "girl group",
+                "pop",
+                "r&b",
+                "urban contemporary"
+            ],
+            "duration": 271333,
+            "acousticness": 0.273,
+            "danceability": 7.417,
+            "instrumentalness": 0,
+            "liveness": 0.149,
+            "loudness": -3.525,
+            "speechiness": 0.102,
+            "time_signature": 4,
+            "happiness": 7.606
+        }
+    },
+    {
+        "#": 81,
+        "Track Title": "The Sweet Escape",
+        "Artist": "Gwen Stefani, Akon",
+        "Key": "3B",
+        "Energy": 7.93,
+        "Popularity": 7.4799999999999995,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "07K4GcCDSTiXUF5ssyTRUM",
+            "explicit": false,
+            "album": "The Sweet Escape",
+            "release_date": "2006-01-01",
+            "genres": [
+                "dance pop",
+                "pop",
+                "dance pop"
+            ],
+            "duration": 246467,
+            "acousticness": 0.191,
+            "danceability": 7.804,
+            "instrumentalness": 0,
+            "liveness": 0.178,
+            "loudness": -3.502,
+            "speechiness": 0.0343,
+            "time_signature": 4,
+            "happiness": 7.57
+        }
+    },
+    {
+        "#": 82,
+        "Track Title": "Get Low",
+        "Artist": "Lil Jon & The East Side Boyz, Ying Yang Twins",
+        "Key": "3B",
+        "Energy": 6.625,
+        "Popularity": 7.84,
+        "BPM": 101,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Happy",
+            "Nostalgic",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0r2Bul2NuCViraT2zX1l5j",
+            "explicit": true,
+            "album": "Kings Of Crunk",
+            "release_date": "2002-10-29",
+            "genres": [
+                "atl hip hop",
+                "atlanta bass",
+                "crunk",
+                "dirty south rap",
+                "old school atlanta hip hop",
+                "southern hip hop",
+                "atl hip hop",
+                "crunk",
+                "dirty south rap",
+                "old school atlanta hip hop",
+                "southern hip hop"
+            ],
+            "duration": 334067,
+            "acousticness": 0.0301,
+            "danceability": 5.689,
+            "instrumentalness": 0,
+            "liveness": 0.121,
+            "loudness": -7.47,
+            "speechiness": 0.067,
+            "time_signature": 4,
+            "happiness": 2.224
+        }
+    },
+    {
+        "#": 83,
+        "Track Title": "Beautiful Liar",
+        "Artist": "Beyoncé, Shakira",
+        "Key": "4B",
+        "Energy": 7.786,
+        "Popularity": 7.3,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Latin",
+            "Pop",
+            "Romantic & Slow Dance",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "76Y07hjDi7fjJnZKsQbEaF",
+            "explicit": false,
+            "album": "B'Day Deluxe Edition",
+            "release_date": "2007-04-03",
+            "genres": [
+                "pop",
+                "r&b",
+                "colombian pop",
+                "dance pop",
+                "latin pop",
+                "pop"
+            ],
+            "duration": 199840,
+            "acousticness": 0.0053,
+            "danceability": 7.885,
+            "instrumentalness": 0.000286,
+            "liveness": 0.157,
+            "loudness": -3.736,
+            "speechiness": 0.0764,
+            "time_signature": 4,
+            "happiness": 4.636
+        }
+    },
+    {
+        "#": 84,
+        "Track Title": "Don't Phunk With My Heart",
+        "Artist": "Black Eyed Peas",
+        "Key": "7A",
+        "Energy": 9.352,
+        "Popularity": 6.94,
+        "BPM": 131,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Pop",
+            "Hip Hop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "5MzjQ95rdB2xt9DNa2IzaC",
+            "explicit": false,
+            "album": "Monkey Business",
+            "release_date": "2005-01-01",
+            "genres": [
+                "dance pop",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 239773,
+            "acousticness": 0.00937,
+            "danceability": 7.209999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.547,
+            "loudness": -2.76,
+            "speechiness": 0.061,
+            "time_signature": 4,
+            "happiness": 6.436
+        }
+    },
+    {
+        "#": 85,
+        "Track Title": "Gimme More",
+        "Artist": "Britney Spears",
+        "Key": "10B",
+        "Energy": 8.596,
+        "Popularity": 8.379999999999999,
+        "BPM": 113,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "6ic8OlLUNEATToEFU3xmaH",
+            "explicit": false,
+            "album": "Blackout",
+            "release_date": "2007-10-25",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 251240,
+            "acousticness": 0.25,
+            "danceability": 8.092,
+            "instrumentalness": 0.000678,
+            "liveness": 0.0723,
+            "loudness": -3.131,
+            "speechiness": 0.0334,
+            "time_signature": 4,
+            "happiness": 4.438000000000001
+        }
+    },
+    {
+        "#": 86,
+        "Track Title": "Naughty Girl",
+        "Artist": "Beyoncé",
+        "Key": "2A",
+        "Energy": 5.194,
+        "Popularity": 7.209999999999999,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Pop",
+            "Romantic & Slow Dance"
+        ],
+        "Additional Info": {
+            "id": "0CPLnPUUHh44vAzDSM5ZlR",
+            "explicit": false,
+            "album": "Dangerously In Love",
+            "release_date": "2003-03-10",
+            "genres": [
+                "pop",
+                "r&b"
+            ],
+            "duration": 208600,
+            "acousticness": 0.239,
+            "danceability": 7.615,
+            "instrumentalness": 6.24e-06,
+            "liveness": 0.102,
+            "loudness": -8.65,
+            "speechiness": 0.0857,
+            "time_signature": 4,
+            "happiness": 6.787
+        }
+    },
+    {
+        "#": 87,
+        "Track Title": "Rock Your Body",
+        "Artist": "Justin Timberlake",
+        "Key": "12A",
+        "Energy": 7.426,
+        "Popularity": 8.11,
+        "BPM": 101,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1AWQoqb9bSvzTjaLralEkT",
+            "explicit": false,
+            "album": "Justified",
+            "release_date": "2002-11-04",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 267267,
+            "acousticness": 0.201,
+            "danceability": 9.028,
+            "instrumentalness": 0.000234,
+            "liveness": 0.0521,
+            "loudness": -6.055,
+            "speechiness": 0.141,
+            "time_signature": 4,
+            "happiness": 8.353
+        }
+    },
+    {
+        "#": 88,
+        "Track Title": "DESPECHÁ",
+        "Artist": "ROSALÍA",
+        "Key": "9B",
+        "Energy": 6.598,
+        "Popularity": 8.559999999999999,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Latin",
+            "Pop",
+            "Romantic & Slow Dance",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "53tfEupEzQRtVFOeZvk7xq",
+            "explicit": false,
+            "album": "MOTOMAMI +",
+            "release_date": "2022-09-09",
+            "genres": [
+                "pop",
+                "r&b en espanol"
+            ],
+            "duration": 156788,
+            "acousticness": 0.146,
+            "danceability": 9.226,
+            "instrumentalness": 1.68e-05,
+            "liveness": 0.0632,
+            "loudness": -6.538,
+            "speechiness": 0.0892,
+            "time_signature": 4,
+            "happiness": 7.93
+        }
+    },
+    {
+        "#": 89,
+        "Track Title": "Let's Get Loud",
+        "Artist": "Jennifer Lopez",
+        "Key": "7A",
+        "Energy": 9.433,
+        "Popularity": 7.4799999999999995,
+        "BPM": 131,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "90s",
+            "Happy",
+            "Pop",
+            "Hip Hop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6kQz6t5z1FK4uohPh8Kd73",
+            "explicit": false,
+            "album": "On The 6",
+            "release_date": "1999-04-20",
+            "genres": [
+                "dance pop",
+                "pop",
+                "urban contemporary"
+            ],
+            "duration": 238227,
+            "acousticness": 0.139,
+            "danceability": 8.379999999999999,
+            "instrumentalness": 7.51e-05,
+            "liveness": 0.325,
+            "loudness": -4.81,
+            "speechiness": 0.0542,
+            "time_signature": 4,
+            "happiness": 9.298
+        }
+    },
+    {
+        "#": 90,
+        "Track Title": "Whenever, Wherever",
+        "Artist": "Shakira",
+        "Key": "3A",
+        "Energy": 8.488,
+        "Popularity": 8.469999999999999,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Latin",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2lnzGkdtDj5mtlcOW2yRtG",
+            "explicit": false,
+            "album": "Laundry Service",
+            "release_date": "2001-11-13",
+            "genres": [
+                "colombian pop",
+                "dance pop",
+                "latin pop",
+                "pop"
+            ],
+            "duration": 196160,
+            "acousticness": 0.237,
+            "danceability": 8.146,
+            "instrumentalness": 1.14e-05,
+            "liveness": 0.203,
+            "loudness": -4.862,
+            "speechiness": 0.0407,
+            "time_signature": 4,
+            "happiness": 8.839
+        }
+    },
+    {
+        "#": 91,
+        "Track Title": "La Tortura (feat. Alejandro Sanz)",
+        "Artist": "Shakira, Alejandro Sanz",
+        "Key": "8B",
+        "Energy": 8.047,
+        "Popularity": 8.11,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Latin",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5BSclXJTa9B0iURhUjZo50",
+            "explicit": false,
+            "album": "Fijación Oral, Vol. 1",
+            "release_date": "2005-06-03",
+            "genres": [
+                "colombian pop",
+                "dance pop",
+                "latin pop",
+                "pop",
+                "cantautor",
+                "latin arena pop",
+                "latin pop",
+                "mexican pop"
+            ],
+            "duration": 212893,
+            "acousticness": 0.0297,
+            "danceability": 7.66,
+            "instrumentalness": 0.000308,
+            "liveness": 0.123,
+            "loudness": -5.367,
+            "speechiness": 0.0427,
+            "time_signature": 4,
+            "happiness": 8.308
+        }
+    },
+    {
+        "#": 92,
+        "Track Title": "Unholy (feat. Kim Petras)",
+        "Artist": "Sam Smith, Kim Petras",
+        "Key": "10B",
+        "Energy": 5.167,
+        "Popularity": 8.649999999999999,
+        "BPM": 131,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Mad",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0NZPBYD5qbEWRs3PrGiRkT",
+            "explicit": false,
+            "album": "Gloria",
+            "release_date": "2023-01-27",
+            "genres": [
+                "pop",
+                "uk pop",
+                "alt z",
+                "pop",
+                "transpop"
+            ],
+            "duration": 156943,
+            "acousticness": 0.011,
+            "danceability": 7.4079999999999995,
+            "instrumentalness": 2.96e-06,
+            "liveness": 0.301,
+            "loudness": -7.399,
+            "speechiness": 0.0797,
+            "time_signature": 4,
+            "happiness": 2.854
+        }
+    },
+    {
+        "#": 93,
+        "Track Title": "Violin - Remix",
+        "Artist": "Cookiee Kawaii, Ron Suno, Dear Silas",
+        "Key": "10B",
+        "Energy": 8.452,
+        "Popularity": 5.86,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Hip Hop",
+            "Happy",
+            "Romantic & Slow Dance",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3JMDJrW3kuH8KJWA0hi3As",
+            "explicit": true,
+            "album": "Violin (Remix)",
+            "release_date": "2022-04-29",
+            "genres": [
+                "alternative r&b",
+                "viral rap",
+                "bronx drill",
+                "new york drill",
+                "mississippi hip hop"
+            ],
+            "duration": 134714,
+            "acousticness": 0.484,
+            "danceability": 8.191,
+            "instrumentalness": 0,
+            "liveness": 0.106,
+            "loudness": -4.92,
+            "speechiness": 0.166,
+            "time_signature": 4,
+            "happiness": 6.319
+        }
+    },
+    {
+        "#": 94,
+        "Track Title": "Macarena - Bayside Boys Remix",
+        "Artist": "Los Del Rio",
+        "Key": "3B",
+        "Energy": 9.280000000000001,
+        "Popularity": 6.49,
+        "BPM": 103,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "90s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "07DcH2UllHvVRKjD2HEJuC",
+            "explicit": false,
+            "album": "Macarena (EP)",
+            "release_date": "1995",
+            "genres": [
+                "tropical"
+            ],
+            "duration": 224627,
+            "acousticness": 0.211,
+            "danceability": 7.489,
+            "instrumentalness": 1.87e-06,
+            "liveness": 0.0647,
+            "loudness": -4.901,
+            "speechiness": 0.0616,
+            "time_signature": 4,
+            "happiness": 9.649
+        }
+    },
+    {
+        "#": 95,
+        "Track Title": "BILLIE EILISH.",
+        "Artist": "Armani White",
+        "Key": "3B",
+        "Energy": 5.581,
+        "Popularity": 8.02,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Inspiring",
+            "Hip Hop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "27ZZdyTSQWI7Cug2d2PkqV",
+            "explicit": true,
+            "album": "BILLIE EILISH.",
+            "release_date": "2022-05-19",
+            "genres": [
+                "indie hip hop"
+            ],
+            "duration": 99283,
+            "acousticness": 0.115,
+            "danceability": 9.1,
+            "instrumentalness": 1.67e-06,
+            "liveness": 0.0937,
+            "loudness": -6.647,
+            "speechiness": 0.257,
+            "time_signature": 4,
+            "happiness": 7.885
+        }
+    },
+    {
+        "#": 96,
+        "Track Title": "Doja",
+        "Artist": "Central Cee",
+        "Key": "2B",
+        "Energy": 6.157,
+        "Popularity": 8.74,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3LtpKP5abr2qqjunvjlX5i",
+            "explicit": true,
+            "album": "Doja",
+            "release_date": "2022-07-21",
+            "genres": [
+                "melodic drill"
+            ],
+            "duration": 97393,
+            "acousticness": 0.38,
+            "danceability": 9.199,
+            "instrumentalness": 0,
+            "liveness": 0.403,
+            "loudness": -7.43,
+            "speechiness": 0.288,
+            "time_signature": 4,
+            "happiness": 9.748
+        }
+    },
+    {
+        "#": 97,
+        "Track Title": "Bananza (Belly Dancer) - DJ Shaan Remix",
+        "Artist": "Akon, DJ Shaan",
+        "Key": "2A",
+        "Energy": 9.541,
+        "Popularity": 6.31,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "4XOnM8efyB3PQanXQnwlGO",
+            "explicit": false,
+            "album": "Bananza (Belly Dancer) [Remixes]",
+            "release_date": "2022-01-27",
+            "genres": [
+                "dance pop",
+                "indian edm"
+            ],
+            "duration": 156774,
+            "acousticness": 0.0348,
+            "danceability": 8.452,
+            "instrumentalness": 0.0113,
+            "liveness": 0.317,
+            "loudness": -3.443,
+            "speechiness": 0.0458,
+            "time_signature": 4,
+            "happiness": 5.806
+        }
+    },
+    {
+        "#": 98,
+        "Track Title": "Toxic Pony",
+        "Artist": "ALTÉGO, Britney Spears, Ginuwine",
+        "Key": "8B",
+        "Energy": 6.868,
+        "Popularity": 7.209999999999999,
+        "BPM": 143,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2020s",
+            "Hip Hop",
+            "Happy",
+            "Pop",
+            "Dance Remixes",
+            "Romantic & Slow Dance",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6QHXcb0eFwOKZOZ9bOFmxm",
+            "explicit": false,
+            "album": "Toxic Pony",
+            "release_date": "2022-01-21",
+            "genres": [
+                "dance pop",
+                "pop",
+                "contemporary r&b",
+                "hip pop",
+                "r&b",
+                "urban contemporary"
+            ],
+            "duration": 198042,
+            "acousticness": 0.00757,
+            "danceability": 7.9750000000000005,
+            "instrumentalness": 0.000598,
+            "liveness": 0.105,
+            "loudness": -9.906,
+            "speechiness": 0.152,
+            "time_signature": 4,
+            "happiness": 9.298
+        }
+    },
+    {
+        "#": 99,
+        "Track Title": "הופה",
+        "Artist": "Omer Adam",
+        "Key": "11A",
+        "Energy": 9.145,
+        "Popularity": 4.15,
+        "BPM": 121,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Mizrahit"
+        ],
+        "Additional Info": {
+            "id": "1FV7Uc4Tjzgw1wvZBPEM4s",
+            "explicit": false,
+            "album": "נמס ממך",
+            "release_date": "2011-06-01",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi"
+            ],
+            "duration": 183480,
+            "acousticness": 0.189,
+            "danceability": 7.111000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0658,
+            "loudness": -4.144,
+            "speechiness": 0.0808,
+            "time_signature": 4,
+            "happiness": 6.976
+        }
+    },
+    {
+        "#": 100,
+        "Track Title": "Pon De Replay - Remix",
+        "Artist": "Rihanna, Elephant Man",
+        "Key": "9B",
+        "Energy": 7.633,
+        "Popularity": 6.49,
+        "BPM": 99,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc]",
+            "2000s",
+            "Happy",
+            "Pop",
+            "Hip Hop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "1B4iEymNy6FyU2I39ujzVw",
+            "explicit": false,
+            "album": "Music Of The Sun",
+            "release_date": "2005-08-29",
+            "genres": [
+                "barbadian pop",
+                "pop",
+                "urban contemporary",
+                "dancehall",
+                "jamaican dancehall",
+                "reggae fusion"
+            ],
+            "duration": 217187,
+            "acousticness": 0.00031,
+            "danceability": 8.002,
+            "instrumentalness": 0,
+            "liveness": 0.276,
+            "loudness": -7.861,
+            "speechiness": 0.251,
+            "time_signature": 4,
+            "happiness": 6.2379999999999995
+        }
+    }
+]

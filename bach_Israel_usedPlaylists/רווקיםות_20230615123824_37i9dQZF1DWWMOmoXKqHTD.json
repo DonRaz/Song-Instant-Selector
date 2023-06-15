@@ -1,0 +1,3820 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Flowers",
+        "Artist": "Miley Cyrus",
+        "Key": "8B",
+        "Energy": 7.1290000000000004,
+        "Popularity": 9.73,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0yLdNVWF3Srea0uzk55zFn",
+            "explicit": false,
+            "album": "Flowers",
+            "release_date": "2023-01-13",
+            "genres": [
+                "pop"
+            ],
+            "duration": 200455,
+            "acousticness": 0.0632,
+            "danceability": 7.3629999999999995,
+            "instrumentalness": 5.15e-06,
+            "liveness": 0.0322,
+            "loudness": -4.325,
+            "speechiness": 0.0668,
+            "time_signature": 4,
+            "happiness": 6.814
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Made You Look",
+        "Artist": "Meghan Trainor",
+        "Key": "6B",
+        "Energy": 5.7250000000000005,
+        "Popularity": 9.01,
+        "BPM": 145,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Pop",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0QHEIqNKsMoOY5urbzN48u",
+            "explicit": false,
+            "album": "Takin' It Back",
+            "release_date": "2022-10-21",
+            "genres": [
+                "hip pop",
+                "pop"
+            ],
+            "duration": 134256,
+            "acousticness": 0.345,
+            "danceability": 8.542,
+            "instrumentalness": 1.92e-06,
+            "liveness": 0.0771,
+            "loudness": -3.562,
+            "speechiness": 0.0665,
+            "time_signature": 4,
+            "happiness": 8.956
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "ליבינג דה דרים",
+        "Artist": "Nunu",
+        "Key": "8B",
+        "Energy": 4.582000000000001,
+        "Popularity": 4.87,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "3lc6b4cCbPLWNQ95GYxPkN",
+            "explicit": false,
+            "album": "סטטוס",
+            "release_date": "2022-07-18",
+            "genres": [
+                "israeli hip hop"
+            ],
+            "duration": 175742,
+            "acousticness": 0.0309,
+            "danceability": 8.389,
+            "instrumentalness": 0.00063,
+            "liveness": 0.0551,
+            "loudness": -12.508,
+            "speechiness": 0.0788,
+            "time_signature": 4,
+            "happiness": 4.879
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "שלושה בנות",
+        "Artist": "Noa Kirel, Gitit Fisher",
+        "Key": "3B",
+        "Energy": 8.218,
+        "Popularity": 5.5,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "63TUZWEmunvQnAdLUD61yY",
+            "explicit": false,
+            "album": "שלושה בנות",
+            "release_date": "2022-06-01",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 217500,
+            "acousticness": 0.146,
+            "danceability": 8.568999999999999,
+            "instrumentalness": 3.78e-06,
+            "liveness": 0.228,
+            "loudness": -4.064,
+            "speechiness": 0.0654,
+            "time_signature": 4,
+            "happiness": 8.290000000000001
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "פנתרה",
+        "Artist": "Noa Kirel",
+        "Key": "11A",
+        "Energy": 6.823,
+        "Popularity": 6.3999999999999995,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5A3bEckI7AjWTguGqZOzUm",
+            "explicit": false,
+            "album": "פנתרה",
+            "release_date": "2022-08-11",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 173603,
+            "acousticness": 0.0588,
+            "danceability": 8.488,
+            "instrumentalness": 0.0014,
+            "liveness": 0.411,
+            "loudness": -7.954,
+            "speechiness": 0.0755,
+            "time_signature": 4,
+            "happiness": 5.3919999999999995
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "I Like It",
+        "Artist": "Cardi B, Bad Bunny, J Balvin",
+        "Key": "7A",
+        "Energy": 7.534,
+        "Popularity": 8.290000000000001,
+        "BPM": 136,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Latin",
+            "Hip Hop",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "58q2HKrzhC3ozto2nDdN4z",
+            "explicit": true,
+            "album": "Invasion of Privacy",
+            "release_date": "2018-04-06",
+            "genres": [
+                "pop",
+                "rap",
+                "reggaeton",
+                "trap latino",
+                "urbano latino",
+                "reggaeton",
+                "reggaeton colombiano",
+                "trap latino",
+                "urbano latino"
+            ],
+            "duration": 253390,
+            "acousticness": 0.099,
+            "danceability": 8.344,
+            "instrumentalness": 0,
+            "liveness": 0.372,
+            "loudness": -3.998,
+            "speechiness": 0.129,
+            "time_signature": 4,
+            "happiness": 6.8500000000000005
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "מי זאת",
+        "Artist": "Anna Zak",
+        "Key": "6A",
+        "Energy": 5.086,
+        "Popularity": 5.68,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3iJQ54fGO6CyP374UzvDJu",
+            "explicit": false,
+            "album": "מי זאת",
+            "release_date": "2022-05-22",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 146990,
+            "acousticness": 0.192,
+            "danceability": 8.92,
+            "instrumentalness": 4.36e-06,
+            "liveness": 0.0786,
+            "loudness": -8.404,
+            "speechiness": 0.0865,
+            "time_signature": 4,
+            "happiness": 6.724
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Cute Boy",
+        "Artist": "Nunu, Sagi Kariv, Forever Tel Aviv",
+        "Key": "3A",
+        "Energy": 8.2,
+        "Popularity": 5.5,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "7DS5SpsWS7rtKeAfe9rbfn",
+            "explicit": false,
+            "album": "Cute Boy",
+            "release_date": "2022-06-06",
+            "genres": [
+                "israeli hip hop",
+                "circuit"
+            ],
+            "duration": 185625,
+            "acousticness": 0.113,
+            "danceability": 7.912,
+            "instrumentalness": 0.000343,
+            "liveness": 0.549,
+            "loudness": -4.387,
+            "speechiness": 0.0913,
+            "time_signature": 4,
+            "happiness": 6.4719999999999995
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "עולה על שולחנות",
+        "Artist": "Marina Maximilian, Itay Galo",
+        "Key": "12A",
+        "Energy": 8.047,
+        "Popularity": 5.95,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5tNrVA1ySsk7HkV5yg2iXN",
+            "explicit": false,
+            "album": "עולה על שולחנות",
+            "release_date": "2022-07-12",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 196320,
+            "acousticness": 0.123,
+            "danceability": 8.425,
+            "instrumentalness": 0.00117,
+            "liveness": 0.117,
+            "loudness": -6.674,
+            "speechiness": 0.0452,
+            "time_signature": 4,
+            "happiness": 6.868
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "מלכת הרחבה",
+        "Artist": "Ran Danker",
+        "Key": "11A",
+        "Energy": 6.382,
+        "Popularity": 4.87,
+        "BPM": 109,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1Dus0KytptzGZvzfAnTcfG",
+            "explicit": false,
+            "album": "מלכת הרחבה",
+            "release_date": "2022-08-08",
+            "genres": [
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 192661,
+            "acousticness": 0.00735,
+            "danceability": 8.695,
+            "instrumentalness": 0.00322,
+            "liveness": 0.576,
+            "loudness": -3.579,
+            "speechiness": 0.0661,
+            "time_signature": 4,
+            "happiness": 5.428
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "פעמון",
+        "Artist": "Noa Kirel, Itay Galo",
+        "Key": "12B",
+        "Energy": 6.382,
+        "Popularity": 5.59,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4DgyTAwiSJsT5u5EljsImB",
+            "explicit": false,
+            "album": "פעמון",
+            "release_date": "2022-03-22",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 180984,
+            "acousticness": 0.0917,
+            "danceability": 8.398,
+            "instrumentalness": 0.00107,
+            "liveness": 0.0905,
+            "loudness": -6.463,
+            "speechiness": 0.0442,
+            "time_signature": 4,
+            "happiness": 6.22
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "טרילילי טרללה",
+        "Artist": "Noa Kirel, Ilan Peled",
+        "Key": "3B",
+        "Energy": 7.228,
+        "Popularity": 5.41,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7hYZJ0COHvJxMx6tBSJ1T6",
+            "explicit": false,
+            "album": "טרילילי טרללה",
+            "release_date": "2021-06-21",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 203049,
+            "acousticness": 0.0286,
+            "danceability": 7.993,
+            "instrumentalness": 2.22e-05,
+            "liveness": 0.082,
+            "loudness": -5.814,
+            "speechiness": 0.068,
+            "time_signature": 4,
+            "happiness": 6.643
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "WTF",
+        "Artist": "Eden Ben Zaken",
+        "Key": "3B",
+        "Energy": 6.841,
+        "Popularity": 4.0600000000000005,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4FdGfK3PKb9rlyoG342H8e",
+            "explicit": false,
+            "album": "עם או בלי לאהוב",
+            "release_date": "2022-05-30",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop"
+            ],
+            "duration": 178625,
+            "acousticness": 0.0832,
+            "danceability": 8.344,
+            "instrumentalness": 0.014,
+            "liveness": 0.117,
+            "loudness": -7.179,
+            "speechiness": 0.0472,
+            "time_signature": 4,
+            "happiness": 2.935
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "בוקר טוב עולם",
+        "Artist": "Doli & Penn, Anna Zak, Nasrin Kadri",
+        "Key": "1A",
+        "Energy": 6.0040000000000004,
+        "Popularity": 4.96,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0nCviB84JUjYmkbWeC8MVh",
+            "explicit": false,
+            "album": "צעירים לנצח",
+            "release_date": "2022-07-20",
+            "genres": [
+                "israeli pop",
+                "israeli pop",
+                "israeli mediterranean"
+            ],
+            "duration": 165600,
+            "acousticness": 0.0844,
+            "danceability": 8.100999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.286,
+            "loudness": -9.107,
+            "speechiness": 0.0879,
+            "time_signature": 4,
+            "happiness": 7.2459999999999996
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "הרקדן האוטומטי 2022 (Prod by Zooki)",
+        "Artist": "Noa Kirel, Svika Pick, צאן ברזל מוזיקה, Zooki",
+        "Key": "9B",
+        "Energy": 8.119,
+        "Popularity": 4.42,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6F5M2CoZcZVFFyZRAGvrsH",
+            "explicit": false,
+            "album": "הרקדן האוטומטי 2022 (Prod by Zooki)",
+            "release_date": "2022-10-02",
+            "genres": [
+                "israeli pop",
+                "classic israeli pop"
+            ],
+            "duration": 163594,
+            "acousticness": 0.00382,
+            "danceability": 7.282,
+            "instrumentalness": 0.000655,
+            "liveness": 0.125,
+            "loudness": -6.695,
+            "speechiness": 0.0541,
+            "time_signature": 4,
+            "happiness": 8.632
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "פנתרה - Itay Galo Official Remix",
+        "Artist": "Noa Kirel, Itay Galo",
+        "Key": "11B",
+        "Energy": 8.704,
+        "Popularity": 3.97,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0KXKeccHMltISQWxb4JQDx",
+            "explicit": false,
+            "album": "פנתרה (Itay Galo Official Remix)",
+            "release_date": "2022-10-06",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 165366,
+            "acousticness": 0.00231,
+            "danceability": 7.57,
+            "instrumentalness": 0.0151,
+            "liveness": 0.282,
+            "loudness": -4.685,
+            "speechiness": 0.056,
+            "time_signature": 4,
+            "happiness": 4.438000000000001
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "לך לישון - Eli Matana Official Remix",
+        "Artist": "Anna Zak, Eli Matana",
+        "Key": "9B",
+        "Energy": 8.821,
+        "Popularity": 3.88,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3FqsGbXYsYlVAxwKPZyv2a",
+            "explicit": false,
+            "album": "לך לישון (Eli Matana Official Remix)",
+            "release_date": "2022-01-20",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 160920,
+            "acousticness": 0.0165,
+            "danceability": 7.714,
+            "instrumentalness": 0.359,
+            "liveness": 0.182,
+            "loudness": -5.777,
+            "speechiness": 0.0593,
+            "time_signature": 4,
+            "happiness": 6.319
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "ב.מ.וו. שחורה",
+        "Artist": "Ethnix",
+        "Key": "11A",
+        "Energy": 8.902000000000001,
+        "Popularity": 4.6,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "90s",
+            "Mizrahit",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4iTXVDvJIcFtSqvshO4JPA",
+            "explicit": false,
+            "album": "ברוכים הבאים לישראל",
+            "release_date": "1998-01-01",
+            "genres": [
+                "classic israeli pop",
+                "mizrahi"
+            ],
+            "duration": 210867,
+            "acousticness": 0.0849,
+            "danceability": 7.4079999999999995,
+            "instrumentalness": 4.5e-05,
+            "liveness": 0.0392,
+            "loudness": -5.308,
+            "speechiness": 0.0336,
+            "time_signature": 4,
+            "happiness": 9.783999999999999
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "בית משוגעים - Itay Galo Remix",
+        "Artist": "Ran Danker, Itay Galo",
+        "Key": "7A",
+        "Energy": 6.742,
+        "Popularity": 4.24,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7wG0fHodj1i90zPPXqv90d",
+            "explicit": false,
+            "album": "בית משוגעים (Itay Galo Remix)",
+            "release_date": "2021-04-04",
+            "genres": [
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 208525,
+            "acousticness": 0.0949,
+            "danceability": 8.038,
+            "instrumentalness": 0.00077,
+            "liveness": 0.0659,
+            "loudness": -7.785,
+            "speechiness": 0.111,
+            "time_signature": 4,
+            "happiness": 7.165000000000001
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "ליבינג דה דרים - Dalit Rechester Remix",
+        "Artist": "Nunu, Dalit Rechester",
+        "Key": "8B",
+        "Energy": 8.929,
+        "Popularity": 3.5200000000000005,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "5Heg9km3ny1O2LEBqG4AhV",
+            "explicit": false,
+            "album": "ליבינג דה דרים (Dalit Rechester Remix)",
+            "release_date": "2022-04-03",
+            "genres": [
+                "israeli hip hop"
+            ],
+            "duration": 217323,
+            "acousticness": 0.0163,
+            "danceability": 8.029,
+            "instrumentalness": 0.021,
+            "liveness": 0.333,
+            "loudness": -5.418,
+            "speechiness": 0.041,
+            "time_signature": 4,
+            "happiness": 3.646
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "תרקדו",
+        "Artist": "Eden Ben Zaken",
+        "Key": "11B",
+        "Energy": 7.003,
+        "Popularity": 4.33,
+        "BPM": 144,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1q4AWk5yebCVcsl08tNAxW",
+            "explicit": false,
+            "album": "חיים שלי",
+            "release_date": "2019-04-14",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop"
+            ],
+            "duration": 188715,
+            "acousticness": 0.0463,
+            "danceability": 6.022,
+            "instrumentalness": 1.56e-05,
+            "liveness": 0.0761,
+            "loudness": -6.127,
+            "speechiness": 0.0935,
+            "time_signature": 4,
+            "happiness": 4.167999999999999
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "הולכת איתך - Yinon Yahel Remix",
+        "Artist": "Narkis, Yinon Yahel",
+        "Key": "2A",
+        "Energy": 9.928,
+        "Popularity": 3.61,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "EDM",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3ip6a6nvxyN4uGaEwuZegs",
+            "explicit": false,
+            "album": "הולכת איתך (Yinon Yahel Remix)",
+            "release_date": "2021-07-29",
+            "genres": [
+                "israeli pop",
+                "circuit",
+                "vocal house"
+            ],
+            "duration": 273750,
+            "acousticness": 0.0065,
+            "danceability": 6.868,
+            "instrumentalness": 0.099,
+            "liveness": 0.0997,
+            "loudness": -3.04,
+            "speechiness": 0.059,
+            "time_signature": 4,
+            "happiness": 5.545
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "נערי שובה אלי",
+        "Artist": "Margalit Tzan'ani",
+        "Key": "2A",
+        "Energy": 7.345,
+        "Popularity": 4.6899999999999995,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "80s",
+            "Mizrahit",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3o863oLzV4qj53EBCtEAqz",
+            "explicit": false,
+            "album": "נערי שובה אלי",
+            "release_date": "1986-01-01",
+            "genres": [
+                "classic israeli pop",
+                "mizrahi"
+            ],
+            "duration": 231147,
+            "acousticness": 0.138,
+            "danceability": 8.370999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.0884,
+            "loudness": -6.087,
+            "speechiness": 0.0278,
+            "time_signature": 4,
+            "happiness": 9.811
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "טכנו וג'ין",
+        "Artist": "Ido Shoam",
+        "Key": "5B",
+        "Energy": 8.92,
+        "Popularity": 4.42,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6gjSc23orWgRsZDEPkr5tt",
+            "explicit": false,
+            "album": "טכנו וג'ין",
+            "release_date": "2021-08-04",
+            "genres": [],
+            "duration": 144919,
+            "acousticness": 0.0382,
+            "danceability": 7.723,
+            "instrumentalness": 0.0413,
+            "liveness": 0.0689,
+            "loudness": -6.936,
+            "speechiness": 0.112,
+            "time_signature": 4,
+            "happiness": 7.777
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "אנא מג'נונה",
+        "Artist": "Eden Ben Zaken",
+        "Key": "6A",
+        "Energy": 7.534,
+        "Popularity": 4.15,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5JPWy6r4axp5BMizwtL7xD",
+            "explicit": false,
+            "album": "מועבט",
+            "release_date": "2021-05-06",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop"
+            ],
+            "duration": 151091,
+            "acousticness": 0.222,
+            "danceability": 8.748999999999999,
+            "instrumentalness": 0.00186,
+            "liveness": 0.187,
+            "loudness": -6.134,
+            "speechiness": 0.0366,
+            "time_signature": 4,
+            "happiness": 7.732
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "באה מאהבה",
+        "Artist": "Yehudit Ravitz, Gidi Gov",
+        "Key": "8B",
+        "Energy": 8.632,
+        "Popularity": 3.6999999999999997,
+        "BPM": 136,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "90s"
+        ],
+        "Additional Info": {
+            "id": "5vsF8mJgkt9pHIsxJl7IRD",
+            "explicit": false,
+            "album": "עד לאן שהלב לוקח",
+            "release_date": "1994-01-01",
+            "genres": [
+                "classic israeli pop",
+                "israeli rock",
+                "classic israeli pop",
+                "israeli rock"
+            ],
+            "duration": 271000,
+            "acousticness": 0.0277,
+            "danceability": 5.896000000000001,
+            "instrumentalness": 0.0028,
+            "liveness": 0.113,
+            "loudness": -7.3,
+            "speechiness": 0.0682,
+            "time_signature": 4,
+            "happiness": 6.058000000000001
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "שימי פס - Itay Galo Remix",
+        "Artist": "Eden Hason, Ella Lee, Itay Galo",
+        "Key": "12A",
+        "Energy": 6.706,
+        "Popularity": 3.43,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0GdcGh1VXGL25SLZfxBMjE",
+            "explicit": false,
+            "album": "שימי פס (Itay Galo Remix)",
+            "release_date": "2021-07-01",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop"
+            ],
+            "duration": 303750,
+            "acousticness": 0.0871,
+            "danceability": 8.658999999999999,
+            "instrumentalness": 1.91e-05,
+            "liveness": 0.056,
+            "loudness": -8.636,
+            "speechiness": 0.108,
+            "time_signature": 4,
+            "happiness": 7.867
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "פאוץ' - Remix",
+        "Artist": "Noa Kirel, Dalit Rechester, Ran Ziv",
+        "Key": "9A",
+        "Energy": 8.605,
+        "Popularity": 3.61,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0NUa1EDN3tGWpSzikKSrXg",
+            "explicit": false,
+            "album": "פאוץ' (Remix)",
+            "release_date": "2019-08-22",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 310781,
+            "acousticness": 0.00469,
+            "danceability": 7.3,
+            "instrumentalness": 0.0699,
+            "liveness": 0.169,
+            "loudness": -5.569,
+            "speechiness": 0.0362,
+            "time_signature": 4,
+            "happiness": 3.709
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "מועבט",
+        "Artist": "Eden Ben Zaken, Itay Galo",
+        "Key": "9B",
+        "Energy": 5.239,
+        "Popularity": 4.42,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6GCoKavQd5wOqScl5wVXOp",
+            "explicit": false,
+            "album": "מועבט",
+            "release_date": "2021-05-06",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop"
+            ],
+            "duration": 251613,
+            "acousticness": 0.0685,
+            "danceability": 8.551,
+            "instrumentalness": 0.128,
+            "liveness": 0.0971,
+            "loudness": -9.136,
+            "speechiness": 0.0416,
+            "time_signature": 4,
+            "happiness": 5.158
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "זה בדם שלי - Dalit Rechester Remix",
+        "Artist": "Dalit Rechester, Teddy Neguse, Jasmin Moallem",
+        "Key": "9B",
+        "Energy": 9.757,
+        "Popularity": 3.34,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Pop",
+            "Israeli - Kibutz",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "0FNtqvT9eBfuQT7Uns7YyZ",
+            "explicit": false,
+            "album": "זה בדם שלי (Dalit Rechester Remix)",
+            "release_date": "2021-08-20",
+            "genres": [
+                "israeli hip hop",
+                "israeli trap",
+                "israeli pop"
+            ],
+            "duration": 277500,
+            "acousticness": 0.0814,
+            "danceability": 7.191999999999999,
+            "instrumentalness": 0.0206,
+            "liveness": 0.155,
+            "loudness": -2.89,
+            "speechiness": 0.0514,
+            "time_signature": 4,
+            "happiness": 6.427
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "No Lie",
+        "Artist": "Sean Paul, Dua Lipa",
+        "Key": "9B",
+        "Energy": 8.937999999999999,
+        "Popularity": 8.559999999999999,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Dance Remixes",
+            "Hip Hop",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "48QmG1dfvMuYLxMPt7KSRA",
+            "explicit": false,
+            "album": "Mad Love The Prequel",
+            "release_date": "2018-06-29",
+            "genres": [
+                "dance pop",
+                "dancehall",
+                "pop",
+                "pop rap",
+                "dance pop",
+                "pop",
+                "uk pop"
+            ],
+            "duration": 221176,
+            "acousticness": 0.0466,
+            "danceability": 7.678,
+            "instrumentalness": 0,
+            "liveness": 0.206,
+            "loudness": -2.862,
+            "speechiness": 0.117,
+            "time_signature": 4,
+            "happiness": 5.167
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "Lucky",
+        "Artist": "Jason Mraz, Colbie Caillat",
+        "Key": "8B",
+        "Energy": 4.726,
+        "Popularity": 7.75,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2000s",
+            "Dance Remixes",
+            "Calm",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0IktbUcnAGrvD03AWnz3Q8",
+            "explicit": false,
+            "album": "We Sing. We Dance. We Steal Things.",
+            "release_date": "2008-05-12",
+            "genres": [
+                "acoustic pop",
+                "dance pop",
+                "neo mellow",
+                "pop",
+                "dance pop",
+                "neo mellow",
+                "pop"
+            ],
+            "duration": 189613,
+            "acousticness": 0.294,
+            "danceability": 6.625,
+            "instrumentalness": 0,
+            "liveness": 0.151,
+            "loudness": -8.7,
+            "speechiness": 0.0369,
+            "time_signature": 4,
+            "happiness": 7.021000000000001
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "Yeah! (feat. Lil Jon & Ludacris)",
+        "Artist": "Usher, Lil Jon, Ludacris",
+        "Key": "10B",
+        "Energy": 8.119,
+        "Popularity": 8.649999999999999,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2000s",
+            "Hip Hop",
+            "Nostalgic",
+            "EDM",
+            "Romantic & Slow Dance",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5rb9QrpfcKFHM1EUbSIurX",
+            "explicit": false,
+            "album": "Confessions (Expanded Edition)",
+            "release_date": "2004-03-23",
+            "genres": [
+                "atl hip hop",
+                "contemporary r&b",
+                "dance pop",
+                "pop",
+                "r&b",
+                "rap",
+                "south carolina hip hop",
+                "urban contemporary",
+                "atl hip hop",
+                "crunk",
+                "dance pop",
+                "dirty south rap",
+                "old school atlanta hip hop",
+                "pop rap",
+                "southern hip hop",
+                "trap",
+                "atl hip hop",
+                "dance pop",
+                "dirty south rap",
+                "hip hop",
+                "old school atlanta hip hop",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap"
+            ],
+            "duration": 250373,
+            "acousticness": 0.0183,
+            "danceability": 9.046,
+            "instrumentalness": 0,
+            "liveness": 0.0388,
+            "loudness": -4.699,
+            "speechiness": 0.112,
+            "time_signature": 4,
+            "happiness": 6.247
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "Latinos",
+        "Artist": "Proyecto Uno",
+        "Key": "9B",
+        "Energy": 8.443,
+        "Popularity": 5.7700000000000005,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "90s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6RpkUBv1KKsJBWf3gmQ1R9",
+            "explicit": false,
+            "album": "Latinos",
+            "release_date": "1998",
+            "genres": [
+                "latin house",
+                "salsa",
+                "tropical"
+            ],
+            "duration": 329440,
+            "acousticness": 0.118,
+            "danceability": 8.614,
+            "instrumentalness": 0,
+            "liveness": 0.0638,
+            "loudness": -7.148,
+            "speechiness": 0.123,
+            "time_signature": 4,
+            "happiness": 8.370999999999999
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Party Animal",
+        "Artist": "Charly Black, Luis Fonsi",
+        "Key": "8B",
+        "Energy": 8.821,
+        "Popularity": 6.94,
+        "BPM": 101,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Dance Remixes",
+            "Latin",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5vc9YsAEBWbRVvgKUcA5vs",
+            "explicit": false,
+            "album": "Party Animal",
+            "release_date": "2017-09-15",
+            "genres": [
+                "dancehall",
+                "jamaican dancehall",
+                "latin pop",
+                "puerto rican pop"
+            ],
+            "duration": 195813,
+            "acousticness": 0.0248,
+            "danceability": 7.516,
+            "instrumentalness": 0,
+            "liveness": 0.251,
+            "loudness": -3.922,
+            "speechiness": 0.046,
+            "time_signature": 4,
+            "happiness": 8.559999999999999
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "Low (feat. T-Pain)",
+        "Artist": "Flo Rida, T-Pain",
+        "Key": "6A",
+        "Energy": 6.481,
+        "Popularity": 8.469999999999999,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2000s",
+            "Hip Hop",
+            "EDM",
+            "Romantic & Slow Dance",
+            "Pop",
+            "Dance Remixes",
+            "Happy",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "0CAfXk7DXMnon4gLudAp7J",
+            "explicit": false,
+            "album": "Mail on Sunday",
+            "release_date": "2008-03-17",
+            "genres": [
+                "dance pop",
+                "miami hip hop",
+                "pop",
+                "pop rap",
+                "dance pop",
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "r&b",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "urban contemporary"
+            ],
+            "duration": 231400,
+            "acousticness": 0.0928,
+            "danceability": 9.262,
+            "instrumentalness": 0,
+            "liveness": 0.139,
+            "loudness": -5.64,
+            "speechiness": 0.0791,
+            "time_signature": 4,
+            "happiness": 3.7359999999999998
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "Shake Ya Boom Boom",
+        "Artist": "Static & Ben El, Black Eyed Peas",
+        "Key": "3B",
+        "Energy": 8.821,
+        "Popularity": 4.42,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Dance Remixes",
+            "Hip Hop",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6opDlKt74unYFeu9jIfc0k",
+            "explicit": false,
+            "album": "Shake Ya Boom Boom",
+            "release_date": "2020-10-30",
+            "genres": [
+                "israeli pop",
+                "jewish pop",
+                "dance pop",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 201143,
+            "acousticness": 0.071,
+            "danceability": 9.253,
+            "instrumentalness": 0,
+            "liveness": 0.0623,
+            "loudness": -3.946,
+            "speechiness": 0.15,
+            "time_signature": 4,
+            "happiness": 5.509
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "אפס מאמץ",
+        "Artist": "Static & Ben El, Netta",
+        "Key": "11A",
+        "Energy": 6.255999999999999,
+        "Popularity": 5.59,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2liUMhNvpAxRNVAGnz8jNJ",
+            "explicit": false,
+            "album": "שבעה ירחים",
+            "release_date": "2021-07-06",
+            "genres": [
+                "israeli pop",
+                "jewish pop",
+                "israeli pop"
+            ],
+            "duration": 200143,
+            "acousticness": 0.113,
+            "danceability": 8.623,
+            "instrumentalness": 0.0103,
+            "liveness": 0.0673,
+            "loudness": -6.289,
+            "speechiness": 0.0458,
+            "time_signature": 4,
+            "happiness": 6.364
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Like This Like That (Intro)",
+        "Artist": "Offer Nissim, Meital De Razon",
+        "Key": "11B",
+        "Energy": 9.487,
+        "Popularity": 3.88,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "EDM",
+            "Fight & Fog",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6WZtgA0o3aT97CplbouJMe",
+            "explicit": true,
+            "album": "Happy Pink Purim",
+            "release_date": "2022-03-17",
+            "genres": [
+                "circuit",
+                "tribal house",
+                "vocal house"
+            ],
+            "duration": 355781,
+            "acousticness": 0.0205,
+            "danceability": 7.156000000000001,
+            "instrumentalness": 0.471,
+            "liveness": 0.0512,
+            "loudness": -3.029,
+            "speechiness": 0.0477,
+            "time_signature": 4,
+            "happiness": 1.4797
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "הפינאלי",
+        "Artist": "Subliminal, The Shadow",
+        "Key": "3B",
+        "Energy": 7.912,
+        "Popularity": 4.51,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2000s",
+            "Israeli - Kibutz",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4OiJyTSdbVnET1lCCxTHRA",
+            "explicit": false,
+            "album": "האור והצל",
+            "release_date": "2002-01-01",
+            "genres": [
+                "israeli hip hop",
+                "israeli hip hop"
+            ],
+            "duration": 248600,
+            "acousticness": 0.0175,
+            "danceability": 8.704,
+            "instrumentalness": 0,
+            "liveness": 0.747,
+            "loudness": -4.639,
+            "speechiness": 0.19,
+            "time_signature": 4,
+            "happiness": 9.568
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "Mi Gente",
+        "Artist": "J Balvin, Willy William",
+        "Key": "1A",
+        "Energy": 7.308999999999999,
+        "Popularity": 7.03,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Latin",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "03aENfSuuy3VS0sbgH7u1D",
+            "explicit": false,
+            "album": "Mi Gente",
+            "release_date": "2017-06-30",
+            "genres": [
+                "reggaeton",
+                "reggaeton colombiano",
+                "trap latino",
+                "urbano latino"
+            ],
+            "duration": 189029,
+            "acousticness": 0.0178,
+            "danceability": 5.932,
+            "instrumentalness": 1.34e-05,
+            "liveness": 0.134,
+            "loudness": -4.862,
+            "speechiness": 0.0914,
+            "time_signature": 4,
+            "happiness": 3.781
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "Hips Don't Lie (feat. Wyclef Jean)",
+        "Artist": "Shakira, Wyclef Jean",
+        "Key": "6A",
+        "Energy": 8.416,
+        "Popularity": 8.92,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2000s",
+            "Dance Remixes",
+            "Latin",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3ZFTkvIE7kyPt6Nu3PEa7V",
+            "explicit": false,
+            "album": "Oral Fixation, Vol. 2 (Expanded Edition)",
+            "release_date": "2005-11-28",
+            "genres": [
+                "colombian pop",
+                "dance pop",
+                "latin pop",
+                "pop",
+                "rap kreyol"
+            ],
+            "duration": 218093,
+            "acousticness": 0.284,
+            "danceability": 8.002,
+            "instrumentalness": 0,
+            "liveness": 0.405,
+            "loudness": -5.892,
+            "speechiness": 0.0707,
+            "time_signature": 4,
+            "happiness": 7.822
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "Despacito - Remix",
+        "Artist": "Luis Fonsi, Daddy Yankee, Justin Bieber",
+        "Key": "10B",
+        "Energy": 8.344,
+        "Popularity": 7.66,
+        "BPM": 89,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Hip Hop",
+            "Latin",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6rPO02ozF3bM7NnOV4h6s2",
+            "explicit": false,
+            "album": "Despacito Feat. Justin Bieber (Remix)",
+            "release_date": "2017-04-17",
+            "genres": [
+                "latin pop",
+                "puerto rican pop",
+                "latin hip hop",
+                "reggaeton",
+                "trap latino",
+                "urbano latino",
+                "canadian pop",
+                "pop"
+            ],
+            "duration": 228827,
+            "acousticness": 0.228,
+            "danceability": 6.877000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0967,
+            "loudness": -4.353,
+            "speechiness": 0.167,
+            "time_signature": 4,
+            "happiness": 8.344
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "Single Ladies (Put a Ring on It)",
+        "Artist": "Beyoncé",
+        "Key": "3B",
+        "Energy": 6.255999999999999,
+        "Popularity": 7.39,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2000s",
+            "Romantic & Slow Dance",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5R9a4t5t5O0IsznsrKPVro",
+            "explicit": false,
+            "album": "I AM...SASHA FIERCE",
+            "release_date": "2008-11-17",
+            "genres": [
+                "pop",
+                "r&b"
+            ],
+            "duration": 193213,
+            "acousticness": 0.0383,
+            "danceability": 4.834,
+            "instrumentalness": 0,
+            "liveness": 0.188,
+            "loudness": -5.293,
+            "speechiness": 0.296,
+            "time_signature": 4,
+            "happiness": 3.4480000000000004
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "Crazy In Love (feat. Jay-Z)",
+        "Artist": "Beyoncé, JAY-Z",
+        "Key": "10A",
+        "Energy": 7.93,
+        "Popularity": 8.290000000000001,
+        "BPM": 99,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2000s",
+            "Mad",
+            "Hip Hop",
+            "Romantic & Slow Dance",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5IVuqXILoxVWvWEPm82Jxr",
+            "explicit": false,
+            "album": "Dangerously In Love",
+            "release_date": "2003-06-24",
+            "genres": [
+                "pop",
+                "r&b",
+                "east coast hip hop",
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "rap"
+            ],
+            "duration": 236133,
+            "acousticness": 0.00249,
+            "danceability": 6.814,
+            "instrumentalness": 0,
+            "liveness": 0.0715,
+            "loudness": -6.596,
+            "speechiness": 0.226,
+            "time_signature": 4,
+            "happiness": 7.1290000000000004
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "No Money",
+        "Artist": "Galantis",
+        "Key": "2A",
+        "Energy": 9.244,
+        "Popularity": 7.3,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Dance Remixes",
+            "EDM",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0gb1J5UrTpzaU1s3nupgCd",
+            "explicit": false,
+            "album": "No Money",
+            "release_date": "2016-04-01",
+            "genres": [
+                "dance pop",
+                "edm",
+                "pop",
+                "pop dance"
+            ],
+            "duration": 189127,
+            "acousticness": 0.0282,
+            "danceability": 7.039000000000001,
+            "instrumentalness": 0.00762,
+            "liveness": 0.24,
+            "loudness": -4.014,
+            "speechiness": 0.0397,
+            "time_signature": 4,
+            "happiness": 8.227
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "Milkshake",
+        "Artist": "Boostereo, i-La",
+        "Key": "2A",
+        "Energy": 8.218,
+        "Popularity": 6.040000000000001,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2tMHRV2PEK4tXeLmL0GfJh",
+            "explicit": false,
+            "album": "Milkshake",
+            "release_date": "2022-06-16",
+            "genres": [
+                "covertronica",
+                "covertronica"
+            ],
+            "duration": 147581,
+            "acousticness": 0.049,
+            "danceability": 9.109,
+            "instrumentalness": 0.0027,
+            "liveness": 0.126,
+            "loudness": -4.242,
+            "speechiness": 0.164,
+            "time_signature": 4,
+            "happiness": 8.668
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "On The Floor",
+        "Artist": "Jennifer Lopez, Pitbull",
+        "Key": "5A",
+        "Energy": 7.993,
+        "Popularity": 5.86,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Dance Remixes",
+            "Hip Hop",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3STTVKfJGTdhbg5aLppEzX",
+            "explicit": false,
+            "album": "LOVE? (Deluxe Edition)",
+            "release_date": "2011-01-01",
+            "genres": [
+                "dance pop",
+                "pop",
+                "urban contemporary",
+                "dance pop",
+                "miami hip hop",
+                "pop"
+            ],
+            "duration": 284867,
+            "acousticness": 0.108,
+            "danceability": 7.57,
+            "instrumentalness": 0.000467,
+            "liveness": 0.069,
+            "loudness": -5.199,
+            "speechiness": 0.0479,
+            "time_signature": 4,
+            "happiness": 6.319
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "Work - R3hab Remix",
+        "Artist": "Rihanna, Drake, R3HAB",
+        "Key": "3A",
+        "Energy": 8.236,
+        "Popularity": 5.5,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Club-Hotel",
+            "Hip Hop",
+            "EDM",
+            "Pop",
+            "Dance Remixes",
+            "Happy",
+            "Fight & Fog",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "63OshgWbxCtI1WHb5C0Txd",
+            "explicit": true,
+            "album": "Work (Remixes)",
+            "release_date": "2016-03-18",
+            "genres": [
+                "barbadian pop",
+                "pop",
+                "urban contemporary",
+                "canadian hip hop",
+                "canadian pop",
+                "hip hop",
+                "rap",
+                "toronto rap",
+                "dutch house",
+                "edm",
+                "electro house",
+                "pop dance",
+                "progressive electro house",
+                "slap house"
+            ],
+            "duration": 219400,
+            "acousticness": 0.0125,
+            "danceability": 7.353999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.332,
+            "loudness": -5.378,
+            "speechiness": 0.0601,
+            "time_signature": 4,
+            "happiness": 2.899
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "Worth It (feat. Kid Ink)",
+        "Artist": "Fifth Harmony, Kid Ink",
+        "Key": "4B",
+        "Energy": 7.885,
+        "Popularity": 7.84,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Inspiring",
+            "Girl Power",
+            "Hip Hop",
+            "EDM",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "41Fflg7qHiVOD6dEPvsCzO",
+            "explicit": false,
+            "album": "Reflection (Deluxe)",
+            "release_date": "2015-01-30",
+            "genres": [
+                "girl group",
+                "pop",
+                "talent show",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap"
+            ],
+            "duration": 224573,
+            "acousticness": 0.063,
+            "danceability": 8.956,
+            "instrumentalness": 7.04e-06,
+            "liveness": 0.118,
+            "loudness": -3.865,
+            "speechiness": 0.0882,
+            "time_signature": 4,
+            "happiness": 6.346
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "חצי דפוק",
+        "Artist": "Omer Adam",
+        "Key": "10A",
+        "Energy": 5.1850000000000005,
+        "Popularity": 5.5,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Mizrahit",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6jMCb4UpIBjmiKf6EwVK8u",
+            "explicit": false,
+            "album": "3",
+            "release_date": "2021-08-03",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi"
+            ],
+            "duration": 177875,
+            "acousticness": 0.101,
+            "danceability": 9.127,
+            "instrumentalness": 1.18e-05,
+            "liveness": 0.109,
+            "loudness": -9.638,
+            "speechiness": 0.126,
+            "time_signature": 4,
+            "happiness": 3.43
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "מלכת השושנים - Remix",
+        "Artist": "Eden Ben Zaken, Yinon Yahel, MOR AVRAHAMI",
+        "Key": "11A",
+        "Energy": 9.514,
+        "Popularity": 3.43,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "EDM",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "34MIo1OSbErxxrL90EngGw",
+            "explicit": false,
+            "album": "מלכת השושנים",
+            "release_date": "2015",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "circuit",
+                "vocal house",
+                "circuit"
+            ],
+            "duration": 234384,
+            "acousticness": 0.00751,
+            "danceability": 7.4799999999999995,
+            "instrumentalness": 0.071,
+            "liveness": 0.106,
+            "loudness": -4.792,
+            "speechiness": 0.0492,
+            "time_signature": 4,
+            "happiness": 7.174
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "Rock This Party - Everybody Dance Now",
+        "Artist": "Bob Sinclar, Cutee B., DollarMan, Big Ali, Makedah",
+        "Key": "7A",
+        "Energy": 8.407,
+        "Popularity": 7.39,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2000s",
+            "EDM",
+            "Club-Hotel",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0Qn0i8df7Q76ej3RAXAtI2",
+            "explicit": false,
+            "album": "Rock This Party (Everybody Dance Now)",
+            "release_date": "2006-08-22",
+            "genres": [
+                "disco house",
+                "filter house"
+            ],
+            "duration": 245467,
+            "acousticness": 0.0714,
+            "danceability": 9.037,
+            "instrumentalness": 0,
+            "liveness": 0.0509,
+            "loudness": -3.708,
+            "speechiness": 0.122,
+            "time_signature": 4,
+            "happiness": 9.118
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "הזוג הזה",
+        "Artist": "Mergui",
+        "Key": "4A",
+        "Energy": 5.9590000000000005,
+        "Popularity": 5.2299999999999995,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4wsc8OzliQP9P2ZiuevaBn",
+            "explicit": false,
+            "album": "הזוג הזה",
+            "release_date": "2019-01-06",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 193860,
+            "acousticness": 0.0865,
+            "danceability": 7.894,
+            "instrumentalness": 0,
+            "liveness": 0.0627,
+            "loudness": -10.247,
+            "speechiness": 0.0601,
+            "time_signature": 4,
+            "happiness": 8.983
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "Dance Monkey - Remix",
+        "Artist": "Ueré Romano, JOMAQ",
+        "Key": "2A",
+        "Energy": 9.199,
+        "Popularity": 5.05,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "0ISdQMqbIRJSAND66brUDu",
+            "explicit": false,
+            "album": "Dance Monkey (Remix)",
+            "release_date": "2020-04-03",
+            "genres": [],
+            "duration": 169524,
+            "acousticness": 0.0103,
+            "danceability": 6.58,
+            "instrumentalness": 0.0276,
+            "liveness": 0.279,
+            "loudness": -4.699,
+            "speechiness": 0.0415,
+            "time_signature": 4,
+            "happiness": 5.635
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "סיבובים",
+        "Artist": "Eden Hason",
+        "Key": "2A",
+        "Energy": 8.074,
+        "Popularity": 4.87,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5x7hQIrz3FWrJj9x0u9L0u",
+            "explicit": false,
+            "album": "אלבום 2",
+            "release_date": "2021-12-01",
+            "genres": [
+                "israeli mediterranean"
+            ],
+            "duration": 185400,
+            "acousticness": 0.135,
+            "danceability": 8.992,
+            "instrumentalness": 2.95e-06,
+            "liveness": 0.0754,
+            "loudness": -4.2,
+            "speechiness": 0.0517,
+            "time_signature": 4,
+            "happiness": 7.939
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "I Like To Move It",
+        "Artist": "will.i.am",
+        "Key": "9A",
+        "Energy": 8.119,
+        "Popularity": 7.4799999999999995,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2000s",
+            "Dance Remixes",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4bAFo6r2ODMDoqM5YHV2gM",
+            "explicit": false,
+            "album": "Madagascar: Escape 2 Africa (Music From The Motion Picture)",
+            "release_date": "2008-11-04",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 221467,
+            "acousticness": 0.428,
+            "danceability": 8.578,
+            "instrumentalness": 0,
+            "liveness": 0.0989,
+            "loudness": -5.277,
+            "speechiness": 0.0437,
+            "time_signature": 4,
+            "happiness": 9.549999999999999
+        }
+    },
+    {
+        "#": 58,
+        "Track Title": "Temperature",
+        "Artist": "Sean Paul",
+        "Key": "8A",
+        "Energy": 6.3999999999999995,
+        "Popularity": 8.469999999999999,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2000s",
+            "Dance Remixes",
+            "Hip Hop",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0k2GOhqsrxDTAbFFSdNJjT",
+            "explicit": false,
+            "album": "The Trinity",
+            "release_date": "2005-09-26",
+            "genres": [
+                "dance pop",
+                "dancehall",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 218573,
+            "acousticness": 0.106,
+            "danceability": 9.559,
+            "instrumentalness": 0,
+            "liveness": 0.0712,
+            "loudness": -4.675,
+            "speechiness": 0.0685,
+            "time_signature": 4,
+            "happiness": 8.398
+        }
+    },
+    {
+        "#": 59,
+        "Track Title": "Gasolina",
+        "Artist": "Daddy Yankee",
+        "Key": "8B",
+        "Energy": 8.173,
+        "Popularity": 8.649999999999999,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2000s",
+            "Latin",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "228BxWXUYQPJrJYHDLOHkj",
+            "explicit": false,
+            "album": "Barrio Fino (Bonus Track Version)",
+            "release_date": "2004-07-13",
+            "genres": [
+                "latin hip hop",
+                "reggaeton",
+                "trap latino",
+                "urbano latino"
+            ],
+            "duration": 192600,
+            "acousticness": 0.322,
+            "danceability": 8.668,
+            "instrumentalness": 2.69e-06,
+            "liveness": 0.0845,
+            "loudness": -6.543,
+            "speechiness": 0.0614,
+            "time_signature": 4,
+            "happiness": 7.669
+        }
+    },
+    {
+        "#": 60,
+        "Track Title": "Uptown Funk (feat. Bruno Mars)",
+        "Artist": "Mark Ronson, Bruno Mars",
+        "Key": "8B",
+        "Energy": 6.481,
+        "Popularity": 8.649999999999999,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Dance Remixes",
+            "Romantic & Slow Dance",
+            "Pop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "32OlwWuMpZ6b0aN2RZOeMS",
+            "explicit": true,
+            "album": "Uptown Special",
+            "release_date": "2015-01-12",
+            "genres": [
+                "pop soul",
+                "dance pop",
+                "pop"
+            ],
+            "duration": 269667,
+            "acousticness": 0.00801,
+            "danceability": 8.704,
+            "instrumentalness": 8.15e-05,
+            "liveness": 0.0344,
+            "loudness": -7.223,
+            "speechiness": 0.0824,
+            "time_signature": 4,
+            "happiness": 9.352
+        }
+    },
+    {
+        "#": 61,
+        "Track Title": "חברות שלך",
+        "Artist": "Omer Adam",
+        "Key": "8A",
+        "Energy": 5.59,
+        "Popularity": 1.0,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Mizrahit",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3jKnBekjylYA4yGtVegX2Z",
+            "explicit": false,
+            "album": "עומר",
+            "release_date": "2020-01-01",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi"
+            ],
+            "duration": 206523,
+            "acousticness": 0.315,
+            "danceability": 6.255999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.164,
+            "loudness": -6.403,
+            "speechiness": 0.253,
+            "time_signature": 4,
+            "happiness": 7.452999999999999
+        }
+    },
+    {
+        "#": 62,
+        "Track Title": "יהלומים - BLING BLING",
+        "Artist": "Noa Kirel",
+        "Key": "7A",
+        "Energy": 7.588,
+        "Popularity": 5.05,
+        "BPM": 146,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7v63pRo1RXcYzrCxaMkGc5",
+            "explicit": false,
+            "album": "יהלומים - BLING BLING",
+            "release_date": "2021-03-07",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 185548,
+            "acousticness": 0.118,
+            "danceability": 7.353999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.13,
+            "loudness": -4.917,
+            "speechiness": 0.0379,
+            "time_signature": 4,
+            "happiness": 7.138000000000001
+        }
+    },
+    {
+        "#": 63,
+        "Track Title": "אנג'ל",
+        "Artist": "Mergui",
+        "Key": "10B",
+        "Energy": 6.481,
+        "Popularity": 4.24,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2KpvlQWTbTvTuj4hfsrUSy",
+            "explicit": false,
+            "album": "אנג'ל",
+            "release_date": "2021-07-04",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 198000,
+            "acousticness": 0.102,
+            "danceability": 5.914000000000001,
+            "instrumentalness": 3.21e-05,
+            "liveness": 0.0778,
+            "loudness": -5.711,
+            "speechiness": 0.0632,
+            "time_signature": 4,
+            "happiness": 4.402
+        }
+    },
+    {
+        "#": 64,
+        "Track Title": "Right Round",
+        "Artist": "Flo Rida",
+        "Key": "9B",
+        "Energy": 7.048,
+        "Popularity": 8.11,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2000s",
+            "Dance Remixes",
+            "Hip Hop",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3GpbwCm3YxiWDvy29Uo3vP",
+            "explicit": false,
+            "album": "R.O.O.T.S. (Route of Overcoming the Struggle)",
+            "release_date": "2009-03-30",
+            "genres": [
+                "dance pop",
+                "miami hip hop",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 204640,
+            "acousticness": 0.009,
+            "danceability": 7.4799999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.232,
+            "loudness": -6.852,
+            "speechiness": 0.0551,
+            "time_signature": 4,
+            "happiness": 7.345
+        }
+    },
+    {
+        "#": 65,
+        "Track Title": "...Baby One More Time",
+        "Artist": "Britney Spears",
+        "Key": "8A",
+        "Energy": 7.2909999999999995,
+        "Popularity": 8.379999999999999,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "90s",
+            "Dance Remixes",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3MjUtNVVq3C8Fn0MP3zhXa",
+            "explicit": false,
+            "album": "...Baby One More Time (Digital Deluxe Version)",
+            "release_date": "1999-01-12",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 211067,
+            "acousticness": 0.202,
+            "danceability": 7.831,
+            "instrumentalness": 0.000131,
+            "liveness": 0.443,
+            "loudness": -5.745,
+            "speechiness": 0.0307,
+            "time_signature": 4,
+            "happiness": 9.163
+        }
+    },
+    {
+        "#": 66,
+        "Track Title": "חתונת השנה",
+        "Artist": "Itay Levi",
+        "Key": "4B",
+        "Energy": 9.19,
+        "Popularity": 5.05,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Mizrahit",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "3TLFXTudEoBUK4UbEqo3gv",
+            "explicit": false,
+            "album": "שורדים אהבה",
+            "release_date": "2017-07-16",
+            "genres": [
+                "israeli mediterranean",
+                "mizrahi"
+            ],
+            "duration": 190273,
+            "acousticness": 0.0902,
+            "danceability": 7.9750000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.0962,
+            "loudness": -2.441,
+            "speechiness": 0.0566,
+            "time_signature": 4,
+            "happiness": 6.076
+        }
+    },
+    {
+        "#": 67,
+        "Track Title": "End of the Road",
+        "Artist": "Noga Erez",
+        "Key": "9B",
+        "Energy": 6.013000000000001,
+        "Popularity": 5.32,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "3Z2QRrA1NktkdDXaoVqrGV",
+            "explicit": false,
+            "album": "KIDS (Bonus Edition)",
+            "release_date": "2021-08-03",
+            "genres": [
+                "israeli hip hop",
+                "israeli indie"
+            ],
+            "duration": 159986,
+            "acousticness": 0.0786,
+            "danceability": 9.091000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0777,
+            "loudness": -7.966,
+            "speechiness": 0.245,
+            "time_signature": 4,
+            "happiness": 5.176
+        }
+    },
+    {
+        "#": 68,
+        "Track Title": "מאורסת",
+        "Artist": "Eden Ben Zaken, Vivo",
+        "Key": "10B",
+        "Energy": 9.028,
+        "Popularity": 4.24,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2ZFMzhUUpVePcFzTg6ms2y",
+            "explicit": false,
+            "album": "לזאת שניצחה",
+            "release_date": "2018-08-30",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop"
+            ],
+            "duration": 218240,
+            "acousticness": 0.237,
+            "danceability": 6.7780000000000005,
+            "instrumentalness": 1.02e-05,
+            "liveness": 0.268,
+            "loudness": -4.21,
+            "speechiness": 0.0456,
+            "time_signature": 4,
+            "happiness": 6.391
+        }
+    },
+    {
+        "#": 69,
+        "Track Title": "Alors On Danse - Radio Edit",
+        "Artist": "Stromae",
+        "Key": "3A",
+        "Energy": 6.31,
+        "Popularity": 1.0,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6LXRvh3S8TB5P1PKy4lY1S",
+            "explicit": false,
+            "album": "Cheese",
+            "release_date": "2010-01-01",
+            "genres": [
+                "belgian pop",
+                "g-house"
+            ],
+            "duration": 206067,
+            "acousticness": 0.0994,
+            "danceability": 8.11,
+            "instrumentalness": 0.00203,
+            "liveness": 0.065,
+            "loudness": -9.206,
+            "speechiness": 0.0793,
+            "time_signature": 4,
+            "happiness": 7.426
+        }
+    },
+    {
+        "#": 70,
+        "Track Title": "פרצופים",
+        "Artist": "Omer Adam",
+        "Key": "1A",
+        "Energy": 5.32,
+        "Popularity": 5.140000000000001,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Mizrahit",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "09PZuKctf7D3RAdaegN7zu",
+            "explicit": false,
+            "album": "פרצופים",
+            "release_date": "2021-04-22",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi"
+            ],
+            "duration": 166134,
+            "acousticness": 0.165,
+            "danceability": 7.0120000000000005,
+            "instrumentalness": 0.0139,
+            "liveness": 0.0634,
+            "loudness": -8.763,
+            "speechiness": 0.298,
+            "time_signature": 4,
+            "happiness": 4.6
+        }
+    },
+    {
+        "#": 71,
+        "Track Title": "Pepas",
+        "Artist": "Farruko",
+        "Key": "9B",
+        "Energy": 7.894,
+        "Popularity": 8.649999999999999,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Latin",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5fwSHlTEWpluwOM0Sxnh5k",
+            "explicit": true,
+            "album": "Pepas",
+            "release_date": "2021-06-24",
+            "genres": [
+                "reggaeton",
+                "trap latino",
+                "urbano latino"
+            ],
+            "duration": 287120,
+            "acousticness": 0.00776,
+            "danceability": 7.8580000000000005,
+            "instrumentalness": 6.98e-05,
+            "liveness": 0.128,
+            "loudness": -3.955,
+            "speechiness": 0.0343,
+            "time_signature": 4,
+            "happiness": 4.978
+        }
+    },
+    {
+        "#": 72,
+        "Track Title": "מגבת באוויר",
+        "Artist": "NOROZ, Ido B & Zooki",
+        "Key": "8B",
+        "Energy": 9.046,
+        "Popularity": 4.779999999999999,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "7qCwgzeZQbNp6VHt9wz8i7",
+            "explicit": false,
+            "album": "מגבת באוויר",
+            "release_date": "2020-07-06",
+            "genres": [
+                "israeli hip hop",
+                "israeli trap",
+                "israeli hip hop",
+                "israeli trap"
+            ],
+            "duration": 171200,
+            "acousticness": 0.146,
+            "danceability": 7.183000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.082,
+            "loudness": -3.436,
+            "speechiness": 0.172,
+            "time_signature": 4,
+            "happiness": 5.968
+        }
+    },
+    {
+        "#": 73,
+        "Track Title": "קוביד 19",
+        "Artist": "Nunu",
+        "Key": "3B",
+        "Energy": 4.186,
+        "Popularity": 4.6899999999999995,
+        "BPM": 117,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7dEtCKY2MthcyP0U6aiMCW",
+            "explicit": false,
+            "album": "סטטוס",
+            "release_date": "2022-07-18",
+            "genres": [
+                "israeli hip hop"
+            ],
+            "duration": 142386,
+            "acousticness": 0.0201,
+            "danceability": 9.676,
+            "instrumentalness": 0,
+            "liveness": 0.0861,
+            "loudness": -9.213,
+            "speechiness": 0.0646,
+            "time_signature": 4,
+            "happiness": 7.804
+        }
+    },
+    {
+        "#": 74,
+        "Track Title": "Banim - Shuzin Remix",
+        "Artist": "Nunu, Shuzin",
+        "Key": "2A",
+        "Energy": 6.985,
+        "Popularity": 2.3499999999999996,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "2fMTk2bUqnfYSw1Oi5JRqF",
+            "explicit": false,
+            "album": "NUNU RMX EP",
+            "release_date": "2022-03-15",
+            "genres": [
+                "israeli hip hop",
+                "israeli indie"
+            ],
+            "duration": 175500,
+            "acousticness": 0.122,
+            "danceability": 5.8870000000000005,
+            "instrumentalness": 0.0105,
+            "liveness": 0.17,
+            "loudness": -8.993,
+            "speechiness": 0.143,
+            "time_signature": 3,
+            "happiness": 5.266
+        }
+    },
+    {
+        "#": 75,
+        "Track Title": "דובשנייה",
+        "Artist": "שחר סאול, Agam Buhbut, NOROZ",
+        "Key": "9B",
+        "Energy": 9.046,
+        "Popularity": 6.040000000000001,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "67PF7VLcYEKKF82ziNf9Ur",
+            "explicit": false,
+            "album": "דובשנייה",
+            "release_date": "2022-01-19",
+            "genres": [
+                "israeli hip hop",
+                "israeli mediterranean",
+                "israeli hip hop",
+                "israeli trap"
+            ],
+            "duration": 152000,
+            "acousticness": 0.318,
+            "danceability": 7.93,
+            "instrumentalness": 0.00238,
+            "liveness": 0.3,
+            "loudness": -4.653,
+            "speechiness": 0.218,
+            "time_signature": 4,
+            "happiness": 7.039000000000001
+        }
+    },
+    {
+        "#": 76,
+        "Track Title": "The Business",
+        "Artist": "Tiësto",
+        "Key": "4A",
+        "Energy": 6.58,
+        "Popularity": 8.379999999999999,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Club-Hotel",
+            "Flying High",
+            "EDM",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "6f3Slt0GbA2bPZlz0aIFXN",
+            "explicit": false,
+            "album": "The Business",
+            "release_date": "2020-09-16",
+            "genres": [
+                "big room",
+                "brostep",
+                "dutch edm",
+                "edm",
+                "house",
+                "pop dance",
+                "slap house",
+                "trance"
+            ],
+            "duration": 164000,
+            "acousticness": 0.414,
+            "danceability": 8.182,
+            "instrumentalness": 0.0192,
+            "liveness": 0.112,
+            "loudness": -7.079,
+            "speechiness": 0.232,
+            "time_signature": 4,
+            "happiness": 3.1149999999999998
+        }
+    },
+    {
+        "#": 77,
+        "Track Title": "Unicorn",
+        "Artist": "Noa Kirel",
+        "Key": "2A",
+        "Energy": 8.812000000000001,
+        "Popularity": 8.290000000000001,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6dUregFbvUNqHP5nphqesK",
+            "explicit": false,
+            "album": "Unicorn",
+            "release_date": "2023-03-08",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 170900,
+            "acousticness": 0.0216,
+            "danceability": 7.1290000000000004,
+            "instrumentalness": 0.00023,
+            "liveness": 0.323,
+            "loudness": -5.499,
+            "speechiness": 0.095,
+            "time_signature": 4,
+            "happiness": 3.538
+        }
+    },
+    {
+        "#": 78,
+        "Track Title": "יצאנו לרקוד",
+        "Artist": "HaDorbanim",
+        "Key": "11B",
+        "Energy": 9.001,
+        "Popularity": 4.96,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2000s",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6G9nY0aJNcQ8BHJjgRCgZ5",
+            "explicit": false,
+            "album": "קובי",
+            "release_date": "2003-01-01",
+            "genres": [
+                "classic israeli pop",
+                "israeli pop"
+            ],
+            "duration": 288680,
+            "acousticness": 0.0179,
+            "danceability": 6.958,
+            "instrumentalness": 0.000367,
+            "liveness": 0.131,
+            "loudness": -6.325,
+            "speechiness": 0.0446,
+            "time_signature": 4,
+            "happiness": 8.713000000000001
+        }
+    },
+    {
+        "#": 79,
+        "Track Title": "לזוז",
+        "Artist": "Hadag Nahash, MC שירי",
+        "Key": "12A",
+        "Energy": 9.361,
+        "Popularity": 4.51,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2000s",
+            "Israeli - Kibutz",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5BmPrfHhXcgsxUASqgXUzD",
+            "explicit": false,
+            "album": "לזוז",
+            "release_date": "2003-01-01",
+            "genres": [
+                "israeli hip hop",
+                "jewish hip hop"
+            ],
+            "duration": 244493,
+            "acousticness": 0.116,
+            "danceability": 8.416,
+            "instrumentalness": 0.000375,
+            "liveness": 0.404,
+            "loudness": -2.343,
+            "speechiness": 0.0707,
+            "time_signature": 4,
+            "happiness": 8.686
+        }
+    },
+    {
+        "#": 80,
+        "Track Title": "לייגל אייז",
+        "Artist": "Hadag Nahash",
+        "Key": "7A",
+        "Energy": 8.209,
+        "Popularity": 3.61,
+        "BPM": 86,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Israeli - Kibutz",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6so3S5seC3pH1Rt78ICIYX",
+            "explicit": false,
+            "album": "שותפים בעם",
+            "release_date": "2016-03-02",
+            "genres": [
+                "israeli hip hop",
+                "jewish hip hop"
+            ],
+            "duration": 183645,
+            "acousticness": 0.152,
+            "danceability": 5.779,
+            "instrumentalness": 1.13e-05,
+            "liveness": 0.126,
+            "loudness": -6.618,
+            "speechiness": 0.0631,
+            "time_signature": 4,
+            "happiness": 7.1290000000000004
+        }
+    },
+    {
+        "#": 81,
+        "Track Title": "בסלון של סלומון",
+        "Artist": "Hadag Nahash",
+        "Key": "8B",
+        "Energy": 8.847999999999999,
+        "Popularity": 4.33,
+        "BPM": 83,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Israeli - Kibutz",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "3cAadzeEPHeT1ev6yl3TZP",
+            "explicit": false,
+            "album": "6",
+            "release_date": "2010-02-01",
+            "genres": [
+                "israeli hip hop",
+                "jewish hip hop"
+            ],
+            "duration": 353040,
+            "acousticness": 0.248,
+            "danceability": 7.759,
+            "instrumentalness": 3.71e-06,
+            "liveness": 0.172,
+            "loudness": -5.267,
+            "speechiness": 0.308,
+            "time_signature": 4,
+            "happiness": 6.616
+        }
+    },
+    {
+        "#": 82,
+        "Track Title": "בואי ונביא לך ת'פאנק",
+        "Artist": "Mercedes Band",
+        "Key": "7B",
+        "Energy": 7.075,
+        "Popularity": 4.87,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6EoJpQBfDfZPM7OqxfAJf1",
+            "explicit": false,
+            "album": "מרסדס בנד",
+            "release_date": "2004-01-01",
+            "genres": [
+                "israeli rock"
+            ],
+            "duration": 270427,
+            "acousticness": 0.000525,
+            "danceability": 7.497999999999999,
+            "instrumentalness": 0.0106,
+            "liveness": 0.105,
+            "loudness": -7.013,
+            "speechiness": 0.0485,
+            "time_signature": 4,
+            "happiness": 8.497
+        }
+    },
+    {
+        "#": 83,
+        "Track Title": "Fly As Me",
+        "Artist": "Bruno Mars, Anderson .Paak, Silk Sonic",
+        "Key": "10B",
+        "Energy": 6.643,
+        "Popularity": 6.67,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Hip Hop",
+            "Calm",
+            "Romantic & Slow Dance",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "7suB6D6uKX5DfPukdGaz0W",
+            "explicit": false,
+            "album": "An Evening With Silk Sonic",
+            "release_date": "2021-11-12",
+            "genres": [
+                "dance pop",
+                "pop",
+                "escape room",
+                "hip hop",
+                "indie soul",
+                "neo soul",
+                "neo soul"
+            ],
+            "duration": 219389,
+            "acousticness": 0.00756,
+            "danceability": 8.047,
+            "instrumentalness": 0,
+            "liveness": 0.0606,
+            "loudness": -8.521,
+            "speechiness": 0.102,
+            "time_signature": 4,
+            "happiness": 5.32
+        }
+    },
+    {
+        "#": 84,
+        "Track Title": "Leave The Door Open",
+        "Artist": "Bruno Mars, Anderson .Paak, Silk Sonic",
+        "Key": "7B",
+        "Energy": 6.544,
+        "Popularity": 7.4799999999999995,
+        "BPM": 148,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Hip Hop",
+            "Calm",
+            "Romantic & Slow Dance",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4pryE6cN2gFL1FVF5fYINl",
+            "explicit": false,
+            "album": "An Evening With Silk Sonic",
+            "release_date": "2021-11-12",
+            "genres": [
+                "dance pop",
+                "pop",
+                "escape room",
+                "hip hop",
+                "indie soul",
+                "neo soul",
+                "neo soul"
+            ],
+            "duration": 242096,
+            "acousticness": 0.182,
+            "danceability": 6.274,
+            "instrumentalness": 0,
+            "liveness": 0.0927,
+            "loudness": -7.964,
+            "speechiness": 0.0324,
+            "time_signature": 4,
+            "happiness": 7.471
+        }
+    },
+    {
+        "#": 85,
+        "Track Title": "Skate",
+        "Artist": "Bruno Mars, Anderson .Paak, Silk Sonic",
+        "Key": "7B",
+        "Energy": 6.382,
+        "Popularity": 6.76,
+        "BPM": 112,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Hip Hop",
+            "Calm",
+            "Romantic & Slow Dance",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3WTWh2WDk4j8GUCGj4xfOd",
+            "explicit": false,
+            "album": "An Evening With Silk Sonic",
+            "release_date": "2021-11-12",
+            "genres": [
+                "dance pop",
+                "pop",
+                "escape room",
+                "hip hop",
+                "indie soul",
+                "neo soul",
+                "neo soul"
+            ],
+            "duration": 203123,
+            "acousticness": 0.037,
+            "danceability": 7.372,
+            "instrumentalness": 0,
+            "liveness": 0.17,
+            "loudness": -8.365,
+            "speechiness": 0.0291,
+            "time_signature": 4,
+            "happiness": 7.282
+        }
+    },
+    {
+        "#": 86,
+        "Track Title": "777",
+        "Artist": "Bruno Mars, Anderson .Paak, Silk Sonic",
+        "Key": "3B",
+        "Energy": 6.598,
+        "Popularity": 6.76,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Hip Hop",
+            "Calm",
+            "Romantic & Slow Dance",
+            "Pop",
+            "Dance Remixes",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "2K6vUau7bnZUamjbRSOOvJ",
+            "explicit": true,
+            "album": "An Evening With Silk Sonic",
+            "release_date": "2021-11-12",
+            "genres": [
+                "dance pop",
+                "pop",
+                "escape room",
+                "hip hop",
+                "indie soul",
+                "neo soul",
+                "neo soul"
+            ],
+            "duration": 165001,
+            "acousticness": 0.00269,
+            "danceability": 8.524000000000001,
+            "instrumentalness": 0.000566,
+            "liveness": 0.335,
+            "loudness": -11.003,
+            "speechiness": 0.0946,
+            "time_signature": 4,
+            "happiness": 9.028
+        }
+    },
+    {
+        "#": 87,
+        "Track Title": "Sugar",
+        "Artist": "Maroon 5",
+        "Key": "3B",
+        "Energy": 8.092,
+        "Popularity": 8.559999999999999,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Pop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "2iuZJX9X9P0GKaE93xcPjk",
+            "explicit": true,
+            "album": "V",
+            "release_date": "2014-09-02",
+            "genres": [
+                "pop"
+            ],
+            "duration": 235493,
+            "acousticness": 0.0591,
+            "danceability": 7.732,
+            "instrumentalness": 0,
+            "liveness": 0.0863,
+            "loudness": -7.055,
+            "speechiness": 0.0334,
+            "time_signature": 4,
+            "happiness": 8.956
+        }
+    },
+    {
+        "#": 88,
+        "Track Title": "This Love",
+        "Artist": "Maroon 5",
+        "Key": "7A",
+        "Energy": 8.758,
+        "Popularity": 8.379999999999999,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2000s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6ECp64rv50XVz93WvxXMGF",
+            "explicit": false,
+            "album": "Songs About Jane: 10th Anniversary Edition",
+            "release_date": "2002",
+            "genres": [
+                "pop"
+            ],
+            "duration": 206200,
+            "acousticness": 0.0525,
+            "danceability": 7.4079999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.093,
+            "loudness": -4.612,
+            "speechiness": 0.0378,
+            "time_signature": 4,
+            "happiness": 8.281
+        }
+    },
+    {
+        "#": 89,
+        "Track Title": "Misery",
+        "Artist": "Maroon 5",
+        "Key": "12A",
+        "Energy": 8.290000000000001,
+        "Popularity": 7.12,
+        "BPM": 103,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0RZyUsKfiC7MtiGKatCtGc",
+            "explicit": false,
+            "album": "Hands All Over (Revised International Standard version)",
+            "release_date": "2010",
+            "genres": [
+                "pop"
+            ],
+            "duration": 216200,
+            "acousticness": 0.000315,
+            "danceability": 7.327,
+            "instrumentalness": 0,
+            "liveness": 0.216,
+            "loudness": -4.874,
+            "speechiness": 0.0424,
+            "time_signature": 4,
+            "happiness": 7.534
+        }
+    },
+    {
+        "#": 90,
+        "Track Title": "Shut Up And Dance With Me",
+        "Artist": "Fun Guns",
+        "Key": "3B",
+        "Energy": 9.298,
+        "Popularity": 7.03,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4KYAV74fzH1rUipmxXejw1",
+            "explicit": false,
+            "album": "Get Up And Move",
+            "release_date": "2015-03-12",
+            "genres": [],
+            "duration": 204159,
+            "acousticness": 0.00834,
+            "danceability": 6.949,
+            "instrumentalness": 0,
+            "liveness": 0.0759,
+            "loudness": -3.137,
+            "speechiness": 0.0346,
+            "time_signature": 4,
+            "happiness": 7.0120000000000005
+        }
+    },
+    {
+        "#": 91,
+        "Track Title": "Bailar (feat. Pitbull & Elvis Crespo)",
+        "Artist": "Deorro, Pitbull, Elvis Crespo",
+        "Key": "11B",
+        "Energy": 9.019,
+        "Popularity": 6.49,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Latin",
+            "Hip Hop",
+            "EDM",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "1A5yplwEk6cJbAL63L6bkp",
+            "explicit": false,
+            "album": "Bailar (feat. Pitbull & Elvis Crespo)",
+            "release_date": "2016-09-02",
+            "genres": [
+                "dutch house",
+                "edm",
+                "electro house",
+                "melbourne bounce",
+                "melbourne bounce international",
+                "pop dance",
+                "progressive electro house",
+                "dance pop",
+                "miami hip hop",
+                "pop",
+                "latin pop",
+                "salsa",
+                "tropical"
+            ],
+            "duration": 160305,
+            "acousticness": 0.0249,
+            "danceability": 7.75,
+            "instrumentalness": 6.48e-06,
+            "liveness": 0.0569,
+            "loudness": -3.738,
+            "speechiness": 0.227,
+            "time_signature": 4,
+            "happiness": 5.977
+        }
+    },
+    {
+        "#": 92,
+        "Track Title": "Might Not Make It Home",
+        "Artist": "Trombone Shorty",
+        "Key": "3B",
+        "Energy": 7.444,
+        "Popularity": 3.43,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2j1XH3zkB29F0xT5Ra5VLJ",
+            "explicit": false,
+            "album": "Lifted",
+            "release_date": "2022-04-29",
+            "genres": [
+                "jazz trombone",
+                "new orleans funk"
+            ],
+            "duration": 199785,
+            "acousticness": 0.0676,
+            "danceability": 8.658999999999999,
+            "instrumentalness": 0.000197,
+            "liveness": 0.301,
+            "loudness": -7.442,
+            "speechiness": 0.0729,
+            "time_signature": 4,
+            "happiness": 9.667
+        }
+    },
+    {
+        "#": 93,
+        "Track Title": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+        "Artist": "Justin Timberlake",
+        "Key": "8B",
+        "Energy": 8.469999999999999,
+        "Popularity": 8.290000000000001,
+        "BPM": 113,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Dance Remixes",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6JV2JOEocMgcZxYSZelKcc",
+            "explicit": false,
+            "album": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+            "release_date": "2016-05-06",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 236002,
+            "acousticness": 0.0123,
+            "danceability": 6.994000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.191,
+            "loudness": -5.715,
+            "speechiness": 0.0751,
+            "time_signature": 4,
+            "happiness": 7.318
+        }
+    },
+    {
+        "#": 94,
+        "Track Title": "SexyBack (feat. Timbaland)",
+        "Artist": "Justin Timberlake, Timbaland",
+        "Key": "9A",
+        "Energy": 6.247,
+        "Popularity": 8.290000000000001,
+        "BPM": 117,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2000s",
+            "Dance Remixes",
+            "Hip Hop",
+            "Pop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0O45fw2L5vsWpdsOdXwNAR",
+            "explicit": true,
+            "album": "FutureSex/LoveSounds",
+            "release_date": "2006-09-12",
+            "genres": [
+                "dance pop",
+                "pop",
+                "dance pop",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 242733,
+            "acousticness": 0.0584,
+            "danceability": 9.703,
+            "instrumentalness": 0,
+            "liveness": 0.0519,
+            "loudness": -5.562,
+            "speechiness": 0.0789,
+            "time_signature": 4,
+            "happiness": 9.676
+        }
+    },
+    {
+        "#": 95,
+        "Track Title": "Mirrors",
+        "Artist": "Justin Timberlake",
+        "Key": "7A",
+        "Energy": 5.6080000000000005,
+        "Popularity": 8.2,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Dance Remixes",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4rHZZAmHpZrA3iH5zx8frV",
+            "explicit": false,
+            "album": "The 20/20 Experience (Deluxe Version)",
+            "release_date": "2013-03-15",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 484147,
+            "acousticness": 0.234,
+            "danceability": 6.1659999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.0946,
+            "loudness": -6.664,
+            "speechiness": 0.0503,
+            "time_signature": 4,
+            "happiness": 5.6080000000000005
+        }
+    },
+    {
+        "#": 96,
+        "Track Title": "Sorry",
+        "Artist": "Justin Bieber",
+        "Key": "8A",
+        "Energy": 7.84,
+        "Popularity": 8.469999999999999,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "09CtPGIpYB4BrO8qb1RGsF",
+            "explicit": false,
+            "album": "Purpose (Deluxe)",
+            "release_date": "2015-11-13",
+            "genres": [
+                "canadian pop",
+                "pop"
+            ],
+            "duration": 200787,
+            "acousticness": 0.0797,
+            "danceability": 6.886,
+            "instrumentalness": 0,
+            "liveness": 0.299,
+            "loudness": -3.669,
+            "speechiness": 0.045,
+            "time_signature": 4,
+            "happiness": 4.6899999999999995
+        }
+    },
+    {
+        "#": 97,
+        "Track Title": "Pokémon Theme",
+        "Artist": "Pokémon",
+        "Key": "9A",
+        "Energy": 8.686,
+        "Popularity": 6.8500000000000005,
+        "BPM": 145,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "90s"
+        ],
+        "Additional Info": {
+            "id": "3OIHgTyQdiAGMmpjQaNxp3",
+            "explicit": false,
+            "album": "Pokemon - 2.b.a. Master - Music From The Hit Tv Series",
+            "release_date": "1999-06-29",
+            "genres": [
+                "cartoon",
+                "otacore"
+            ],
+            "duration": 198187,
+            "acousticness": 0.18,
+            "danceability": 5.869000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.14,
+            "loudness": -6.201,
+            "speechiness": 0.0464,
+            "time_signature": 4,
+            "happiness": 6.111999999999999
+        }
+    },
+    {
+        "#": 98,
+        "Track Title": "חייב למות עליי",
+        "Artist": "Hamsa",
+        "Key": "9B",
+        "Energy": 9.541,
+        "Popularity": 4.33,
+        "BPM": 112,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "04kDcHQzi9kmtl4ViObM2B",
+            "explicit": false,
+            "album": "חמסה",
+            "release_date": "2003-01-01",
+            "genres": [
+                "festigal"
+            ],
+            "duration": 200480,
+            "acousticness": 0.101,
+            "danceability": 7.867,
+            "instrumentalness": 1.19e-05,
+            "liveness": 0.302,
+            "loudness": -3.921,
+            "speechiness": 0.0306,
+            "time_signature": 4,
+            "happiness": 9.145
+        }
+    },
+    {
+        "#": 99,
+        "Track Title": "כוסות ריקות",
+        "Artist": "Static & Ben El, ליאור נרקיס",
+        "Key": "7B",
+        "Energy": 8.767,
+        "Popularity": 4.96,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Mizrahit",
+            "Israeli - Kibutz",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6NzCGR1aXkl3z4tjUph4zH",
+            "explicit": false,
+            "album": "שבעה ירחים",
+            "release_date": "2021-07-06",
+            "genres": [
+                "israeli pop",
+                "jewish pop",
+                "israeli mediterranean",
+                "mizrahi"
+            ],
+            "duration": 134769,
+            "acousticness": 0.0385,
+            "danceability": 7.9750000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.489,
+            "loudness": -5.23,
+            "speechiness": 0.0412,
+            "time_signature": 4,
+            "happiness": 9.693999999999999
+        }
+    },
+    {
+        "#": 100,
+        "Track Title": "לך לישון",
+        "Artist": "Anna Zak",
+        "Key": "11A",
+        "Energy": 6.859,
+        "Popularity": 5.59,
+        "BPM": 117,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Sp- Bach Israel",
+            "2020s",
+            "Israeli - Kibutz",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3fCS3m3uWUgAFm3purs15C",
+            "explicit": false,
+            "album": "לך לישון",
+            "release_date": "2022-01-02",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 158590,
+            "acousticness": 0.0245,
+            "danceability": 7.921,
+            "instrumentalness": 0,
+            "liveness": 0.323,
+            "loudness": -8.138,
+            "speechiness": 0.0422,
+            "time_signature": 4,
+            "happiness": 5.932
+        }
+    }
+]
